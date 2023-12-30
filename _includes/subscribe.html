@@ -20,7 +20,7 @@
     </div>
   </div>
   {% if site.data.settings.mailchimp_settings.mailchimp_background_image %}
-    <div class="subscribe__bg lazy" data-bg="{{site.data.settings.mailchimp_settings.mailchimp_background_image}}"></div>
+    <div class="subscribe__bg lazy" data-bg="{{site.data.settings.mailchimp_settings.mailchimp_background_image | relative_url}}"></div>
   {% endif %}
 </div>
 <!-- end subscribe -->

@@ -16,8 +16,8 @@ Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integ
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/example-1.jpg" loading="lazy" alt="Project">
-    <img src="/images/example-2.jpg" loading="lazy" alt="Project">
+    <img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project">
+    <img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project">
   </div>
   <em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em>
 </div>
