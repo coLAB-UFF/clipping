@@ -9,7 +9,7 @@ image:
 <!-- begin hero image -->
 <div class="hero__image">
   <div class="hero__image__inner">
-    <img class="lazy" data-src="{{page.image}}" alt="{{site.data.settings.title}}">
+    <img class="lazy" data-src="{{page.image | relative_url}}" alt="{{site.data.settings.title}}">
   </div>
 </div>
 <!-- end hero image -->
@@ -34,7 +34,7 @@ image:
           {% if project.image %}
           <div class="project__head">
             <div class="project__image">
-              <img class="lazy" data-src="{{ project.image }}" alt="{{ project.title }}">
+              <img class="lazy" data-src="{{ project.image | relative_url }}" alt="{{ project.title }}">
             </div>
           </div>
           {% endif %}
@@ -45,7 +45,7 @@ image:
               {% endif %}
             </div>
             <h3 class="project__title">
-              <a href="{{ project.url }}" class="project__link">{{ project.title }}</a>
+              <a href="{{ project.url | relative_url }}" class="project__link">{{ project.title }}</a>
             </h3>
             {% if project.summary %}
             <p class="project__excerpt">{{ project.summary }}</p>
