@@ -2,7 +2,7 @@
 title: Teste Reportagem
 subtitle: Reportagem
 summary: Reportagem publicado no Jornal XYZ sobre tal assunto
-client: Jornal XYZ
+client: http://google.com
 tools: 1. Viktor Chagas 2. Outra pessoa
 date: 2023-01-10 08:01:35 +0300
 image: './images/project-5.jpg'
