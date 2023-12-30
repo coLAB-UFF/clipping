@@ -47,7 +47,7 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero_title: Aaron Simons. Building Digital <span><i>Products & Brands</i></span> # Add the "span" tag to highlight text.
+  hero_title: Laboratório de Pesquisa em Comunicação, <span><i>Culturas Políticas</i></span>, e Economia da Colaboração # Add the "span" tag to highlight text.
   hero_description: I’m Aaron, a creative Illustrator & Art Director based in San Francisco. I seek to push the limits of creativity to create high-engaging and memorable interactive experiences.
   hero_image: "/images/01.jpg"
   hero_button_contact: Get In Touch
