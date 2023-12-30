@@ -1,0 +1,152 @@
+#-------------------------------
+# Site Settings
+title: Simpler
+logo: "/images/logo.svg" # You can add own logo. For example "/images/logo.svg".
+logo_dark: "/images/logo-dark.svg"
+description: Simpler – A modern portfolio theme for Jekyll.
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the users can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Author Settings
+author_name: Aaron Simons
+
+
+#-------------------------------
+# Navigation Settings
+menu_settings:
+  menu_items:
+    - title: "Home"
+      url: "/"
+    - title: "About"
+      url: "/about/"
+    - title: "Blog"
+      url: "/blog/"
+    - title: "Projects"
+      url: "/projects/"
+    - title: "Pages"
+      submenu:
+      - url: "/contact/"
+        title: "Contact"
+      - url: "/elements/"
+        title: "Elements"
+
+
+#-------------------------------
+# Social Settings
+social:
+- {icon: "fa-brands fa-twitter", link: "https://twitter.com"}
+- {icon: "fa-brands fa-facebook", link: "https://facebook.com"}
+- {icon: "fa-brands fa-pinterest", link: "https://pinterest.com"}
+
+# Example of adding a new link to the header and footer - {icon: "fa-brands fa-youtube", link: "https://youtube.com"}
+# Other icons can be found at https://fontawesome.com/icons
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero_title: Aaron Simons. Building Digital <span><i>Products & Brands</i></span> # Add the "span" tag to highlight text.
+  hero_description: I’m Aaron, a creative Illustrator & Art Director based in San Francisco. I seek to push the limits of creativity to create high-engaging and memorable interactive experiences.
+  hero_image: "/images/01.jpg"
+  hero_button_contact: Get In Touch
+  hero_button_about: About Me
+
+
+#-------------------------------
+# Projects Settings
+section_projects_title: 👨🏻‍💻 Selected Works
+
+
+#-------------------------------
+# Testimonials Section
+section_testimonial_title: 🙂 What Clients Say
+
+testimonial_items:
+  - name: "Carla Kenter"
+    image: "/images/client-1.jpg"
+    designation: "Professional Artist"
+    link: "https://twitter.com/"
+    content : "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus"
+
+  - name: "Kierra Botosh"
+    image: "/images/client-2.jpg"
+    designation: "Growth & Community"
+    link: "https://facebook.com/"
+    content : "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus"
+
+  - name: "Randy Herwitz"
+    image: "/images/client-3.jpg"
+    designation: "Executive Assistant"
+    link: "https://twitter.com/"
+    content : "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus"
+
+  - name: "Hanna Franci"
+    image: "/images/client-4.jpg"
+    designation: "Product Designer"
+    link: "https://twitter.com/"
+    content : "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus"
+
+
+#-------------------------------
+# Blog Section
+section_blog_title: 📚 Read Latest Posts
+#-------------------------------
+
+
+# Tags Section
+section_tags_title: ✌️ Explore Topics
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp_settings:
+  enable: true
+  mailchimp_title: Get interesting news
+  mailchimp_identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+  mailchimp_input_text: Enter your email address
+  mailchimp_background_image: /images/subscribe-bg.jpg
+
+
+#-------------------------------
+# Footer Settings
+footer_description: I’m Aaron, a creative Illustrator & Art Director based in San Francisco. I seek to push the limits of creativity to create high-engaging and memorable interactive experiences.
+
+
+#-------------------------------
+# Footer Navigation Settings
+footer_menu_settings:
+  menu_items:
+    - title: "Home"
+      url: "/"
+    - title: "About"
+      url: "/about/"
+    - title: "Projects"
+      url: "/projects/"
+    - url: "/blog/"
+      title: "Blog"
+    - url: "/contact/"
+      title: "Contact"
+    - url: "/elements/"
+      title: "Elements"
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: your@email.com # Add your form_id
+  description: Simpler comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+
+# NOTE
+# Simpler theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus_identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google_analytics: # Add your GA Tracking Id
