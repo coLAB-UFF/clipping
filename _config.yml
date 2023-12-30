@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://colab-uff.github.io/clipping" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/clipping" # the subpath of your site, e.g. /blog
+url: "https://colab-uff.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
