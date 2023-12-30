@@ -11,7 +11,7 @@ image: './images/project-5.jpg'
 Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec lacus viverran, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus enim ultrices.
 
 ACESSE O LINK
-<div class="post__share>
+<div class="post__share">
   <ul class="share__list list-reset">
     <li class="share__item"> 
       <a class="share__link share__facebook" href="http://google.com"
