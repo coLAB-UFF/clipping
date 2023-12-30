@@ -18,9 +18,9 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "About"
+    - title: "Sobre"
       url: "/about/"
-    - title: "Projects"
+    - title: "Clipping"
       url: "/projects/"
 
 
@@ -28,8 +28,8 @@ menu_settings:
 # Social Settings
 social:
 - {icon: "fa-brands fa-twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-pinterest", link: "https://pinterest.com"}
+- {icon: "fa-brands fa-instagram", link: "https://instagram.com"}
+- {icon: "fa-brands fa-github", link: "https://github.com"}
 
 # Example of adding a new link to the header and footer - {icon: "fa-brands fa-youtube", link: "https://youtube.com"}
 # Other icons can be found at https://fontawesome.com/icons
@@ -39,16 +39,16 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero_title: Laboratório de Pesquisa em Comunicação, <span><i>Culturas Políticas</i></span>, e Economia da Colaboração # Add the "span" tag to highlight text.
-  hero_description: I’m Aaron, a creative Illustrator & Art Director based in San Francisco. I seek to push the limits of creativity to create high-engaging and memorable interactive experiences.
+  hero_title: coLAB-UFF <span><i>Na Mídia</i></span>
+  hero_description: Portfólio de menções na mídia a estudos e projetos desenvolvidos pelos pesquisadores do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB-UFF)
   hero_image: "/images/01.jpg"
-  hero_button_contact: Get In Touch
-  hero_button_about: About Me
+  hero_button_contact: Entre em Contato
+  hero_button_about: Conheça o coLAB
 
 
 #-------------------------------
 # Projects Settings
-section_projects_title: 👨🏻‍💻 Selected Works
+section_projects_title: 👨🏻‍💻 Menções na Mídia
 
 
 #-------------------------------
@@ -103,7 +103,7 @@ mailchimp_settings:
 
 #-------------------------------
 # Footer Settings
-footer_description: I’m Aaron, a creative Illustrator & Art Director based in San Francisco. I seek to push the limits of creativity to create high-engaging and memorable interactive experiences.
+footer_description: Portfólio de menções na mídia a estudos e projetos desenvolvidos pelos pesquisadores do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB-UFF).
 
 
 #-------------------------------
@@ -112,9 +112,9 @@ footer_menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "About"
+    - title: "Sobre"
       url: "/about/"
-    - title: "Projects"
+    - title: "Clipping"
       url: "/projects/"
 
 
