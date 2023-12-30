@@ -1,9 +1,9 @@
 ---
-title: Wild Nature
-subtitle: Illustration
-summary: Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.
-client: Anvod Studio
-tools: 1. Figma 2. Illustrator 3. Procreate
+title: Teste Reportagem
+subtitle: Reportagem
+summary: Reportagem publicado no Jornal XYZ sobre tal assunto
+client: Jornal XYZ
+tools: 1. Viktor Chagas 2. Outra pessoa
 date: 2023-01-10 08:01:35 +0300
 image: '/images/project-1.jpg'
 ---
