@@ -116,12 +116,6 @@ footer_menu_settings:
       url: "/about/"
     - title: "Projects"
       url: "/projects/"
-    - url: "/blog/"
-      title: "Blog"
-    - url: "/contact/"
-      title: "Contact"
-    - url: "/elements/"
-      title: "Elements"
 
 
 #-------------------------------
