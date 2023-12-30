@@ -15,7 +15,7 @@ Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed l
     <li class="share__item">
       <a class="share__link share__facebook" href="http://google.com"
         onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
-        title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a>
+        title="Link" rel="nofollow">ACESSE O LINK <i class="fa-solid fa-link"></i></a>
     </li></ul></div>
 
 ## The Benefits of Custom Illustrations
