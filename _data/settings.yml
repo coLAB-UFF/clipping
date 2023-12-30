@@ -1,10 +1,10 @@
 #-------------------------------
 # Site Settings
-title: Clipping
-logo: "images/logo_clipping.svg" # You can add own logo. For example "/images/logo.svg".
-logo_dark: "images/logo_clipping_dark.svg"
+title: 
+logo: "/images/logo_clipping.svg" # You can add own logo. For example "/images/logo.svg".
+logo_dark: "/images/logo_clipping_dark.svg"
 description: Reportagens, entrevistas e menções na mídia aos pesquisadores do coLAB-UFF.
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the users can choose the light or dark mode themself.
+color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the users can choose the light or dark mode themself.
 
 
 #-------------------------------
@@ -20,16 +20,8 @@ menu_settings:
       url: "/"
     - title: "About"
       url: "/about/"
-    - title: "Blog"
-      url: "/blog/"
     - title: "Projects"
       url: "/projects/"
-    - title: "Pages"
-      submenu:
-      - url: "/contact/"
-        title: "Contact"
-      - url: "/elements/"
-        title: "Elements"
 
 
 #-------------------------------
