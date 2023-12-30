@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: 
-logo: "/images/logo_midia.svg" # You can add own logo. For example "/images/logo.svg".
+logo: "/images/logo_midia2.svg" # You can add own logo. For example "/images/logo.svg".
 logo_dark: "/images/logo-clipping-dark.svg"
 description: Reportagens, entrevistas e menções na mídia aos pesquisadores do coLAB-UFF.
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the users can choose the light or dark mode themself.
