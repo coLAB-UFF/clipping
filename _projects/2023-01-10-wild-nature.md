@@ -5,7 +5,7 @@ summary: Reportagem publicado no Jornal XYZ sobre tal assunto
 client: Jornal XYZ
 tools: 1. Viktor Chagas 2. Outra pessoa
 date: 2023-01-10 08:01:35 +0300
-image: '/images/project-1.jpg'
+image: 'https://github.com/coLAB-UFF/clipping/blob/fb27dc8edc3f8ab1e20d4333f5445146076aef08/images/project-5.jpg'
 ---
 
 Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec lacus viverran, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus enim ultrices.
