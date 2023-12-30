@@ -3,7 +3,7 @@
 title: 
 logo: "/images/logo_clip.svg" # You can add own logo. For example "/images/logo.svg".
 logo_dark: "/images/logo-clipping-dark.svg"
-description: 
+description: Reportagens, matérias e menções a pesquisadores do coLAB/UFF.
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the users can choose the light or dark mode themself.
 
 
