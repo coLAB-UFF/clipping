@@ -8,7 +8,7 @@ date: 2015-06-17
 image: './images/project-5.jpg'
 ---
 
-RIO - Depois de se tornarem parte da vida cotidiana, os memes estão se tornando também objeto de estudos acadêmicos na área de comunicação. E um projeto do departamento de Estudos Culturais e Mídia da Universidade Federal Fluminense quer aproximar os internautas curiosos de pesquisas aprofundadas sobre o universo dos virais. Estreou na web esta semana o #MUSEUdeMEMES, uma plataforma feita por professores e alunos da universidade que traz referências sobre pesquisas científicas na área.           
+RIO - Depois de se tornarem parte da vida cotidiana, os memes estão se tornando também objeto de estudos acadêmicos na área de comunicação. E um projeto do departamento de Estudos Culturais e Mídia da Universidade Federal Fluminense quer aproximar os internautas curiosos de pesquisas aprofundadas sobre o universo dos virais. Estreou na web esta semana o #MUSEUdeMEMES, uma plataforma feita por professores e alunos da universidade que traz referências sobre pesquisas científicas na área. [...]        
 
 <div class="post__share">
   <ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA 
