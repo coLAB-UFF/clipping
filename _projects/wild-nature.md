@@ -12,7 +12,7 @@ RIO - Depois de se tornarem parte da vida cotidiana, os memes estão se tornando
 
 <div class="post__share">
   <ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA 
-<li class="share__item"> 
+<li class="share__item" style="margin-left: 10px"> 
       <a class="share__link share__facebook" href="
         http://oglobo.globo.com/sociedade/tecnologia/projeto-da-uff-museu-de-memes-cataloga-estudos-academicos-sobre-virais-da-web-16471054
         " onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a>
