@@ -1,9 +1,9 @@
 ---
 title: Projeto da UFF, ‘Museu de memes’ cataloga estudos acadêmicos sobre virais da web
-subtitle: Notícia
+subtitle: Online
 summary: Matéria sobre o projeto MUSEUdeMEMES
 client: O Globo
-tools: 1. Viktor Chagas
+tools: Marina Cohen
 date: 2015-06-17
 image: './images/project-5.jpg'
 ---
