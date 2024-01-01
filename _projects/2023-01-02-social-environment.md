@@ -1,38 +1,15 @@
----
-title: Social Environment
-subtitle: Abstract
-summary: Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc curabitur tortor.
-client: Anvod Studio
-tools: 1. Figma 2. Illustrator 3. Procreate
-date: 2023-01-02 08:01:35 +0300
-image: '/images/project-9.jpg'
----
-
-Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec lacus viverran, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus enim ultrices.
-
-## The Benefits of Custom Illustrations
-
-Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna. Ut orci risus, accumsan porttitor, cursus quis.
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/example-1.jpg" loading="lazy" alt="Project">
-    <img src="/images/example-2.jpg" loading="lazy" alt="Project">
-  </div>
-  <em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em>
-</div>
-
-Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi. Integer lacinia sollicitudin massa. Cras metus. Aenean lectus elit, fermentum non, convallis sagit.
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
->
-> <cite>– George Bernard Shaw</cite>
-
-Nulla quam. Aenean laoreet. Vestibulum nisi lectus, commodo ac, facilisis ac, ultricies eu, pede. Ut orci risus, accumsan porttitor, cursus quis, aliquet eget, justo. Sed pretium blandit orci. Ut eu diam at pede suscipit sodales. Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-
-- Etiam ultrices. Suspendisse in justo massa fusce non tortor.
-- Quisque volutpat condimentum velit class aptent taciti sodales.
-- Aenean lectus elit fermentum non convallis id sagittis neque porttitor.
-- Morbi lectus risus iaculis vel suscipit luctus nostra non massa.
-
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis sem.
+---					
+title:	“O jogo não é apenas lúdico, mas estratégico”, avalia Viktor Chagas
+subtitle:	Online
+summary:	Entrevista com Viktor Chagas
+client: 	Cibercog
+tools:	Renata Monti
+date: 	2017-06-27
+image:	`/images/posts/64.png`
+---					
+					
+Com doutorado em História, Política e Bens Culturais pela Fundação Getúlio Vargas, o pesquisador e professor Viktor Chagas não poderia imaginar que um dia estudaria memes na internet. O fenômeno bem-humorado da web é objeto de pesquisa de um grupo liderado por ele desde 2011 no Departamento de Estudos Culturais e Mídia da Universidade Federal Fluminense. O interesse dos alunos foi tamanho que, em 2015, o grupo criou o #MUSEUdeMEMES on-line. Em entrevista ao Cibercog, ele fala sobre essa expressão cultural: “no Brasil, os memes têm servido fundamentalmente para escoar uma farta produção de opiniões através do recurso ao humor e à ludicidade”, diz.
+					
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="	http://cibercog.naiveheart.org/2017/06/o-jogo-nao-e-apenas-ludico-mas-estrategico-avalia-viktor-chagas/
+onclick=window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>					
+<!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->					
