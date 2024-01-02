@@ -1,5 +1,5 @@
 ---
-title: Insólito: cuando el arte del meme se vuelve ciencia
+title: Insólito - cuando el arte del meme se vuelve ciencia
 subtitle: Online
 summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Sputnik News
