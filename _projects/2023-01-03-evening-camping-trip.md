@@ -5,7 +5,7 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Sputnik News
 tools: Daniela Díaz
 date: 2017-05-19
-image: images/posts/65.png'
+image: 'images/posts/65.png'
 ---
 
 Investigadores de una universidad brasileña crearon un museo virtual de memes con análisis académicos sobre "un nuevo género mediático" que va más allá del sentido de humor y del manejo técnico de edición de imágenes.
