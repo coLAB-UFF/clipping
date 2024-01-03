@@ -1,5 +1,5 @@
 ---
-title: Memes contra el caos: los brasileños combaten la crisis con ingenio
+title: Memes contra el caos - los brasileños combaten la crisis con ingenio
 subtitle: Online
 summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Yahoo Notícias
