@@ -1,5 +1,5 @@
 ---
-title: Quando o efêmero vira memória: conheça o projeto Museu de Memes da UFF – Universidade Federal Fluminense!
+title: Quando o efêmero vira memória - conheça o projeto Museu de Memes da UFF
 subtitle: Online
 summary: Nota sobre o projeto MUSEUdeMEMES
 client: IBRAM

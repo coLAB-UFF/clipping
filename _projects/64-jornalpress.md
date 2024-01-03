@@ -1,5 +1,5 @@
 ---
-title: MEMES: a identidade dos jovens na internet
+title: MEMES - a identidade dos jovens na internet
 subtitle: Online
 summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Jornal Press

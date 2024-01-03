@@ -1,5 +1,5 @@
 ---
-title: “Memes”: se fizessem um com você, tudo bem ou nem pensar?
+title: “Memes” - se fizessem um com você, tudo bem ou nem pensar?
 subtitle: Televisão
 summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Record TV (Fala Que Eu Te Escuto)

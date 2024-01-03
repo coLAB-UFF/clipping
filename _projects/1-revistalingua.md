@@ -1,5 +1,5 @@
 ---
-title: Piada virtual: Como o humor brasileiro tem se adaptado à linguagem das novas mídias
+title: Piada virtual - Como o humor brasileiro tem se adaptado à linguagem das novas mídias
 subtitle: Impresso
 summary: Matéria sobre mídia digital
 client: Revista Língua

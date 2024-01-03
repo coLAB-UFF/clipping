@@ -1,7 +1,7 @@
 ---
-title: Divulgação: memeclube Cersibon
+title: Divulgação - memeclube Cersibon
 subtitle: Online
-summary: Nota sobre uma edição do #memeclube
+summary: Nota sobre uma edição do memeclube
 client: Fanpage Cersibon
 tools: 
 date: c. 2012
