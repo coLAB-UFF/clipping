@@ -1,5 +1,5 @@
 ---
-title: Eleições 2022: como ‘marqueteiros anônimos’ devem dominar campanha e desafiar controle de fake news
+title: Eleições 2022 - como ‘marqueteiros anônimos’ devem dominar campanha e desafiar controle de fake news
 subtitle: Online
 summary: Matéria sobre política e plataformas digitais
 client: BBC Brasil
