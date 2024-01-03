@@ -1,5 +1,5 @@
 ---
-title: Criatividade nos apps de mensagem: até o Padre Cícero ganha representação
+title: Criatividade nos apps de mensagem - até o Padre Cícero ganha representação
 subtitle: Televisão
 summary: Matéria sobre WhatsApp e figurinhas
 client: Rede Globo / CE TV 2ª Edição (Juazeiro do Norte)
