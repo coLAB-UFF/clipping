@@ -5,7 +5,7 @@ summary: Entrevista com Viktor Chagas
 client: PudimCast
 tools: 
 date: 2021-05-01
-image: 'images/posts/138807994_29.png'
+image: 'images/posts/138807994_29.jpg'
 ---
 
 
