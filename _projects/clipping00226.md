@@ -1,10 +1,10 @@
 ---
-title: O que é ‘memecracia’. E como ela afeta o debate político
+title: O que é ‘memecracia’ - E como ela afeta o debate político
 subtitle: Online
 summary: Entrevista com Viktor Chagas
 client: Nexo
 tools: 
-date: 
+date: 2021-12-01
 image: 'images/posts/Screenshot-at-Sep-08-08-57-24-1zsm0a8h715hd515e1my65ufn92e9irebpyqg7bffkh0.png'
 ---
 
