@@ -1,5 +1,5 @@
 ---
-title: ‘Eu era 100% Bolsonaro, depois do vídeo sou 500%’: a reação de grupos bolsonaristas no WhatsApp à reunião ministerial
+title: ‘Eu era 100% Bolsonaro, depois do vídeo sou 500%’ - a reação de grupos bolsonaristas no WhatsApp à reunião ministerial
 subtitle: Online
 summary: Matéria sobre WhatsApp e bolsonarismo
 client: BBC News
