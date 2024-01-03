@@ -4,7 +4,7 @@ subtitle: Podcast
 summary: Entrevista com Viktor Chagas
 client: Podcast Esquina das Ideias
 tools: 
-date: 2021-05
+date: 2021-05-01
 image: 'images/posts/96-1-1y3087ckokkbjj7j2ja4kaextqzigto9hb6nrthk8dwk.png'
 ---
 
