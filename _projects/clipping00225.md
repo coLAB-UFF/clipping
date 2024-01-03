@@ -1,5 +1,5 @@
 ---
-title: ‘Brasil vai virar Argentina’: como país vizinho virou ‘nova Venezuela’ nas redes bolsonaristas
+title: ‘Brasil vai virar Argentina’ - como país vizinho virou ‘nova Venezuela’ nas redes bolsonaristas
 subtitle: Online
 summary: Matéria sobre WhatsApp e bolsonarismo
 client: BBC News Brasil
