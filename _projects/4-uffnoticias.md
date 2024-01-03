@@ -1,5 +1,5 @@
 ---
-title: Rage Comics é tema da terceira edição do #memeclube
+title: Rage Comics é tema da terceira edição do memeclube
 subtitle: Online
 summary: Nota sobre uma edição do #memeclube
 client: UFF Notícias

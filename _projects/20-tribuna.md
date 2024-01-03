@@ -1,5 +1,5 @@
 ---
-title: #partiuhashtag
+title: partiuhashtag
 subtitle: Online
 summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Tribuna de Minas

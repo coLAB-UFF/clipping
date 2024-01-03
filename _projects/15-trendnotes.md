@@ -1,5 +1,5 @@
 ---
-title: UFF lança o #Museu dos Memes
+title: UFF lança o Museu dos Memes
 subtitle: Online
 summary: Nota sobre o projeto MUSEUdeMEMES
 client: TrendNotes

@@ -1,5 +1,5 @@
 ---
-title: Não se engane, o assunto é sério: com recorde de visitantes, ‘museu de memes’ também vira meme
+title: Não se engane, o assunto é sério - com recorde de visitantes, museu de memes também vira meme
 subtitle: Online
 summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Folha de S. Paulo (Hashtag)\

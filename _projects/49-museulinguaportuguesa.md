@@ -1,5 +1,5 @@
 ---
-title: Na @uff_br, docentes e alunos criaram o #MUSEUdosMEMES, um acervo digital que reúne diversos memes…
+title: Na uff_br, docentes e alunos criaram o MUSEUdosMEMES, um acervo digital que reúne diversos memes…
 subtitle: Online
 summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Museu da Língua Portuguesa

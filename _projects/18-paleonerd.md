@@ -1,5 +1,5 @@
 ---
-title: Conheça o #MUSEUdeMEMES
+title: Conheça o MUSEUdeMEMES
 subtitle: Online
 summary: Matéria sobre o projeto MUSEUdeMEMES
 client: PaleoNerd

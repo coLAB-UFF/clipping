@@ -1,5 +1,5 @@
 ---
-title: Universidade Federal Fluminense cria o ‘#museu de memes’; visite
+title: Universidade Federal Fluminense cria o museu de memes - visite
 subtitle: Online
 summary: Nota sobre o projeto MUSEUdeMEMES
 client: Catraca Livre (Ao Quadrado)

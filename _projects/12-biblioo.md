@@ -1,5 +1,5 @@
 ---
-title: #MuseuDeMemes
+title: MuseuDeMemes
 subtitle: Online
 summary: Nota sobre o projeto MUSEUdeMEMES
 client: Biblioo

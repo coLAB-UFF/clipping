@@ -1,5 +1,5 @@
 ---
-title: #MuseuDeMemes: Os fenômenos da internet entram para a história e viram objeto de estudo aprofundado neste projeto
+title: MuseuDeMemes - Os fenômenos da internet entram para a história e viram objeto de estudo aprofundado neste projeto
 subtitle: Online
 summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Brasil Post

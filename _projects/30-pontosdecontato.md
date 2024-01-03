@@ -1,5 +1,5 @@
 ---
-title: Entrevista exclusiva sobre o webmuseu #MUSEUdeMEMES
+title: Entrevista exclusiva sobre o webmuseu MUSEUdeMEMES
 subtitle: Online
 summary: Entrevista com Viktor Chagas
 client: Pontos de Contato
