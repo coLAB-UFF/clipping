@@ -1,5 +1,5 @@
 ---
-title: ‘Capitão, é quarta-feira’: Como um meme traduziu a exaustão contemporânea
+title: ‘Capitão, é quarta-feira’ - Como um meme traduziu a exaustão contemporânea
 subtitle: Online
 summary: Matéria sobre memes
 client: O Globo
