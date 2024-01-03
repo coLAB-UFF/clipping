@@ -5,7 +5,7 @@ summary: Episódio de série documental
 client: Futura - Idade Mídia
 tools: 
 date: 2021-10-11
-image: 'images/posts/FBcvX_9XsAMTJPo.png'
+image: 'images/posts/FBcvX_9XsAMTJPo.jpeg'
 ---
 
 
