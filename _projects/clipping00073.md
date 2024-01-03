@@ -4,7 +4,7 @@ subtitle: Online
 summary: Nota sobre uma edição do memeclube
 client: Fanpage Cersibon
 tools: 
-date: c. 2012
+date: 2012-01-01
 image: 'images/posts/3.png'
 ---
 
