@@ -5,7 +5,7 @@ summary: Matéria sobre TikTok e influenciadores religiosos
 client: A Pública
 tools: Mariama Correia e Nathallia Fonseca
 date: 2022-09-01
-image: 'images/posts/https://apublica.org/sentinela/2022/09/tiktokers-evangelicos-apoiam-bolsonaro-enquanto-lula-tenta-conquistar-jovens-cristaos/'
+image: 'images/posts/clip00228.png'
 ---
 
 Vídeos com cortes rápidos, trilha sonora animada, dancinhas e conteúdos viciantes de fácil viralização. O TikTok é uma plataforma de massas – que bateu 1 bilhão de usuários ativos no mundo em 2021, sendo o Brasil o país que mais usa a ferramenta -, mas também de nichos, graças a um algoritmo de recomendação eficaz em personalizar a oferta de conteúdos a partir dos interesses do usuário.
