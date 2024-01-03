@@ -4,7 +4,7 @@ subtitle: Online
 summary: Matéria sobre exposição do #MUSEUdeMEMES
 client: Carta Capital / Biblioo
 tools: 
-date: 
+date: 2019-05-01
 image: 'images/posts/59-1-1y307i3y121rp45iwl1d7c488uikzgxeaa9d2kobgspw.png'
 ---
 
