@@ -4,7 +4,7 @@ subtitle: Podcast
 summary: Matéria sobre memes
 client: INCT.dd
 tools: 
-date: 2018-03
+date: 2018-03-01
 image: 'images/posts/8-1-1y306goo0y6jdj2jwg6zy287k28djo3hop0yg1eh378k.png'
 ---
 
