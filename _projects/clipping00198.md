@@ -1,5 +1,5 @@
 ---
-title: ‘Captain, it’s Wednesday’: How a meme translated contemporary exhaustion
+title: ‘Captain, it’s Wednesday’ - How a meme translated contemporary exhaustion
 subtitle: Online
 summary: Matéria sobre memes
 client: Play Crazy Game
