@@ -1,5 +1,5 @@
 ---
-title: Shittrap: entenda esse estilo musical ofensivo
+title: Shittrap - entenda esse estilo musical ofensivo
 subtitle: Online
 summary: Matéria sobre shittrap e memes
 client: Revista Gama / Nexo
