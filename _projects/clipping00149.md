@@ -1,5 +1,5 @@
 ---
-title: Memes S.A.: por que o brasileiro é tão bom em fazer rir?
+title: Memes S.A. - por que o brasileiro é tão bom em fazer rir?
 subtitle: Online
 summary: Matéria sobre memes
 client: R7
