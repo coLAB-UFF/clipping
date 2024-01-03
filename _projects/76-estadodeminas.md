@@ -1,5 +1,5 @@
 ---
-title: Memes contra o caos: brasileiros lidam com a crise com criatividade
+title: Memes contra o caos - brasileiros lidam com a crise com criatividade
 subtitle: Online
 summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Estado de Minas
