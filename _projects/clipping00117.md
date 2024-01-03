@@ -1,5 +1,5 @@
 ---
-title: La reforma 2.0: la estrategia de comunicación de Jair Bolsonaro
+title: La reforma 2.0 - la estrategia de comunicación de Jair Bolsonaro
 subtitle: Online
 summary: Matéria sobre WhatsApp e bolsonarismo
 client: Brecha (Uruguai)
