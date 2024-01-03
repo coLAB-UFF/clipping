@@ -1,5 +1,5 @@
 ---
-title: In-Depth: Exploring Brazil’s Meme Culture
+title: In-Depth - Exploring Brazil’s Meme Culture
 subtitle: Online
 summary: Matéria sobre memes
 client: The Rio Times
