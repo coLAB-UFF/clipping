@@ -1,11 +1,11 @@
 ---
-title: MDB chiefs adopt memes and TikTok language to try to reinvent themselves; see video 10-31-2021 - Power
+title: Jornal da Band
 subtitle: Televisão
 summary: Matéria sobre memes
 client: Jornal da Band
 tools: 
 date: 2022-02-02
-image: 'images/postsScreenshot-at-Feb-03-14-28-56-1yzhvtzpk7z3eo8l8r1o9kg8ujgsho6qnspzyk60aelg.png'
+image: 'images/posts/Screenshot-at-Feb-03-14-28-56-1yzhvtzpk7z3eo8l8r1o9kg8ujgsho6qnspzyk60aelg.png'
 ---
 
 
