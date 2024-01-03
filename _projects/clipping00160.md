@@ -1,5 +1,5 @@
 ---
-title: Figurinha de WhatsApp: as favoritas de políticos e celebridades
+title: Figurinha de WhatsApp - as favoritas de políticos e celebridades
 subtitle: Impresso
 summary: Matéria sobre WhatsApp e figurinhas
 client: Veja Rio
