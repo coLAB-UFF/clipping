@@ -4,7 +4,7 @@ subtitle: Online
 summary: Matéria sobre o projeto #MUSEUdeMEMES
 client: UOL Splash
 tools: 
-date: 
+date: 2017-12-01
 image: 'images/posts/82-1-1y307yct5uioc06tctu6efkn20xm9edg5pc6aymga544.png'
 ---
 
