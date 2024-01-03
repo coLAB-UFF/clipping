@@ -1,5 +1,5 @@
 ---
-title: Memes contra o caos: a maneira brasileira de lidar com a crise
+title: Memes contra o caos - a maneira brasileira de lidar com a crise
 subtitle: Online
 summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Exame
