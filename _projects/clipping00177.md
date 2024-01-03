@@ -4,7 +4,7 @@ subtitle: Impresso
 summary: Matéria sobre memes
 client: Elle Brasil
 tools: 
-date: 
+date: 2021-12-01
 image: 'images/posts/83-1-1y307z5j4bcfnexvmy4lc1re52dgp5ki6fybx2itp2zo.png'
 ---
 
