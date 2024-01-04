@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contato
 permalink: /contact/
 image: '/images/01.jpg'
 ---
@@ -14,7 +14,7 @@ image: '/images/01.jpg'
   <form class="form" action="{% if site.data.settings.contact.email %}https://formspree.io/f/{{site.data.settings.contact.email}}{% else %}#{% endif %}" method="POST">
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-name">Seu Nome</label>
-      <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required>
+      <input class="form__input" id="form-name" type="text" name="name" placeholder="Nome" required>
     </div>
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-email">Seu Email</label>
@@ -22,7 +22,7 @@ image: '/images/01.jpg'
     </div>
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-text">Seu Comentário</label>
-      <textarea class="form__input" id="form-text" name="text" rows="8" placeholder="Message" required></textarea>
+      <textarea class="form__input" id="form-text" name="text" rows="8" placeholder="Mensagem" required></textarea>
     </div>
     <div class="form__group">
       <button class="button" type="submit">ENVIAR</button>
