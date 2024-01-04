@@ -1,5 +1,5 @@
 ---
-title: 'Ramiro Caminhoneiro' foi peça-chave para ida de centenas de pessoas a Brasília
+title: Ramiro Caminhoneiro foi peça-chave para ida de centenas de pessoas a Brasília
 subtitle: Online
 summary: Matéria sobre WhatsApp e atos antidemocráticos
 client: Lupa
