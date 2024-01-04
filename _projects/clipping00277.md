@@ -1,5 +1,5 @@
 ---
-title: Brazilian Ex-President’s Supporters Attacked Congress with Smartphones in Hand
+title: Brazilian Ex-President's Supporters Attacked Congress with Smartphones in Hand
 subtitle: Impresso
 summary: Matéria sobre atos antidemocráticos
 client: Yomiuri Shimbun

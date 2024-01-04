@@ -1,5 +1,5 @@
 ---
-title: Profissão 'memeiro': com milhões de seguidores, criadores de posts de humor são disputados por empresas
+title: Profissão 'memeiro' - com milhões de seguidores, criadores de posts de humor são disputados por empresas
 subtitle: Online
 summary: Matéria sobre parlamentares e plataformas digitais
 client: O Globo

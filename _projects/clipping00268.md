@@ -1,5 +1,5 @@
 ---
-title: Ofensas, xingamentos e palavrões: a nova rotina do Congresso de olho nas redes sociais
+title: Ofensas, xingamentos e palavrões - a nova rotina do Congresso de olho nas redes sociais
 subtitle: Online
 summary: Matéria sobre parlamentares e plataformas digitais
 client: O Globo

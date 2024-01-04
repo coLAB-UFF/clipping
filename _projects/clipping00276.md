@@ -1,5 +1,5 @@
 ---
-title: Come to the ‘war cry party’: How social media helped drive mayhem in Brazil
+title: Come to the ‘war cry party’ - How social media helped drive mayhem in Brazil
 subtitle: Online
 summary: Matéria sobre atos antidemocráticos
 client: Washington Post
