@@ -1,5 +1,5 @@
 ---
-title: 'Festa da Selma' - como redes sociais foram usadas para ataques ao Congresso
+title: Festa da Selma - como redes sociais foram usadas para ataques ao Congresso
 subtitle: Online
 summary: Matéria sobre atos antidemocráticos
 client: UOL Tilt
