@@ -5,7 +5,7 @@ summary: Matéria sobre a atuação das esquerdas nas mídias sociais
 client: AFP
 tools: Maria Clara Pestre
 date: 2024-02-01
-image: 'images/posts/clipping00278.jpeg'
+image: 'images/posts/clipping00278.png'
 ---
 
 Wearing a blue shirt with the sleeves rolled up, President Luiz Inacio Lula da Silva smiles as he gushes on his love of Brazilian music, and then segues into a barstool-style dissertation on football.
