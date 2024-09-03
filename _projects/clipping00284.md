@@ -1,7 +1,7 @@
 ---
 title: A cultura dos memes no Brasil
 subtitle: Online
-summary: Site Oficial da Universidade Federal Fluminense
+summary: Matério sobre o livro A Cultura dos Memes no Brasil
 client: UFF.BR
 tools: Assessoria de Imprensa
 date: 2024-06-30
