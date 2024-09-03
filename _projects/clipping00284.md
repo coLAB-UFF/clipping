@@ -4,7 +4,7 @@ subtitle: Online
 summary: Matério sobre o livro A Cultura dos Memes no Brasil
 client: UFF.BR
 tools: Assessoria de Imprensa
-date: 2024-06-30
+date: 2024-09-01
 image: 'images/posts/clipping00284.png'
 ---
 
