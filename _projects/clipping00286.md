@@ -1,7 +1,7 @@
 ---
 title: Brazilians Seek Out Social-Media Alternatives After Ban on Elon Musk’s X
 subtitle: Online
-summary: Matério sobre a suspensão do X/Twitter no Brasil
+summary: Matéria sobre a suspensão do X/Twitter no Brasil
 client: Wall Street Journal
 tools: Ryan Dubé
 date: 2024-09-02
