@@ -1,7 +1,7 @@
 ---
-title: Migração para Bluesky e Threads em alta no Brasil, após bloqueio do X
+title: In Brazil, X (Twitter) has become an alt-tech
 subtitle: Online
-summary: Matéria sobre a suspensão do X/Twitter no Brasil
+summary: Artigo de opinião sobre a suspensão do X/Twitter no Brasil
 client: Latinoamérica21
 tools: Viktor Chagas
 date: 2024-09-10
