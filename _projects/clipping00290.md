@@ -1,7 +1,7 @@
 ---
 title: Uma alt-tech para chamar de nossa
 subtitle: Online
-summary: Matéria sobre a suspensão do X/Twitter no Brasil
+summary: Artigo de opinião sobre a suspensão do X/Twitter no Brasil
 client: Folha de S. Paulo
 tools: Viktor Chagas
 date: 2024-09-10
