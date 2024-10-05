@@ -3,7 +3,7 @@ title: Memes políticos disputam imaginário com humor, mas podem desinformar
 subtitle: Online
 summary: Matéria sobre o papel dos memes nas eleições
 client: Agência Brasil (EBC)
-tools: Viktor Chagas
+tools: Francielly Barbosa
 date: 2024-10-03
 image: 'images/posts/clipping00296.png'
 ---
