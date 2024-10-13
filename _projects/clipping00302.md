@@ -1,7 +1,7 @@
 ---
 title: Ofício No. 381/2023/GM
 subtitle: Online
-summary: Ofício do Ministério da Justiça citando Relatório de Pesquisa DDoS Lab
+summary: Ofício do Ministério da Justiça com menção a Relatório de Pesquisa
 client: Ministério da Justiça e Segurança Pública
 tools: Ministério da Justiça e Segurança Pública
 date: 2024-10-13
