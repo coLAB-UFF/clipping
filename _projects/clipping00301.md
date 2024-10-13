@@ -1,8 +1,8 @@
 ---
 title: O impacto dos memes nas urnas
 subtitle: Online
-summary: Radio UFRJ
-client: UFRJ
+summary: Episódio de podcast sobre memes e eleições
+client: Radio UFRJ
 tools: Pedro Xavier
 date: 2024-10-13
 image: 'images/posts/clipping00301.png'
