@@ -1,5 +1,5 @@
 ---
-title: Abaixo do radar: desinformação em grupos de extrema direita no WhatsApp e no Telegram nas Eleições 2024
+title: Abaixo do radar - desinformação em grupos de extrema direita no WhatsApp e no Telegram nas Eleições 2024
 subtitle: Online
 summary: Relatório de Pesquisa
 client: Aláfia Lab
