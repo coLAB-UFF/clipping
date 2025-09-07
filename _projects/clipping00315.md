@@ -2,7 +2,7 @@
 title: Vocação brasileira para memes ganha exposição no CCBB
 subtitle: Online
 summary: Matéria sobre exposição no CCBB
-client: Veja
+client: Agência Brasil (EBC)
 tools: Flávia Albuquerque
 date: 2025-08-27
 image: 'images/posts/clipping00315.png'
