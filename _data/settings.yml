@@ -39,7 +39,7 @@ social:
 hero:
   enable: true
   hero_title: coLAB/UFF <span><i>Na Mídia</i></span>
-  hero_description: Portfólio de menções na mídia a estudos e projetos desenvolvidos pelos pesquisadores do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB-UFF)
+  hero_description: Portfólio de menções na mídia a estudos e projetos desenvolvidos pelos pesquisadores do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB/UFF)
   hero_image: "/images/01.jpg"
   hero_button_contact: Entre em Contato
   hero_button_about: Conheça o coLAB
@@ -102,7 +102,7 @@ mailchimp_settings:
 
 #-------------------------------
 # Footer Settings
-footer_description: Portfólio de menções na mídia a estudos e projetos desenvolvidos pelos pesquisadores do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB-UFF).
+footer_description: Portfólio de menções na mídia a estudos e projetos desenvolvidos pelos pesquisadores do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB/UFF).
 
 
 #-------------------------------
