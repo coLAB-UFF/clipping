@@ -1,5 +1,5 @@
 ---
-title: 'Memes' são tema de exposição no CCBB Brasília
+title: Memes são tema de exposição no CCBB Brasília
 subtitle: Online
 summary: Matéria sobre exposição no CCBB
 client: Correio Brasiliense
