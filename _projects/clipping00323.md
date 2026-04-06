@@ -2,8 +2,8 @@
 title: Linguagem narrativa da política entrou na lógica das mídias sociais, diz analista (VÍDEOS)
 subtitle: Online
 summary: Matéria sobre IA e política
-client: CDL FM 102.9
-tools: Sputnik Brasil
+client: Sputnik Brasil
+tools: Rennan Rebello
 date: 2025-04-03
 image: 'images/posts/clipping00323.png'
 ---
