@@ -4,7 +4,7 @@ subtitle: Online
 summary: Matéria sobre exposição no CCBB
 client: BH Eventos
 tools: BH Eventos
-date: 2025-03-26
+date: 2026-03-26
 image: 'images/posts/clipping00322.png'
 ---
 
