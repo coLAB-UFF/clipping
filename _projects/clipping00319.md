@@ -2,7 +2,7 @@
 title: Memetização brasileira invade as artes e ganha exposição no CCBB
 subtitle: Online
 summary: Matéria sobre exposição no CCBB
-client: Correio Brasiliense
+client: Correio Braziliense
 tools: Nahima Maciel
 date: 2025-12-02
 image: 'images/posts/clipping00319.png'
