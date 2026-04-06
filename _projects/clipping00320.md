@@ -2,8 +2,8 @@
 title: Exposição sobre memes no CCBB chega aos últimos dias
 subtitle: Online
 summary: Matéria sobre exposição no CCBB
-client: Correio Brasiliense
-tools: Nahima Maciel
+client: Correio Braziliense
+tools: Correio Braziliense
 date: 2025-02-25
 image: 'images/posts/clipping00320.png'
 ---
