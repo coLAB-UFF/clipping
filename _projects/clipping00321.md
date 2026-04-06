@@ -4,7 +4,7 @@ subtitle: Online
 summary: Matéria sobre exposição no CCBB
 client: CDL FM 102.9
 tools: Carol Ferraris
-date: 2025-03-11
+date: 2026-03-11
 image: 'images/posts/clipping00321.png'
 ---
 
