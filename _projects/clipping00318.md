@@ -2,7 +2,7 @@
 title: Memes são tema de exposição no CCBB Brasília
 subtitle: Online
 summary: Matéria sobre exposição no CCBB
-client: Correio Brasiliense
+client: Correio Braziliense
 tools: Nahima Maciel
 date: 2026-01-31
 image: 'images/posts/clipping00318.png'
