@@ -4,7 +4,7 @@ subtitle: Online
 summary: Matéria sobre exposição no CCBB
 client: Correio Braziliense
 tools: Correio Braziliense
-date: 2025-02-25
+date: 2026-02-25
 image: 'images/posts/clipping00320.png'
 ---
 
