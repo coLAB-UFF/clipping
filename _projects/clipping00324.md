@@ -4,7 +4,7 @@ subtitle: Online
 summary: Matéria sobre IA e política
 client: Tribuna do Agreste
 tools: Tribuna do Agreste
-date: 2025-04-03
+date: 2026-04-03
 image: 'images/posts/clipping00324.png'
 ---
 
