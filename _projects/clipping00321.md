@@ -1,5 +1,5 @@
 ---
-title: ECCBB BH inaugura mostra inédita que transforma memes em arte e crítica social na Praça da Liberdade
+title: CCBB BH inaugura mostra inédita que transforma memes em arte e crítica social na Praça da Liberdade
 subtitle: Online
 summary: Matéria sobre exposição no CCBB
 client: CDL FM 102.9
