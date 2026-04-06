@@ -4,7 +4,7 @@ subtitle: Online
 summary: Matéria sobre IA e política
 client: Sputnik Brasil
 tools: Rennan Rebello
-date: 2025-04-03
+date: 2026-04-04
 image: 'images/posts/clipping00323.png'
 ---
 
