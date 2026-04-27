@@ -5,8 +5,9 @@ summary: Matéria sobre WhatsApp e bolsonarismo
 client: O Dia
 tools: 
 date: 2022-09-03
-image: 'images/posts/Screenshot-at-Sep-08-08-53-50-1zslzu4u1ynfvlhvcqce8g8pe9gf902t6m9roxcmvhic.png'
+image: 'images/projects/clipping00224.png'
 link: https://odia.ig.com.br/eleicoes/2022/09/6478292-grupos-recorrem-a-panico-para-mobilizar-no-whatsapp-e-telegram.html
+tags:
 ---
 
 São Paulo - Mensagens que circulam em grupos bolsonaristas no Telegram e no WhatsApp espalham planos falsos de tentativa de assassinato de Jair Bolsonaro (PL) e de cassação da chapa à reeleição e convocam o presidente da República e as Forças Armadas a reagir com "o pé na porta" no 7 de setembro a suposta tentativa de "fraude eleitoral" e à atuação do Supremo Tribunal Federal.

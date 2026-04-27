@@ -5,8 +5,9 @@ summary: Matéria sobre WhatsApp e figurinhas
 client: O Globo
 tools: Marlen Couto
 date: 2022-10-27
-image: 'images/posts/Screenshot-at-Oct-28-17-06-09-1zzdesvublgz13pxcdaz5i90w6nuruhdwf1pir2pumw4.png'
+image: 'images/projects/clipping00239.png'
 link: https://oglobo.globo.com/blogs/sonar-a-escuta-das-redes/post/2022/10/de-tatica-para-furar-bolha-a-termometro-emocional-do-eleitor-figurinhas-de-whatsapp-invadem-disputa-presidencial.ghtml
+tags:
 ---
 
 Um meio para refletir emoções e reações sociais, de gerar sensação de pertencimento a um determinado grupo ou estratégia política para chegar a novos eleitores. São muitas as funções das figurinhas de WhatsApp, um recurso cada vez mais explorado pelas campanhas e pelos eleitores para fazer circular mensagens políticas. De tão frequentes e relevantes, elas passaram a ser incentivadas e distribuídas pela própria Justiça Eleitoral, que, em parceria com o aplicativo de mensagens, criou um pacote de figurinhas voltado para a checagem de informações. Diante da centralidade das pequenas imagens trocadas entre amigos e familiares, o Sonar fez uma pequena seleção das peças que circularam nas últimas semanas.

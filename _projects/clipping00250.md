@@ -5,8 +5,9 @@ summary: Matéria sobre violência política de gênero em plataformas digitais
 client: Jornal de Mato Grosso
 tools: 
 date: 2023-03-02
-image: 'images/posts/clipping00250.png'
+image: 'images/projects/clipping00250.png'
 link: https://jornaldematogrosso.com.br/noticia/99789/carla-zambelli-e-a-deputada-mais-mencionada-nas-redes-sociais-e-taliria-petrone-a-mais-atacada-diz-e.html
+tags:
 ---
 
 Parlamentares mulheres de esquerda foram duas vezes mais atacadas que as de direita na legislatura de 2019 a 2022, segundo estudo. Intolerância política representa 22,3% dos ataques nas redes sociais.

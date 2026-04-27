@@ -5,8 +5,9 @@ summary: Live sobre TikTok e eleições
 client: Manchetômetro
 tools: 
 date: 2022-09-02
-image: 'images/posts/Screenshot-at-Sep-08-09-02-21-1zsm0vx61dfu2jtve6yen6rfhiracbtdlzysi8ktw8kk.png'
+image: 'images/projects/clipping00229.png'
 link: https://www.youtube.com/watch?v=7719GqBpGOQ
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.youtube.com/watch?v=7719GqBpGOQ" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

@@ -5,8 +5,9 @@ summary: Matéria sobre extremas-direitas e plataformas digitais
 client: UOL
 tools: Wanderley Preite Sobrinho
 date: 2022-08-19
-image: 'images/posts/clipping00247.png'
+image: 'images/projects/clipping00247.png'
 link: https://noticias.uol.com.br/eleicoes/2022/08/19/eleicoes-2022-tiktok-bolsonarista-direita-esquerda-videos.htm
+tags:
 ---
 
 Rede social do momento, o TikTok já é palco da disputa entre os principais candidatos à Presidência da República. Atento ao fenômeno, o bolsonarismo chegou primeiro à plataforma e já domina todas as estatísticas de engajamento em comparação com a esquerda.

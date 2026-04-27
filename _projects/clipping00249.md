@@ -5,8 +5,9 @@ summary: Matéria sobre violência política de gênero em plataformas digitais
 client: Portal Vermelho
 tools: Bárbara Luz
 date: 2023-03-03
-image: 'images/posts/clipping00249.png'
+image: 'images/projects/clipping00249.png'
 link: https://vermelho.org.br/2023/03/03/jandira-esta-entre-parlamentares-que-mais-sofrem-violencia-de-genero/
+tags:
 ---
 
 Um monitoramento feito pelo Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (Colab) da Universidade Federal Fluminense (UFF), mostrou que além das parlamentares mulheres continuarem sofrendo com a violência política de gênero, as de esquerda são duas vezes mais atacadas que as de direita.

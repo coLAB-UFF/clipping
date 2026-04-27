@@ -5,8 +5,9 @@ summary: Episódio de série documental
 client: Futura - Idade Mídia
 tools: 
 date: 2021-10-11
-image: 'images/posts/FBcvX_9XsAMTJPo.jpeg'
+image: 'images/projects/clipping00205.jpeg'
 link: https://canaisglobo.globo.com/assistir/futura/idade-midia/v/9936591/?utm_source=facebook&utm_term=memes
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://canaisglobo.globo.com/assistir/futura/idade-midia/v/9936591/?utm_source=facebook&utm_term=memes" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

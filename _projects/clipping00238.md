@@ -5,8 +5,9 @@ summary: Matéria sobre eleições nas redes
 client: Estadão
 tools: Samuel Lima, Levy Teles e Gustavo Queiroz
 date: 2022-10-15
-image: 'images/posts/Screenshot-at-Oct-21-20-24-16-1zyg863n800lfyl8f7zwk0l1zfl9cqknr9wf2eo6ydt0.png'
+image: 'images/projects/clipping00238.png'
 link: https://www.estadao.com.br/politica/timeline-eleicoes-2022/jogo-sujo-lula-bolsonaro-redes/
+tags:
 ---
 
 A duas semanas da escolha do futuro presidente, postagens com conteúdos apelativos, pautas de costume e desinformação superam discussões sobre fome, desemprego e inflação nas redes sociais. Levantamento feito pelo Estadão mostra o protagonismo de publicações de apoiadores do petista Luiz Inácio Lula da Silva e de Jair Bolsonaro, candidato à reeleição pelo PL, em temas como satanismo, maçonaria e supostas associações com o crime organizado na esteira do "jogo sujo" deflagrado na campanha.

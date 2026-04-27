@@ -5,8 +5,9 @@ summary: Matéria sobre WhatsApp e bolsonarismo
 client: BBC News Brasil
 tools: Vitor Tavares
 date: 2022-08-21
-image: 'images/posts/Screenshot-at-Sep-08-08-55-49-1zsm02ehm2urce0izs923dtld1h05dkaun70s8b1jf50.png'
+image: 'images/projects/clipping00225.png'
 link: https://www.bbc.com/portuguese/salasocial-62567470
+tags:
 ---
 
 "Quatro anos atrás Venezuela era o exemplo, em 2022 temos mais a Argentina", publicou o empresário Luciano Hang, conhecido como "Véio da Havan", no último dia 11 de agosto.

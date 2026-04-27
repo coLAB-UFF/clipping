@@ -5,8 +5,9 @@ summary: Matéria sobre WhatsApp e eleições
 client: Metropoles
 tools: Letícia Holanda
 date: 2022-02-26
-image: 'images/posts/Screenshot-at-Mar-11-15-35-51-1z4c7clo8lyn1wwjcerwskidbd1duuyani0tdnhkdtus.png'
+image: 'images/projects/clipping00211.png'
 link: https://www.metropoles.com/brasil/telegram-nao-e-o-unico-facilitador-de-fake-news-dizem-especialistas
+tags:
 ---
 
 O Telegram tem sido alvo de uma chuva de críticas nos últimos meses. Autoridades do Judiciário e especialistas em tecnologia argumentam que o aplicativo traz facilidades que ajudam na disseminação de notícias falsas, principalmente sobre questões políticas.

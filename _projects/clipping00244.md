@@ -5,8 +5,9 @@ summary: Matéria sobre WhatsApp e atos antidemocráticos
 client: Lupa
 tools: 
 date: 2023-01-10
-image: 'images/posts/clipping00244.png'
+image: 'images/projects/clipping00244.png'
 link: https://lupa.uol.com.br/jornalismo/2023/01/10/ramiro-caminhoneiro-foi-peca-chave-para-ida-de-centenas-de-pessoas-a-brasilia
+tags:
 ---
 
 "Ramiro Caminhoneiro". Este é um dos nomes que mais aparecem nos grupos de WhatsApp e Telegram usados para convocar pessoas para ir a Brasília no último domingo (8). Levantamento realizado a pedido da Lupa pela Palver, empresa que monitora de maneira anonimizada 17 mil grupos públicos de conversas políticas no principal aplicativo de mensagens do país, mostra que "Ramiro Caminhoneiro" é mencionado ao menos 82 vezes ― e que, em todas elas, ele aparece como organizador de caravanas. No estudo, também há 88 menções a "Caminhoneiro Ramiro".

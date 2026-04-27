@@ -5,8 +5,9 @@ summary: Matéria sobre extremas-direitas e plataformas digitais
 client: Desinformante
 tools: Matheus Soares
 date: 2022-11-16
-image: 'images/posts/clipping00248.png'
+image: 'images/projects/clipping00248.png'
 link: https://desinformante.com.br/redes-sociais-alternativas-crescem-para-fugir-de-remocoes/
+tags:
 ---
 
 Publicações incitando a violência e com desinformação são alvos constantes de remoção em plataformas como Twitter e Instagram, mas não na Gettr. A empresa faz parte das redes sociais alternativas que, em oposição às tradicionais, oferecem menor ou nenhuma moderação de conteúdo. Sua oferta de uma “liberdade de expressão” ilimitada vem conquistando cada vez mais usuários de extrema-direita no Brasil.
