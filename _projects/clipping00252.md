@@ -5,8 +5,9 @@ summary: Matéria sobre violência política de gênero em plataformas digitais
 client: Desinformante
 tools: Liz Nóbrega
 date: 2023-03-06
-image: 'images/posts/clipping00252.png'
+image: 'images/projects/clipping00252.png'
 link: https://desinformante.com.br/violencia-politica-mulheres/
+tags:
 ---
 
 Na semana do Dia da Mulher, o Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB) da Universidade Federal Fluminense divulgou o Mapa da Violência Política de Gênero em Plataformas Digitais, destacando a intensidade, o tipo e as variáveis das manifestações de violência política que acontecem no Twitter, Facebook, Instagram e YouTube.

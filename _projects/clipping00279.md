@@ -5,8 +5,9 @@ summary: Matéria sobre a atuação das esquerdas nas mídias sociais
 client: UOL Notícias
 tools: Maria Clara Pestre
 date: 2024-02-01
-image: 'images/posts/clipping00279.png'
+image: 'images/projects/clipping00279.png'
 link: https://noticias.uol.com.br/ultimas-noticias/afp/2024/02/01/apos-um-ano-de-governo-lula-bolsonarismo-mantem-vantagem-na-batalha-digital.htm
+tags:
 ---
 
 Logo após justificar a existência de quase 40 ministérios em seu governo, Lula conta como começou a se interessar pela música brasileira, de Luiz Gonzaga a Maria Bethânia. "Eu sou da terra do forró", lembra, em sua live nas redes sociais.

@@ -5,8 +5,9 @@ summary: Ofício sobre violência política de gênero em plataformas digitais
 client: Ministério da Justiça
 tools: Flávio Dino
 date: 2023-03-20
-image: 'images/posts/clipping00256.png'
+image: 'images/projects/clipping00256.png'
 link: https://drive.google.com/file/d/1Omcj0LiegOBs5PnEDmrQeIexmsGEqkcZ/view?pli=1
+tags:
 ---
 
 Assunto: Apuração de infrações penais nos moldes do art. 1o, parágrafo único, da Lei no 10.446, de 8 de

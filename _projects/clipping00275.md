@@ -5,8 +5,9 @@ summary: Matéria sobre atos antidemocráticos
 client: Coda
 tools: Fernanda Seavon
 date: 2023-01-12
-image: 'images/posts/clipping00275.png'
+image: 'images/projects/clipping00275.png'
 link: https://www.codastory.com/disinformation/brazil-insurrection-telegram/
+tags:
 ---
 
 In one of the countless violent videos spreading rapidly among Brazil’s social networks, a right-wing radical — with his face covered by a Brazilian flag — holds up what looks like the original copy of the country’s 1988 Constitution. Hundreds of people watch, and dozens film, as he flips through the pages of the recently acquired trophy, perhaps unaware that it’s just a copy, a fake. But the image is symbolic of the violent uprising in many ways: it spreads disinformation and it undermines a pact that ended 21 years of dictatorship. And it is being used to foment further attacks on Brazilian democracy.

@@ -5,8 +5,9 @@ summary: Matéria sobre atos antidemocráticos
 client: The Japan News by Yomiuri Shimbun
 tools: Takayuki Fuchigami e Mika Otsuki
 date: 2023-02-14
-image: 'images/posts/clipping00264.png'
+image: 'images/projects/clipping00264.png'
 link: https://japannews.yomiuri.co.jp/society/social-series/20230214-90984/
+tags:
 ---
 
 BRASILIA — Listed as a World Heritage site, Brazil’s capital is a planned city built in the 1950s. Seen from above, Brasilia is laid out like an airplane. At the nose of the plane is Three Powers Square, surrounded by buildings representing the three powers — Congress, the Supreme Court and the presidential palace.

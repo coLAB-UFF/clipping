@@ -5,8 +5,9 @@ summary: Matéria sobre a atuação das esquerdas nas mídias sociais
 client: Yahoo Noticias ES
 tools: Maria Clara Pestre
 date: 2024-02-01
-image: 'images/posts/clipping00282.png'
+image: 'images/projects/clipping00282.png'
 link: https://es-us.noticias.yahoo.com/a%C3%B1o-poder-lula-zaga-bolsonaro-123641990.html
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://es-us.noticias.yahoo.com/a%C3%B1o-poder-lula-zaga-bolsonaro-123641990.html" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

@@ -5,8 +5,9 @@ summary: Episódio de podcast sobre memes e eleições
 client: Radio UFRJ
 tools: Pedro Xavier
 date: 2024-10-13
-image: 'images/posts/clipping00301.png'
+image: 'images/projects/clipping00301.png'
 link: https://open.spotify.com/episode/0rdXB6JAQQeR4XtXg19NNX?si=OkrJij0iQR6elfTrHN8Faw&nd=1&dlsi=cc072aee24fc498c
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://open.spotify.com/episode/0rdXB6JAQQeR4XtXg19NNX?si=OkrJij0iQR6elfTrHN8Faw&nd=1&dlsi=cc072aee24fc498c" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

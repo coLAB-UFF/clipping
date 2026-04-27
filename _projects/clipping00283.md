@@ -5,8 +5,9 @@ summary: Podcast do curso de Relações Internacionais
 client: Diplomacast
 tools: João Luiz Mondego e Maria Júlia Gorayeb
 date: 2024-06-30
-image: 'images/posts/clipping00283.png'
+image: 'images/projects/clipping00283.png'
 link: https://open.spotify.com/show/6Ih4rBkBikBuwt0PTGYgRR
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://open.spotify.com/show/6Ih4rBkBikBuwt0PTGYgRR" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

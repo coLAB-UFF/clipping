@@ -5,8 +5,9 @@ summary: Matéria sobre atos antidemocráticos
 client: Washington Post
 tools: Elizabeth Dwoskin
 date: 2023-01-09
-image: 'images/posts/clipping00276.png'
+image: 'images/projects/clipping00276.png'
 link: https://www.washingtonpost.com/technology/2023/01/08/brazil-bolsanaro-twitter-facebook/
+tags:
 ---
 
 In the weeks leading up to Sunday’s violent attacks on Brazil’s Congress and other government buildings, the country’s social media channels surged with calls to attack gas stations, refineries and other infrastructure, as well as for people to come to a “war cry party” in the capital, according to Brazilian social media researchers.

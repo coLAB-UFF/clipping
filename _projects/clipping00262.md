@@ -5,8 +5,9 @@ summary: Matéria sobre violência política de gênero em plataformas digitais
 client: GloboNews
 tools: 
 date: 2023-03-02
-image: 'images/posts/clipping00262.png'
+image: 'images/projects/clipping00262.png'
 link: https://g1.globo.com/politica/blog/octavio-guedes/noticia/2023/03/02/carla-zambelli-e-a-deputada-mais-mencionada-nas-redes-sociais-e-taliria-petrone-a-mais-atacada-diz-estudo.ghtml
+tags:
 ---
 
 A deputada federal Carla Zambelli (PL) foi a parlamentar mais mencionada nas redes sociais na última legislatura (2019 a 2022). Em contrapartida, a deputada Talíria Petrone (PSOL) sofreu o maior número de ataques na internet proporcionalmente à quantidade de menções feitas a ela.

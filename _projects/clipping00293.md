@@ -5,8 +5,9 @@ summary: Matéria de audiência com ministra do STF que cita Mapa da Violência 
 client: O Dia
 tools: O Dia
 date: 2024-09-11
-image: 'images/posts/clipping00293.png'
+image: 'images/projects/clipping00293.png'
 link: https://odia.ig.com.br/niteroi/2024/09/6916148-taliria-petrone-tem-audiencia-com-a-ministra-do-stf-e-presidente-do-tse-carmen-lucia.html
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://odia.ig.com.br/niteroi/2024/09/6916148-taliria-petrone-tem-audiencia-com-a-ministra-do-stf-e-presidente-do-tse-carmen-lucia.html" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

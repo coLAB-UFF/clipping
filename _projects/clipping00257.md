@@ -5,8 +5,9 @@ summary: Matéria sobre violência política de gênero em plataformas digitais
 client: Congresso em Foco
 tools: Lucas Neiva
 date: 2023-03-20
-image: 'images/posts/clipping00257.png'
+image: 'images/projects/clipping00257.png'
 link: https://congressoemfoco.uol.com.br/area/governo/dino-determina-investigacao-de-autores-de-violencia-politica-de-genero/
+tags:
 ---
 
 O ministro da Justiça e Segurança Pública, Flávio Dino, encaminhou à Diretoria-Geral da Polícia Federal (PF) um ofício determinando a investigação dos responsáveis por agressões morais contra a senadora Soraya Thronicke (União-MS) e outras mulheres em exercício de cargos eletivos. Na visão do ministro, os índices recentes de violência política de gênero já dão sinais de um esforço sistêmico para afastar mulheres da política.

@@ -5,8 +5,9 @@ summary: Artigo de opinião sobre a suspensão do X/Twitter no Brasil
 client: Folha de S. Paulo
 tools: Viktor Chagas
 date: 2024-09-10
-image: 'images/posts/clipping00290.png'
+image: 'images/projects/clipping00290.png'
 link: https://www1.folha.uol.com.br/colunas/latinoamerica21/2024/09/uma-alt-tech-para-chamar-de-nossa.shtml
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www1.folha.uol.com.br/colunas/latinoamerica21/2024/09/uma-alt-tech-para-chamar-de-nossa.shtml" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
