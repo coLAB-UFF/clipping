@@ -4,7 +4,7 @@ subtitle: Online
 summary: Matéria sobre exposição no CCBB
 client: BH Eventos
 country: 
-tools: 
+tools: Brasil
 date: BH Eventos
 tags: 
 image: 'images/projects/clipping00322.png'

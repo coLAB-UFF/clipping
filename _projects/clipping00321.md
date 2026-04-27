@@ -4,7 +4,7 @@ subtitle: Online
 summary: Matéria sobre exposição no CCBB
 client: CDL FM 102.9
 country: 
-tools: 
+tools: Brasil
 date: Carol Ferraris
 tags: 
 image: 'images/projects/clipping00321.png'
