@@ -6,6 +6,7 @@ client: Manila Times (Filipinas)
 tools: 
 date: 2017-06-17
 image: 'images/posts/84-1y304vyv1wi8arg1qiwf0lzga4ktcbsrv1mylskchrac.png'
+link: https://www.pressreader.com/philippines/manila-times/20170618/281672549934881
 ---
 
 Sao Paulo: Political corruption, economic crisis, rampant crime -- the headlines in Brazil are grim, so locals have taken to online memes that often go viral to relieve the stress.

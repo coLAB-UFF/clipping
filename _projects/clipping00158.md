@@ -6,6 +6,7 @@ client: Podcast do Zorra
 tools: 
 date: 2019-11-01
 image: 'images/posts/64-1-1y307mglsp3q5j5vci930vop2iqgtrtc7rsrbw4j6nok.png'
+link: https://gshow.globo.com/programas/zorra/podcast/noticia/rod-viktor-chagas-e-wangler-bastos-e-meme-e.ghtml
 ---
 
 Você sabe o que é um meme? 🤔 Com a palavra, professor Viktor Chagas.

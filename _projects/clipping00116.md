@@ -6,6 +6,7 @@ client: Rio On Watch
 tools: Marc Cho
 date: 2018-11-02
 image: 'images/posts/21-1-1y306oybl2duubl7ji3nszt3iu8yg1kzcpy7jccvr4v8.png'
+link: http://rioonwatch.org.br/?p=37295
 ---
 
 O WhatsApp já foi visto como um simples meio de comunicação e compartilhamento de informação entre família e amigos. No entanto, as eleições no Brasil mostraram exatamente como—com desinformações correndo soltas e até grupos de família virando campos minados políticos—uma narrativa muito mais sinistra do que a plataforma ‘oferece’ está tomando forma.

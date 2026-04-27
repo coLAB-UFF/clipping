@@ -6,6 +6,7 @@ client: A Pública
 tools: Ethel Rudnitzki e Laura Scofield
 date: 2021-01-08
 image: 'images/posts/88-1-1y3081zcyvqb1op3q3ilx1vp2r46sng2flyc6q5ypox0.png'
+link: https://apublica.org/2021/01/nas-redes-influenciadores-bolsonaristas-investigados-por-atos-antidemocraticos-apoiam-invasao-do-capitolio-nos-eua/
 ---
 
 “A população conservadora no mundo está de olho no que está acontecendo ali e de fato isso vai impulsionar muito”, alertou o youtuber Italo Lorenzon durante a cobertura do canal Terça Livre sobre as manifestações de apoiadores de Donald Trump em Washington DC. “Esse vai ser um ano de grandes manifestações. Podem escrever o que eu estou dizendo”, continuou.

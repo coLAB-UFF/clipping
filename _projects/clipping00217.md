@@ -6,6 +6,7 @@ client: O Globo
 tools: Marlen Couto
 date: 2022-04-01
 image: 'images/posts/Screenshot-at-May-15-16-17-08-1zd2lnojo6heij2tn8dcpbgpgkw3z80xk180bux9dg84.png'
+link: https://blogs.oglobo.globo.com/sonar-a-escuta-das-redes/post/anitta-dicaprio-e-lula-bolsonaro-usa-deboche-e-ironia-para-aumentar-relevancia-nas-redes.html
 ---
 
 A resposta tem sido um padrão na comunicação do presidente Jair Bolsonaro (PL) no mundo digital. Em contraste com o clima da escalada da crise institucional entre o governo federal e o Supremo Tribunal Federal (STF), um longo e chamativo “kkkkkkk” passou a ser repetido por Bolsonaro em seus perfis nas redes sociais nas últimas semanas.

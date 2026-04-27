@@ -6,6 +6,7 @@ client: O Dia
 tools: Tabata Uchoa
 date: 2017-03-26
 image: 'images/posts/53.png'
+link: http://odia.ig.com.br/rio-de-janeiro/2017-03-26/museu-de-memes-estuda-fenomeno-das-redes-sociais.html
 ---
 
 Rio - O próprio Museu de Memes virou um meme na última semana. O projeto da UFF, fruto de um grupo de pesquisas acadêmicas criado em 2011, está online desde junho de 2015. Mas o site começou a ganhar só agora enorme repercussão nas redes sociais — sem razão específica, assim como a maioria de seus objetos de estudo. “Foram 480 mil visualizações de página, e não sei te dizer exatamente o porquê. Esse burburinho foi completamente espontâneo”, conta, com misto de perplexidade e brincadeira, o professor Viktor Chagas, coordenador do projeto.

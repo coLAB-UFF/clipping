@@ -6,6 +6,7 @@ client: La Nación (Paraguai)
 tools: Daniele Belmiro
 date: 2019-03-23
 image: 'images/posts/38-1-1y30720avzjq7km8v9qt9mihzuwlyy8t56kebapiwpr8.png'
+link: https://www.lanacion.com.py/mundo/2019/03/23/foros-de-odio-en-internet-ganan-notoriedad-tras-matanza-en-una-escuela-de-brasil/
 ---
 
 Una secta virtual de hombres misóginos, racistas y homofóbicos de Brasil que desde hace años incita a la violencia ganó notoriedad tras la matanza este mes en un colegio de Suzano (sudeste).

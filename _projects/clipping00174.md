@@ -6,6 +6,7 @@ client: Terra
 tools: 
 date: 2020-10-09
 image: 'images/posts/80-1-1y307xc97sqmakoqgbadkqlv4pa6fj171hn8z6r2hb38.png'
+link: https://www.terra.com.br/noticias/eleicoes/joice-aposta-em-memes-montagens-e-referencias-pop-em-primeiro-programa-de-tv,a65f64d5632fc7ca42181117c3d3e4cehtc2s7xn.html
 ---
 
 Em sua primeira propaganda eleitoral na televisão, exibida nesta sexta-feira, 9, Joice Hasselmann (PSL) usou montagens de seu rosto em personagens famosos do cinema e referências a desenhos animados para se apresentar ao eleitorado. O marqueteiro da candidata, Daniel Braga, apostou numa linguagem pop e voltada para redes sociais para dialogar com os servidores da candidata. Já no programa da noite, Joice atacou o presidente Jair Bolsonaro ao dizer que jamais apoiaria a proteção de filhos "de quem quer que seja investigados em esquema de corrupção".

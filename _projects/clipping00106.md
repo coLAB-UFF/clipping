@@ -6,6 +6,7 @@ client: Revista Zum
 tools: Giselle Beiguelman
 date: 2018-05-30
 image: 'images/posts/11-1-1y306jd9vsljmgbrko2r9ohtxk61dr7l7jn48l29ujqc.png'
+link: https://revistazum.com.br/colunistas/memes/
 ---
 
 Os memes se tornaram o formato de imagem característico da internet. Imagens irônicas e feitas para serem compartilhadas expressam uma cultura de apropriação e de consumo rápido, que adere a temas do momento. Os mais disseminados são os que trazem imagens acompanhadas de textos curtos em letras garrafais, tecnicamente chamados de Image-macro. Agregadores de linguagem, constituem o que o filósofo francês Jacques Rancière chamou de “frase-imagem”. Um formato em que o texto não funciona como complemento explicativo da imagem nem a imagem ilustra o texto, mas os dois elementos encadeiam-se para produzir um terceiro sentido.

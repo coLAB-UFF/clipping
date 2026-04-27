@@ -6,6 +6,7 @@ client: UOL Tilt
 tools: Felipe Germano
 date: 2019-12-27
 image: 'images/posts/65-1-1y307myvrpzr68wwsrizfq6316k6qphgrvn7zs2832p0.png'
+link: https://www.uol.com.br/tilt/noticias/redacao/2019/12/27/2019-foi-o-ano-delas-por-que-amamos-tanto-usar-as-figurinhas-do-whatsapp.htm
 ---
 
 Muito mais do que mil palavras, uma imagem pode valer até 65.536 letras. Pelo menos no WhatsApp. Esse é o limite de caracteres que o aplicativo permite que se mande a cada mensagem. E, mesmo podendo escrever esse tanto, tudo que te bastou para responder aquele seu amigo sem noção foi uma simples figurinha.... - Veja mais em https://www.uol.com.br/tilt/noticias/redacao/2019/12/27/2019-foi-o-ano-delas-por-que-amamos-tanto-usar-as-figurinhas-do-whatsapp.htm?cmpid=copiaecola

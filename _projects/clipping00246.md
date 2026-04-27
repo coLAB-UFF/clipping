@@ -1,11 +1,12 @@
 ---
-title: “Telegram não é o único facilitador de fake news”, dizem especialistas  
+title: “Telegram não é o único facilitador de fake news”, dizem especialistas
 subtitle: Online
 summary: Matéria sobre extremas-direitas e plataformas digitais
 client: Metrópoles
 tools: Leticia Holanda
 date: 2022-02-26
 image: 'images/posts/clipping00246.png'
+link: https://www.metropoles.com/brasil/telegram-nao-e-o-unico-facilitador-de-fake-news-dizem-especialistas
 ---
 
 O Telegram tem sido alvo de uma chuva de críticas nos últimos meses. Autoridades do Judiciário e especialistas em tecnologia argumentam que o aplicativo traz facilidades que ajudam na disseminação de notícias falsas, principalmente sobre questões políticas.

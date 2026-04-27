@@ -6,6 +6,7 @@ client: UOL Tilt
 tools: Simone Machado
 date: 2023-01-09
 image: 'images/posts/clipping00272.png'
+link: https://www.uol.com.br/tilt/noticias/redacao/2023/01/09/como-redes-sociais-ajudaram-na-invasao-ao-congresso-em-brasilia.htm
 ---
 
 O ataque golpista contra prédios do governo brasileiro vinha sendo orquestrado há pelo menos duas semanas semanas através do WhatsApp, Telegram e redes sociais. Além da invasão, ordem para os manifestantes "tomarem as ruas", fazendo bloqueios em postos de gasolina, refinarias e outras infraestruturas também foi dada pela internet, de acordo com pesquisadores brasileiros de mídia social.

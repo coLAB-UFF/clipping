@@ -6,6 +6,7 @@ client: Observatório da Imprensa
 tools: Bruno Lara
 date: 2021-03-02
 image: 'images/posts/91-1-1y308432uu9up7y9qldc74ql7htll3ib17142twefzok.png'
+link: http://www.observatoriodaimprensa.com.br/cultura/museudememes-muito-alem-das-risadas-e-distracao/
 ---
 
 Um dos fenômenos que ajudam a caracterizar as redes sociais e, portanto, parte central da nossa comunicação nos dias de hoje é o meme. Em geral, a gente tende a interpretá-lo como recurso de brincadeira e humor. De fato, não deixa de ser, mas os memes vão muito além das risadas e distração. Tornaram-se peças fundamentais na difusão de mensagens e ideias de todos os tipos, sendo, inclusive, recursos de estratégias políticas e de divulgação científica.

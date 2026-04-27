@@ -6,6 +6,7 @@ client: SDC - Superintendência de Documentação da Universidade Federal Flumin
 tools: 
 date: 2015-06-17
 image: 'images/posts/9.png'
+link: https://www.facebook.com/permalink.php?story_fbid=1661849354034661&id=1546274582258806
 ---
 
 UFF lança Museu de Memes. Importante passo para a memória da internet…

@@ -6,6 +6,7 @@ client: Associação Bahiana de Imprensa
 tools: Joseanne Guedes
 date: 2018-11-08
 image: 'images/posts/29-1-1y306w7f74t49olsa1giu8f7kam3ijq7wj6javfwm8h0.png'
+link: http://www.abi-bahia.org.br/facom-sedia-debate-sobre-o-papel-do-whatsapp-nas-eleicoes-2018/
 ---
 
 Se o WhatsApp já foi fundamental para a campanha eleitoral de 2014, este ano o aplicativo de mensagens instantâneas mais utilizado pelos brasileiros se mostrou ainda mais decisivo, segundo especialistas. Para discutir os impactos da plataforma fechada, a Faculdade de Comunicação da Universidade Federal da Bahia (Facom/Ufba) recebe na próxima segunda-feira (12) o debate “O papel do WhatsApp nas eleições de 2018”.

@@ -6,6 +6,7 @@ client: Pontos de Contato
 tools: Cinthya Pires
 date: 2015-06-17
 image: 'images/posts/30.png'
+link: https://pontosdecontato.com.br/marketing/museu-de-memes-viktor-chagas/
 ---
 
 O Museu de Memes é um projeto desenvolvido pela Universidade Federal Fluminense (UFF) que envolve pesquisa e atividades de extensão sobre memes disseminados nas redes sociais online. Proporciona difusão de conhecimento para profissionais e pesquisadores interessados no tema e na natureza desses conteúdos.

@@ -6,6 +6,7 @@ client: La Prensa (Espanha)
 tools: 
 date: 2017-06-16
 image: 'images/posts/82-1y304uin4otktafxl7tuergmo8i6q864jvshuoqxx4ys.png'
+link: https://www.prensa.com/impresa/vivir/Memes-caos-Brasil_0_4783021700.html
 ---
 
 El entrenador de la “canarinha”, Tite, proclamado presidente o turistas fotografiándose junto a Michel Temer como una Torre de Pisa a punto de caer. Son dos desenlaces ficticios de la crisis en Brasil, pero que han corrido veloces por los celulares de un país que se ríe a memes de su decepción.

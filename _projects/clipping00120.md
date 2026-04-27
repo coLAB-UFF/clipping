@@ -6,6 +6,7 @@ client: Tribuna da Bahia
 tools: Rodrigo Daniel Silva
 date: 2018-11-13
 image: 'images/posts/25-1-1y306sfnedmmenlhhu9u289gzdmgpvw4wb6ixzx1xf8k.png'
+link: https://www.trbn.com.br/materia/I12530/pesquisadores-avaliam-papel-do-whatsapp-nas-eleicoes
 ---
 
 O professor da Universidade Federal Fluminense (UFF), Viktor Chagas, disse, ontem, que as eleições deste ano não tiveram uma presença forte dos “memes”, como se esperava. Os memes são utilizados para caracterizar uma ideia ou conceito que se difunde por meio da internet. Pode ser uma frase, link, vídeo, site, imagem que se espalham nas redes sociais. “Nessas eleições, no fundo, a gente não teve um ambiente absolutamente propício para memes. Essas eleições não foram as eleições do memes, mas sim as eleições dos virais. O que a gente observou é que tinha um conjunto de conteúdos que circulavam de forma unívoca e individual”, avaliou, durante o evento “O papel do Whatsapp nas eleições 2018”, promovido pelo Instituto Nacional de Ciência e Tecnologia em Democracia Digital, que aconteceu na manhã de ontem na Universidade Federal da Bahia (Ufba).

@@ -6,6 +6,7 @@ client: Arte | Ref
 tools: 
 date: 2017-03-22
 image: 'images/posts/33.png'
+link: http://arteref.com/arte-no-mundo/museu-de-memes-facilita-a-vida-de-milhares-de-jovens/
 ---
 
 Um acervo online que quer acumular e catalogar todos os memes criados, o motivo por trás da iniciativa é: “um site que reúne todos os memes para facilitar a busca acadêmica destas peças”.

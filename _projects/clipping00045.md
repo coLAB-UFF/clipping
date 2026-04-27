@@ -6,6 +6,7 @@ client: Guri de Uruguaiana
 tools: 
 date: 2015-06-16
 image: 'images/posts/11.png'
+link: https://twitter.com/jairkobe/status/610787693224660993
 ---
 
 Chê, olha que ideia loca de especial do pessoal da UFF…

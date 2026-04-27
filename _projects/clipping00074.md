@@ -6,6 +6,7 @@ client: IBRAM
 tools: 
 date: 2015-06-23
 image: 'images/posts/25.png'
+link: https://www.facebook.com/MuseusBR/posts/1056369491057460
 ---
 
 Quando o efêmero vira memória: conheça o projeto Museu de Memes da UFF – Universidade Federal Fluminense!

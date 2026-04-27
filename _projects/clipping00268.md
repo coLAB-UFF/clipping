@@ -6,6 +6,7 @@ client: O Globo
 tools: Lauriberto Pompeu e Jan Niklas
 date: 2023-03-30
 image: 'images/posts/clipping00268.png'
+link: https://oglobo.globo.com/politica/noticia/2023/03/ofensas-xingamentos-e-palavroes-a-nova-rotina-do-congresso-de-olho-nas-redes-sociais.ghtml
 ---
 
 Os primeiros dois meses de trabalhos no Congresso têm sido marcados por troca de ofensas entre bolsonaristas e integrantes da base de Lula, rebaixando o nível do debate legislativo. Nos últimos dois dias, tanto senadores quanto deputados travaram bate-bocas, com direito a menção a arma de fogo e registro de ocorrência na delegacia. O próprio presidente da Câmara, Arthur Lira (PP-AL), já reprovou publicamente manifestações agressivas e classificou como “deprimente” uma sessão da Casa. Especialistas afirmam que parlamentares estão reproduzindo no Congresso a lógica das redes sociais.

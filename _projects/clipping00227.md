@@ -6,6 +6,7 @@ client: O Hoje
 tools: Mariama Correia e Nathallia Fonseca
 date: 2022-09-01
 image: 'images/posts/Screenshot-at-Sep-08-09-00-27-1zsm0m9wjwjaoyk3taqat3l26y2lyk2yzyvzwdsosbc4.png'
+link: https://ohoje.com/noticia/politica/n/1433567/t/tiktokers-evangelicos-apoiam-bolsonaro-enquanto-lula-tenta-conquistar-jovens-cristaos/
 ---
 
 Vídeos com cortes rápidos, trilha sonora animada, dancinhas e conteúdos viciantes de fácil viralização. O TikTok é uma plataforma de massas – que bateu 1 bilhão de usuários ativos no mundo em 2021, sendo o Brasil o país que mais usa a ferramenta -, mas também de nichos, graças a um algoritmo de recomendação eficaz em personalizar a oferta de conteúdos a partir dos interesses do usuário.

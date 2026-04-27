@@ -6,6 +6,7 @@ client: Terra
 tools: Italo Cosme e Jullie Pereira
 date: 2021-07-03
 image: 'images/posts/Screenshot-at-Jul-04-18-58-27-1y6s21xr8ljqg22kv2f7zq56wskblk7tkmu2jsz3mquc.png'
+link: https://www.terra.com.br/noticias/protestos-e-cpi-impulsionam-pedidos-de-impeachment-de-bolsonaro-nas-redes-sociais,4ec93cf850be2f9f1b190ee4b95aa032j7qe57hn.html
 ---
 
 As manifestações de rua contra o governo e a CPI da Covid, que agora tem como foco as suspeitas na compra de vacinas, deram fôlego aos pedidos de impeachment do presidente Jair Bolsonaro nas redes sociais. O pico de menções contrárias ao presidente ocorreu em 29 de maio, quando a oposição realizou o primeiro ato desde o início da pandemia.

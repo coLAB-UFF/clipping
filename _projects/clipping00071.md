@@ -6,6 +6,7 @@ client: Sputnik News
 tools: Daniela Díaz
 date: 2017-05-19
 image: 'images/posts/66.png'
+link: https://sputniknews.lat/20170519/museo-memes-brasil-1069296373.html
 ---
 
 Investigadores de una universidad brasileña crearon un museo virtual de memes con análisis académicos sobre "un nuevo género mediático" que va más allá del sentido de humor y del manejo técnico de edición de imágenes.

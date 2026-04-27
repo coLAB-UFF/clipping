@@ -6,6 +6,7 @@ client: GGN
 tools: Cíntia Alves
 date: 2022-04-27
 image: 'images/posts/Screenshot-at-May-11-16-27-50-1zcjaqkgm9suzn4wr9r3fka1esey0xf24m09fahptilg.png'
+link: https://jornalggn.com.br/politica/eduardo-bolsonaro-aparece-em-esquema-de-astroturfing-usado-no-whatsapp-na-eleicao-de-2018/
 ---
 
 Um estudo publicado na prestigiada revista científica International Journal of Communication em 2022 aponta fortes indícios de participação do hoje deputado federal Eduardo Bolsonaro (PSL) em um esquema de mobilização social e distribuição de fake news pelo WhatsApp na eleição de 2018.

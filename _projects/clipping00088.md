@@ -6,6 +6,7 @@ client: China Global Television Network / CGTN America
 tools: 
 date: 2017-07-07
 image: 'images/posts/92-1y3051p4qw9enz7i4afktb5eflgso0xmqjbwdnuanlus.png'
+link: https://america.cgtn.com/2017/07/07/meme-fever-arises-in-brazil-as-citizens-cope-with-political-crisis
 ---
 
 In Brazil, people may have found a way to vent their political frustrations—through funny images of internet memes. So many memes are popping up in Brazil that one university created a virtual museum to study this internet phenomenon.

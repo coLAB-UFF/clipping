@@ -6,6 +6,7 @@ client: Brasil De Fato
 tools: Lucas Estanislau
 date: 2022-09-20
 image: 'images/posts/Screenshot-at-Oct-08-20-03-02-1zwparjr30587k5zsb1cxchbelv1oelmm70cpmphvuck.png'
+link: https://www.brasildefato.com.br/2022/09/20/brasil-vai-virar-a-venezuela-o-que-esta-por-tras-do-bordao-da-direita-que-segue-vivo-em-2022
 ---
 
 "Quem o ex-presidiário [Lula] apoiou no passado? Apoiou [Hugo] Chávez, apoiou [Nicolás] Maduro. Para onde foi a Venezuela?". Foi desta maneira que o presidente e candidato à reeleição, Jair Bolsonaro (PL), iniciou suas considerações finais durante o primeiro debate presidencial das eleições de 2022, transmitido pela Rede Bandeirantes em agosto.

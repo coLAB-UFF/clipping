@@ -6,6 +6,7 @@ client: O Globo
 tools: Filipe Vidon, Gabriela Medeiros e Jan Niklas
 date: 2021-07-18
 image: 'images/posts/Screenshot-at-Oct-08-17-39-38-1yjnz1g4hyohlpi0eew2rqoguybgqcpccwzesb63swv8.png'
+link: https://blogs.oglobo.globo.com/sonar-a-escuta-das-redes/post/alvos-de-remocao-de-conteudo-bolsonaristas-buscam-redes-sociais-alternativas.html
 ---
 
 RIO - Alvo de remoção de conteúdo e bloqueio de perfis no Twitter e Facebook, políticos bolsonaristas e militantes de extrema direita vêm tentando emplacar redes sociais alternativas na internet. Após passarem pelos aplicativos Gab e Parler – que não decolaram — a nova aposta é o Gettr, conhecido como “a rede social de Donald Trump”. Na última semana, o presidente Jair Bolsonaro e dois de seus filhos, o deputado federal Eduardo (PSL-SP) e o senador Flávio (Patriota-RJ), anunciaram a criação de suas contas na plataforma convocando seus apoiadores a lhes seguirem.

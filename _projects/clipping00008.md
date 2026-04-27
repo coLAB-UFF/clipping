@@ -6,6 +6,7 @@ client: Hypeness
 tools: Vitor Paiva
 date: 2017-05-10
 image: 'images/posts/61.png'
+link: http://www.hypeness.com.br/2017/05/o-museu-de-memes-e-brasileiro-e-e-a-melhor-forma-de-eternizar-a-zueira-que-abunda-na-internet/
 ---
 
 Glória Pires incapaz de opinar no Oscar, Eduardo Jorge, Tapa na pantera, Luisa Marilac, Japonês da federal, John Travolta confuso, diferentona, cala a boca Galvão, Nissim Ourfali, Winona Ryder em choque, e tantos, mas tanto outros memes e virais – que costumam ser tratados como mera zoeira, simplesmente uma das mil manias derivadas da internet, passaram a ser tratadas como peças de museu, literalmente. Criado como um projeto do curso de Estudos de Mídia na Universidade Federal Fluminense (UFF), o Museu dos Memes leva justamente a zoeira a sério.

@@ -6,6 +6,7 @@ client: Canal Futura (Conexão Futura)
 tools: 
 date: 2014-07-09
 image: 'images/posts/6.png'
+link: https://www.youtube.com/watch?v=MrDYxXyGr3Y
 ---
 
 Como as mídias digitais influenciam no comportamento dos eleitores? Em ano eleitoral, o Conexão apresenta uma série de programas especiais. No estúdio, Viktor Chagas, coordenador do curso de Estudos de Mídia da UFF; Valdemar Figueiredo, professor de Ciências Políticas da ESPM Rio; e Luiz Fernando Moncau, professor e gestor do Centro de Tecnologia e Sociedade da FGV Direito Rio. | Conexão Futura, 9 de julho de 2014. Apresentação: Cristiano Reckziegel.

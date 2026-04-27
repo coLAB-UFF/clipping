@@ -6,6 +6,7 @@ client: Revista Piauí
 tools: Guilherme Pavarin
 date: 2019-08-01
 image: 'images/posts/62-1-1y307k7nx0lbcneox2w3hez4dl7zrwzmvvc4yoer73hg.png'
+link: https://piaui.folha.uol.com.br/materia/memes-no-museu/
 ---
 
 O professor Viktor Chagas chegou ao Museu da República, no Rio de Janeiro, cumprimentou os seguranças e apontou para a maior tela do salão térreo. “Esta é a famosa pintura da confecção da bandeira, de Pedro Bruno”, disse, apressado. O quadro A Pátria, de 1919, retrata uma criança agarrada a uma imensa bandeira do Brasil que está sendo confeccionada por um grupo de mulheres. É uma das imagens emblemáticas da virada republicana do país. O professor subiu as escadas, atravessou uma sala, depois outra, e por fim se postou diante de uma imagem menor que reproduzia a tela de Pedro Bruno, mas coberta de letras brancas que diziam: “Ordem e Progresso: é verdade esse bilete.”

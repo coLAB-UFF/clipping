@@ -6,6 +6,7 @@ client: Marco Zero
 tools: Laércio Portela
 date: 2021-09-22
 image: 'images/posts/Screenshot-at-Oct-08-16-57-24-1yjntxasbpp2jecdvtkibr7cwwg7w96ucg78eefd6stg.png'
+link: https://marcozero.org/pesquisadores-debatem-o-populismo-digital-que-levou-a-extrema-direita-ao-poder/
 ---
 
 Confundir para conquistar parece ser um ponto em comum na ascensão da extrema-direita no mundo nos últimos anos. As redes sociais são a estrada explorada para a disseminação de informações falsas, contraditórias e distorcidas que apelam às emoções e paixões cultivadas por setores da sociedade. Alguns autores cunharam a expressão “populismo digital” para o fenômeno. O tema vem tomando a atenção de pesquisadores que tentam entender a complexidade envolvida nos processos que relacionam a polarização política com as mais variadas estratégias de desinformação.

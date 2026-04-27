@@ -6,6 +6,7 @@ client: BBC Brasil
 tools: Luiz Antônio Araújo
 date: 2021-12-18
 image: 'images/posts/Screenshot-at-Jan-08-10-04-52-1yvza60mvlc4dwibhz8xvxu9mhy5u42duqps6acn9g10.png'
+link: https://www.bbc.com/portuguese/brasil-59640270
 ---
 
 A eleição de 2022 será marcada por algumas novidades: horário de Brasília para todo o país no dia da votação, federações partidárias e até mesmo fone de ouvido descartável para deficientes auditivos nas seções. Mas há algo que, segundo especialistas, deve ser de fato o mais marcante do processo: a presença maciça de um agente que pode ser definido como "cidadão marqueteiro".

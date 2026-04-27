@@ -6,6 +6,7 @@ client: O Antagonista
 tools: 
 date: 2023-02-21
 image: 'images/posts/clipping00265.png'
+link: https://oantagonista.com.br/brasil/bolsonaristas-cobram-soltura-de-presos-em-supergrupos-de-whatsapp/
 ---
 
 Militantes bolsonaristas voltaram a se mobilizar em “supergrupos” de WhatsApp para cobrar a soltura dos presos após as invasões das sedes dos Três Poderes, em Brasília, no dia 8 de janeiro. Segundo levantamento feito pelo Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração da Universidade Federal Fluminense, Colab/UFF, publicado pelo Estadão, os disparos de mensagens ganharam força em fevereiro.

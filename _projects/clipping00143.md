@@ -6,6 +6,7 @@ client: TV Brasil / Viralizando
 tools: 
 date: 2019-05-06
 image: 'images/posts/49-1-1y3078r4j12ym7vs5jtrw0n82ng14ipx4vy9exuuveck.png'
+link: https://www.youtube.com/watch?v=IXzLBsvpyow&list=PLuP7SQK7lt1YT6cVAv6vAvY2E3v1I9T1c&index=1
 ---
 
 Hoje em dia quem faz sucesso não se torna notícia, vira meme! E ninguém escapa: artistas, políticos. Tudo, literalmente tudo é reinterpretado na forma de meme e viraliza nas redes. Pra entender isso, Alan Ribeiro conversou com o professor universitário Viktor Chagas, que coordena o projeto Museu de Memes, da Universidade Federal Fluminense, um acervo online que cataloga e expõe esse conteúdo. E quem produz esse material? Alan conversou com Jones Uchiha, Tamiris Barcellos e Gabriel Hakkinem, as mentes por trás do South America Memes, um grupo que se especializou em criar esse tipo viral.

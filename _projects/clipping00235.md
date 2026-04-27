@@ -6,6 +6,7 @@ client: Estadão
 tools: Levy Teles, Samuel Lima e Gustavo Queiroz
 date: 2022-09-28
 image: 'images/posts/Screenshot-at-Oct-08-20-17-20-1zwpcj0dp3croz218iewh6usrc211bdgfjs7nioyfyw4.png'
+link: https://www.estadao.com.br/politica/timeline-eleicoes-2022/whatsapp-telegram-comunismo/
 ---
 
 Em grupos de WhatsApp e Telegram, a retórica anticomunista costuma ser mais radical. Dezenas de usuários formulam teorias da conspiração relacionadas ao período eleitoral e pedem intervenção militar para "libertar o povo brasileiro".

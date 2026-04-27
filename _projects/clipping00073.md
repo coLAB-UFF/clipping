@@ -6,6 +6,7 @@ client: Fanpage Cersibon
 tools: 
 date: 2012-01-01
 image: 'images/posts/3.png'
+link: https://www.facebook.com/cersibonforever?fref=ts
 ---
 
 Divulgação: #memeclube Cersibon

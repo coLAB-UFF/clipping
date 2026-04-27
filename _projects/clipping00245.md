@@ -1,11 +1,12 @@
 ---
-title: Se Liga nas Linguagens - Vol 6 - Linguagens e suas Tecnologias  
+title: Se Liga nas Linguagens - Vol 6 - Linguagens e suas Tecnologias
 subtitle: Online
 summary: Livro didático
 client: Moderna
 tools: 
 date: 2022-01-01
 image: 'images/posts/clipping00245.png'
+link: https://www.calameo.com/books/002899327ad22f6c4c002
 ---
 
 Se Liga nas Linguagens - Vol 6 - Linguagens e suas Tecnologias - As experiências de compartilhar quem se é, de engajar, de comentar e de descobrir e informar.

@@ -6,6 +6,7 @@ client: Exame
 tools: Bruno Vaiano
 date: 2017-03-22
 image: 'images/posts/39.png'
+link: https://exame.com/tecnologia/inaugurado-o-primeiro-museu-de-memes-do-brasil/
 ---
 
 A Universidade Federal Fluminense acaba de lançar o projeto acadêmico mais diferentão de 2017 (e quiçá da história recente): o Museu de Memes.

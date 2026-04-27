@@ -6,6 +6,7 @@ client: Desinformante
 tools: 
 date: 2023-12-22
 image: 'images/posts/clipping00260.png'
+link: https://desinformante.com.br/memes-extremistas-whatsapp/
 ---
 
 Como as estruturas das plataformas podem impactar na prática dos usuários? Essa foi uma das questões que norteou o estudo “Memesferas de extrema direita e affordances de plataforma: os efeitos da opacidade ambiental na disseminação de memes extremistas no Twitter e no WhatsApp” do pesquisador da Universidade Federal Fluminense (UFF), Viktor Chagas. Os resultados mostram que o WhatsApp possui memes mais persuasivos, com mais propaganda política e mais extremistas que o Twitter.

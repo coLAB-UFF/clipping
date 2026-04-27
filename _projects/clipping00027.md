@@ -6,6 +6,7 @@ client: Mais Goiás
 tools: 
 date: 2017-03-22
 image: 'images/posts/36.png'
+link: https://www.maisgoias.com.br/tecnologia/universidade-federal-fluminense-cria-o-museu-de-memes
 ---
 
 Os memes agora são patrimônio científico. Bom, pelo menos em parte. A Universidade Federal Fluminense criou o Museu de Memes. Se trata de um acervo online que quer acumular e catalogar todos os memes criados. O motivo por trás da iniciativa é: “um site que reúne todos os memes para facilitar a busca acadêmica destas peças”.

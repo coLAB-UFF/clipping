@@ -6,11 +6,11 @@ client: Yomiuri Shimbun
 tools: Takayuki Fuchigami e Mika Otsuki
 date: 2023-02-14
 image: 'images/posts/clipping00277a.jpeg'
+link: https://japannews.yomiuri.co.jp/society/social-series/20230214-90984/
 ---
 
 ![]({{site.baseurl}}/images/posts/clipping00277a.jpeg)
 *Photo by Yomiuri Shimbun*
-
 ![]({{site.baseurl}}/images/posts/clipping00277b.jpeg)
 *Photo by Yomiuri Shimbun*
 

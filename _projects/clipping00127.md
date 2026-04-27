@@ -6,6 +6,7 @@ client: Associação Bahiana de Imprensa
 tools: Joseanne Guedes
 date: 2018-11-13
 image: 'images/posts/33-1-1y306yqt2999d9czjbu0wgu5dlqp382up2eumb4d4bj8.png'
+link: https://abi-bahia.org.br/pesquisadores-criam-metodos-para-estudar-os-usos-do-whatsapp-nas-eleicoes-2018/
 ---
 
 11h04 da manhã e em algum lugar do Brasil alguém inicia o compartilhamento da notícia “TSE informa: 7,2 milhões de votos anulados pelas urnas! A diferença de votos que levaria à vitória de Bolsonaro no primeiro turno foi de menos de 2 milhões. O TSE tem obrigação de esclarecer os motivos que levaram à anulação”. 239 pessoas são atingidas. Cinco horas mais tarde, quase sete mil pessoas tinham sido alcançadas pelo boato originado no WhatsApp. E nem mesmo o desmentido do Tribunal Superior Eleitoral (TSE), na sua conta oficial no Twitter, foi capaz de apagar o incêndio em torno da confiabilidade das urnas nas eleições das fraudes virais. Pesquisadores desenvolveram métodos para investigar a lógica de viralização de informações na plataforma fechada e o cenário de inovações nas campanhas. Os resultados preliminares dos estudos foram apresentados durante o debate “O Papel do Whatsapp nas Eleições 2018″, no último dia 12.

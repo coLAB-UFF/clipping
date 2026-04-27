@@ -6,6 +6,7 @@ client: Revista Select
 tools: 
 date: 2015-06-15
 image: 'images/posts/10.png'
+link: https://twitter.com/revistaselect/status/610551860718632961
 ---
 
 Museu de Memes!!!

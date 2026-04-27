@@ -6,6 +6,7 @@ client: Museu das Favelas
 tools: 
 date: 2022-12-06
 image: 'images/posts/Screenshot-at-Dec-11-18-06-27-205acxcrmptfirkw89dqdtjgalz8u8sq07jsajrq2c84.png'
+link: https://www.instagram.com/p/Cl1bTwSrp1y/?igshid=MDJmNzVkMjY%3D
 ---
 
 Tem mais Oficina pra vocês!! 😎 Em uma iniciativa do CRIA, meu Centro de Referência, Pesquisa e Biblioteca, vai rolar, nos dias 13 e 14 de dezembro, oficinas de curadoria digital e acervos memeais, que serão ministradas por pesquisadores do #MUSEUdeMEMES.

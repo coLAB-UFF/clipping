@@ -6,6 +6,7 @@ client: Metro1
 tools: Marina Hortélio
 date: 2018-11-07
 image: 'images/posts/28-1-1y306vep8nzcy9upzx63wm8gh9692sj5vskdorjj7alg.png'
+link: https://www.metro1.com.br/noticias/politica/63918,whatsapp-fornece-ambiente-propicio-para-a-divulgacao-de-fake-news-diz-pesquisador.html
 ---
 
 Durante o período eleitoral, muitas informações, inclusive fake news, foram compartilhadas pelo aplicativo Whatsapp. A movimentação dos grupos de mensagens no app é o objeto de estudo do professor da Universidade Federal Fluminense (UFF) e pesquisador do Instituto Nacional de Ciência e Tecnologia em Democracia Digital, Viktor Chagas, que analisou 124 agrupamentos na ferramenta de compartilhamento de mensagens de base conservadora.

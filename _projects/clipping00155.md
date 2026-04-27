@@ -6,6 +6,7 @@ client: The Rio Times
 tools: Lachlan Williams
 date: 2019-06-29
 image: 'images/posts/61-1-1y307jpdxzpabxnngtm72khqexe9uzbibrhoash2aoh0.png'
+link: https://riotimesonline.com/brazil-news/brazil/in-depth-exploring-brazils-meme-culture/
 ---
 
 RIO DE JANEIRO, BRAZIL – One of the most fascinating, and misunderstood, aspects of Brazil’s modern image is its mind-boggling meme culture. Brazilians are famous for their prolific, oblique, and self-deprecating use of memes in almost any online context. However, beyond its brash and wild aesthetic, Brazil’s meme culture is well worth exploring for clues about the country’s identity, politics, and much more.
