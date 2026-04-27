@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: Instituto Net Claro Embratel
 tools: Leonardo Valle
 date: 2018-02-19
-image: 'images/posts/5-2-1y306ess4klag0keiclnk25c9lqk5c6g6l0y9ln1qsmc.png'
+image: 'images/projects/clipping00100.png'
 link: https://www.institutoclaro.org.br/educacao/nossas-novidades/reportagens/memes-ajudam-a-desenvolver-interpretacao-de-texto-e-pensamento-critico/
+tags:
 ---
 
 As redes sociais contribuíram para que um gênero de comunicação ganhasse força na sociedade: o meme. A modalidade se baseia na associação de uma imagem e texto com o intuito de transmitir uma mensagem rápida, geralmente, com um toque de humor.

@@ -5,8 +5,9 @@ summary: Nota sobre uma edição do memeclube
 client: Fanpage Cersibon
 tools: 
 date: 2012-01-01
-image: 'images/posts/3.png'
+image: 'images/projects/clipping00073.png'
 link: https://www.facebook.com/cersibonforever?fref=ts
+tags:
 ---
 
 Divulgação: #memeclube Cersibon

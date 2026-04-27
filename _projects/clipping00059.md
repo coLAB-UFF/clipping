@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Tribuna de Minas
 tools: 
 date: 2015-10-04
-image: 'images/posts/20.png'
+image: 'images/projects/clipping00059.png'
 link: http://www.tribunademinas.com.br/partiuhashtag/
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://www.tribunademinas.com.br/partiuhashtag/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

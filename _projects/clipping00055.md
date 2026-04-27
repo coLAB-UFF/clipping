@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Portal 180 (Uruguai)
 tools: 
 date: 2017-06-16
-image: 'images/posts/77-1y304qthbsmiixon0hea9g88dex329prwtheqd7rcyg4.png'
+image: 'images/projects/clipping00055.png'
 link: http://www.180.com.uy/articulo/68980_los-memes-son-la-orquesta-del-titanic-de-brasil
+tags:
 ---
 
 Sandro Sanfelice dice que los creadores de estas bromas -normalmente un fotomontaje con una leyenda humorística que se viraliza en las redes sociales- son como la orquesta del Titanic. Frente al torrente de escándalos que ahogan al gigante sudamericano desde hace más de dos años, ellos piensan seguir tocando.

@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: Boa Informação
 tools: 
 date: 2017-11-02
-image: 'images/posts/97-1y3054tekwl0cxyr1au3x2z2hntnacc4gc3lljg46qn8.png'
+image: 'images/projects/clipping00093.png'
 link: http://boainformacao.com.br/2017/11/programa-como-sera-desvenda-a-origem-dos-memes/
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://boainformacao.com.br/2017/11/programa-como-sera-desvenda-a-origem-dos-memes/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

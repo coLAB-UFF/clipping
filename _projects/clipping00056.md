@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Kwait Times
 tools: 
 date: 2017-06-16
-image: 'images/posts/80-1y304szt7m5hr56t8g05680gs910zf5qvk93v0xv7vxg.png'
+image: 'images/projects/clipping00056.png'
 link: https://storage.kuwaittimes.com/pdf/2017/jun/18/p11.pdf
+tags:
 ---
 
 SAO PAULO: Political corruption, economic crisis, rampant crime - the headlines in Brazil are grim, so locals have taken to online memes that often go viral to relieve the stress. A flurry of memes - funny images or video coupled with text that are spread online - making light of the country’s bleak situation have taken the internet by storm in a country that has the world’s second largest number of Facebook users. One popular meme has tourists taking pictures next to a leaning Tower of Pisa with the face of the deeply unpopular president Michel Temer on it.

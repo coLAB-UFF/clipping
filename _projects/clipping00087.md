@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: AFP
 tools: 
 date: 2017-06-16
-image: 'images/posts/91-1y305148s0dy2l7ggkejrrqo6u8jmdvrt9sih7wxmk4k.png'
+image: 'images/projects/clipping00087.png'
 link: https://www.afp.com/pt/noticia/25/memes-contra-o-caos-brasileiros-lidam-com-crise-com-criatividade
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.afp.com/pt/noticia/25/memes-contra-o-caos-brasileiros-lidam-com-crise-com-criatividade" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

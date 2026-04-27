@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: Techtudo (Globo.com
 tools: Milena Pereira
 date: 2013-05-15
-image: 'images/posts/5.png'
+image: 'images/projects/clipping00051.png'
 link: http://www.techtudo.com.br/noticias/noticia/2013/05/sucesso-das-redes-sociais-memes-ganham-memeday-e-disciplina-academica.html
+tags:
 ---
 
 Os memes, aquelas imagens e textos geralmente engraçados que aparecem com frequência na timeline das suas redes sociais e te incitam a curtir e compartilhar, agora têm sua própria data comemorativa: 13 de maio. O surgimento do chamado “meme day” veio a reforçar ainda mais o sucesso absoluto que são os memes no mundo virtual. No entanto, segundo Viktor Chagas, professor do Departamento de Estudos Culturais e Mídia da Universidade Federal Fluminense, o meme não é uma criação tão recente quanto parece.

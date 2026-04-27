@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: PaleoNerd
 tools: 
 date: 2015-09-10
-image: 'images/posts/18.png'
+image: 'images/projects/clipping00060.png'
 link: http://paleonerd.com.br/2015/09/10/conheca-o-museudememes/
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://paleonerd.com.br/2015/09/10/conheca-o-museudememes/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

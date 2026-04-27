@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Vix
 tools: Max Machado
 date: 2017-10-13
-image: 'images/posts/4-1-1y306aawd7kgu921nhvoh4q6vqpm1mj1is3pj67hro84.png'
+image: 'images/projects/clipping00099.png'
 link: https://www.vix.com/es/cultura-pop/195086/museo-de-memes-el-unico-lugar-que-necesitas-visitar-para-ser-una-persona-culta-y-refinada
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.vix.com/es/cultura-pop/195086/museo-de-memes-el-unico-lugar-que-necesitas-visitar-para-ser-una-persona-culta-y-refinada" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

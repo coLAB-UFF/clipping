@@ -5,8 +5,9 @@ summary: Nota sobre uma edição do #memeclube
 client: UFF Notícias
 tools: 
 date: 2013-01-23
-image: 'images/posts/4.png'
+image: 'images/projects/clipping00066.png'
 link: http://www.noticias.uff.br/noticias/2013/01/rage-comics-memeclube.php
+tags:
 ---
 
 Rage Comics é tema da terceira edição do #memeclube

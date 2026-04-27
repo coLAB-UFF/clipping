@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Yahoo Notícias
 tools: Rosa Sulleiro
 date: 2017-06-16
-image: 'images/posts/75-1y304panepyfgsfinpkl0ws2hffxbgpe8hy0qpeonpes.png'
+image: 'images/projects/clipping00082.png'
 link: https://es-us.noticias.yahoo.com/memes-caos-brasile%C3%B1os-combaten-crisis-ingenio-121038623.html
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://es-us.noticias.yahoo.com/memes-caos-brasile%C3%B1os-combaten-crisis-ingenio-121038623.html" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

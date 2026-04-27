@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Exame
 tools: 
 date: 2017-06-16
-image: 'images/posts/74-1y304oprfu2yvefgzzjjzddc8o7o9tnjb8emu9hbmnok.png'
+image: 'images/projects/clipping00054.png'
 link: http://exame.abril.com.br/tecnologia/memes-contra-o-caos-a-maneira-brasileira-de-lidar-com-a-crise/
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://exame.abril.com.br/tecnologia/memes-contra-o-caos-a-maneira-brasileira-de-lidar-com-a-crise/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
