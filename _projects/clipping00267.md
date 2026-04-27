@@ -6,10 +6,11 @@ client: ButterWord
 tools: 
 date: 2023-01-22
 image: 'images/projects/clipping00267.png'
-link: 
-tags: 
+link: https://www.butterword.com/2023/01/investigadores-de-disturbios-brasilenos.html
+tags:
 ---
 
-https://www.butterword.com/2023/01/investigadores-de-disturbios-brasilenos.html
+BRASÍLIA—Se suponía que iba a ser un día pacífico, aunque la policía esperaba manifestaciones en la amplia explanada cubierta de hierba donde se encuentran las tres ramas del poder de Brasil.
 
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.butterword.com/2023/01/investigadores-de-disturbios-brasilenos.html" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

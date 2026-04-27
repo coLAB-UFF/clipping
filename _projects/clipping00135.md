@@ -6,10 +6,11 @@ client: IstoÉ
 tools: 
 date: 2019-03-22
 image: 'images/projects/clipping00135.png'
-link: 
-tags: 
+link: https://istoe.com.br/chans-maquinas-de-odio-na-internet-ganham-notoriedade-apos-massacre-de-suzano/
+tags:
 ---
 
-https://istoe.com.br/chans-maquinas-de-odio-na-internet-ganham-notoriedade-apos-massacre-de-suzano/
+Uma seita virtual de homens misóginos, racistas e homofóbicos que propagam o ódio prolifera há cerca de sete anos na internet, produzindo ameaças, difamação e atentados.
 
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://istoe.com.br/chans-maquinas-de-odio-na-internet-ganham-notoriedade-apos-massacre-de-suzano/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

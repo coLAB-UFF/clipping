@@ -6,10 +6,11 @@ client: Exame
 tools: Bruno Vaiano
 date: 2017-03-22
 image: 'images/projects/clipping00029.png'
-link: 
-tags: 
+link: https://exame.com/tecnologia/inaugurado-o-primeiro-museu-de-memes-do-brasil/
+tags:
 ---
 
-https://exame.com/tecnologia/inaugurado-o-primeiro-museu-de-memes-do-brasil/
+A Universidade Federal Fluminense acaba de lançar o projeto acadêmico mais diferentão de 2017 (e quiçá da história recente): o Museu de Memes.
 
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://exame.com/tecnologia/inaugurado-o-primeiro-museu-de-memes-do-brasil/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->
