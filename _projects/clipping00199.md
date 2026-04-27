@@ -5,8 +5,9 @@ summary: Aula Expositiva
 client: CCBB Educativo / JA.CA Cursos
 tools: 
 date: 2021-09-30
-image: 'images/posts/Screenshot-at-Oct-21-17-15-18-1yleqvbdch5su7qb8mpq8k5bk659ru6w5h8skkh8xh0k.png'
+image: 'images/projects/clipping00199.png'
 link: https://www.youtube.com/watch?v=StUBDuUzgdE
+tags:
 ---
 
 O JACA inicia uma série de conversas sobre o que tem sido esse espaço digital e o que fica para além da pandemia. O nosso segundo convidado é Viktor Chagas.

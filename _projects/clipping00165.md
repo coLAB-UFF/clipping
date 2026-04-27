@@ -5,8 +5,9 @@ summary: Matéria sobre memes e pandemia
 client: BandNews FM
 tools: Gustavo Sleman
 date: 2020-04-27
-image: 'images/posts/71-1-1y307qg7l18iqkx6r3p5oymghpxp0jsmbgvjefme9d2c.png'
+image: 'images/projects/clipping00165.png'
 link: http://bandnewsfmrio.com.br/editorias-detalhes/memes-abordam-conscientizacao-a-respeito-da-p
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://bandnewsfmrio.com.br/editorias-detalhes/memes-abordam-conscientizacao-a-respeito-da-p" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

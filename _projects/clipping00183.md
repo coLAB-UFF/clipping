@@ -5,8 +5,9 @@ summary: Matéria sobre laboratório de pesquisa na UFF
 client: A Seguir em Niterói
 tools: 
 date: 2021-01-01
-image: 'images/posts/89-1-1y3082zwwxid3476mm2eqquh02rmmisbjtn9ii1ciixw.png'
+image: 'images/projects/clipping00183.png'
 link: https://aseguirniteroi.com.br/post/uff-e-secretaria-de-direitos-humanos-criam-projeto-para-combate-do-discurso-de-%C3%B3dio-e-de-fake-news
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://aseguirniteroi.com.br/post/uff-e-secretaria-de-direitos-humanos-criam-projeto-para-combate-do-discurso-de-%C3%B3dio-e-de-fake-news" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

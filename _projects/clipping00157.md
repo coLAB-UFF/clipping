@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: UOL Tab
 tools: Adriana Terra
 date: 2019-08-01
-image: 'images/posts/63-1-1y307ksjvwgry1eqksx4iydumcg8tk1ht4viv4c4857o.png'
+image: 'images/projects/clipping00157.png'
 link: https://tab.uol.com.br/edicao/meme-e-textao/#vim-pelo-meme-e-era-textao
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://tab.uol.com.br/edicao/meme-e-textao/#vim-pelo-meme-e-era-textao" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

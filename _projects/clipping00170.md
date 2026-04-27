@@ -5,8 +5,9 @@ summary: Entrevista com Viktor Chagas
 client: EdUFBA
 tools: 
 date: 2020-06-01
-image: 'images/posts/76-1-1y307tsbemif5kfgaid2ot85e2i50zcb4qq0bz786e04.png'
+image: 'images/projects/clipping00170.png'
 link: https://edufba.ufba.br/2020/06/edufba-entrevista-viktor-chagas/
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://edufba.ufba.br/2020/06/edufba-entrevista-viktor-chagas/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

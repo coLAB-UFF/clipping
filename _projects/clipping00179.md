@@ -5,8 +5,9 @@ summary: Matéria sobre memes e pandemia
 client: Gazeta do Povo
 tools: Maria Clara Vieira
 date: 2020-12-17
-image: 'images/posts/85-1-1y30808p283x9ioyqxfisfnichffnqahntc6hedvmjqc.png'
+image: 'images/projects/clipping00179.png'
 link: https://www.gazetadopovo.com.br/ideias/memes-sociedade-covid-19/
+tags:
 ---
 
 Em um longínquo mês de março, quando o Brasil ainda não havia contabilizado os primeiros casos de morte por Covid-19 e a Organização Mundial da Saúde (OMS) estava prestes a decretar o estado de pandemia, uma postagem da rapper americana Cardi B. circulou exaustivamente nas redes sociais. “Eu não entendo como essa m* de Wuhan, China, de repente está fazendo uma turnê pelo mundo”, desabafou, com o visual e trejeitos extravagantes de sempre. “Coronavírus! Está m* é real!”.

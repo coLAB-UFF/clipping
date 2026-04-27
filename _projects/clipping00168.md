@@ -5,8 +5,9 @@ summary: Matéria sobre memes e pandemia
 client: Catraca Livre
 tools: Tamiris Gomes
 date: 2020-05-25
-image: 'images/posts/74-1-1y307sp5gpqxjgod6j258fc16ng62embndc5rnc68x9g.png'
+image: 'images/projects/clipping00168.png'
 link: https://catracalivre.com.br/saude-bem-estar/memes-da-pandemia/
+tags:
 ---
 
 “CORONAVIRUS! S*** is real!” O berro da rapper norte-americana Cardi B, lá em março deste ano, pode ser considerado o gatilho necessário para que as engrenagens da indústria dos memes em meio à pandemia no Brasil funcionassem com toda a intensidade. Você está conectado agora, certo? Em pelo menos um momento do seu dia você foi ou será atingido por um conteúdo viral — seja um sticker no WhatsApp dos carregadores de caixão de Gana, posts no Instagram sobre a vida entediante em quarentena ou tuítes com a imagem de Bolsonaro com dificuldades em colocar uma máscara adequadamente.

@@ -5,8 +5,9 @@ summary: Análise
 client: Rádio Paulo Freire UFPE
 tools: Viktor Chagas
 date: 2020-05-26
-image: 'images/posts/73-1-1y307re5j8157c69g5htvynw4y6lppr52ivjhni3xkdg.png'
+image: 'images/projects/clipping00167.png'
 link: https://sites.ufpe.br/rpf/2020/05/26/milicias-digitais/
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://sites.ufpe.br/rpf/2020/05/26/milicias-digitais/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

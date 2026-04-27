@@ -5,8 +5,9 @@ summary: Matéria sobre repercussão da CPI da Covid-19 nas mídias sociais
 client: O Globo
 tools: Talita Duvanel
 date: 2021-05-19
-image: 'images/posts/94-1-1y3085lwrwxxrd7e3d71fo6r3harbwiopiki2hph58pw.png'
+image: 'images/projects/clipping00187.png'
 link: https://oglobo.globo.com/cultura/televisao/cpi-da-pandemia-novo-bbb-21-na-audiencia-no-engajamento-nas-redes-sociais-pazuello-lidera-ranking-de-visualizacoes-25025007
+tags:
 ---
 
 “Esta pergunta agora foi sugerida pelos internautas”, disse o senador Renan Calheiros, relator da CPI da Pandemia, durante o depoimento do ex-ministro da Saúde Eduardo Pazuello nesta quarta-feira. O parlamentar alagoano tinha aberto uma caixinha de comentários em seu Instagram oficial, no dia anterior, com os dizeres: “O que você gostaria de perguntar ao ex-ministro?”. Não se sabe se a tal pergunta veio do “Insta” do senador (“Foram milhares, separei algumas para fazer hoje”, escreveu ele num Stories”) ou do Twitter. Afinal, o tema é onipresente em todas as redes sociais.

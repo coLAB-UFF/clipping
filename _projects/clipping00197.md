@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: O Globo
 tools: Bolívar Torres
 date: 2021-09-15
-image: 'images/posts/Screenshot-at-Oct-08-17-48-23-1yjo05c6dc0fg736gdctgk232ybqm4i5dvr7hq4qjyp0.png'
+image: 'images/projects/clipping00197.png'
 link: https://oglobo.globo.com/cultura/capitao-quarta-feira-como-um-meme-traduziu-exaustao-contemporanea-25197474
+tags:
 ---
 
 RIO —  Se você é assíduo nas redes, provavelmente já cruzou ou vai cruzar com alguma variação desse meme hoje. E, se você mora no Brasil, a chance de se identificar com ele é grande. A versão mais comum, que anda circulando com força na internet, mostra dois personagens icônicos do cartunista Hergé, Tintin e o Capitão Haddock, batendo papo em um balcão. Um extenuado Haddock desabafa: “Que semana difícil, hein!” Tintin, ao seu lado, corrige: “Capitão, hoje é quarta-feira”.

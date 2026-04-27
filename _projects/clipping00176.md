@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto #MUSEUdeMEMES
 client: UOL Splash
 tools: 
 date: 2017-12-01
-image: 'images/posts/82-1-1y307yct5uioc06tctu6efkn20xm9edg5pc6aymga544.png'
+image: 'images/projects/clipping00176.png'
 link: https://www.uol.com.br/splash/amp-stories/museu-de-memes-voce-sabia-que-isso-existia/
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.uol.com.br/splash/amp-stories/museu-de-memes-voce-sabia-que-isso-existia/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

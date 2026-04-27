@@ -5,8 +5,9 @@ summary: Episódio sobre edição da Revista Estudos Históricos
 client: Podcast Casa das Humanidades
 tools: Cpdoc
 date: 2021-03-01
-image: 'images/posts/93-1-1y308568sr1cbbpcuko9nimpewvkjo8aikeyn5rgdgf8.png'
+image: 'images/projects/clipping00186.png'
 link: https://podcasters.spotify.com/pod/show/casa-das-humanidades/episodes/Narcocultura-visual-e-os-memes-bolsonaristas-como-objetos-de-pesquisa-erj45a
+tags:
 ---
 
 A Casa das Humanidades é o canal de discussão de iniciativas e projetos de pesquisa que têm movimentado a agenda dos professores, pesquisadores e diversos núcleos do Centro de Pesquisa e Documentação de História Contemporânea do Brasil (CPDOC), a Escola de Ciências Sociais da Fundação Getulio Vargas.

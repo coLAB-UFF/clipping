@@ -5,8 +5,9 @@ summary: Questão de Vestibular sobre o projeto #MUSEUdeMEMES
 client: Vestibular Fuvest – Língua Portuguesa e Redação
 tools: 
 date: 2020-01-05
-image: 'images/posts/67-1-1y307ochp2oz31o0qlufevrkcz8a83qdpvsribvyj2as.png'
+image: 'images/projects/clipping00161.png'
 link: https://www.fuvest.br/wp-content/uploads/fuv2020_2fase_dia_1.pdf
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.fuvest.br/wp-content/uploads/fuv2020_2fase_dia_1.pdf" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

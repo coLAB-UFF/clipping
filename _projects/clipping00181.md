@@ -5,8 +5,9 @@ summary: Matéria sobre WhatsApp e figurinhas
 client: Rede Globo / CE TV 2ª Edição (Juazeiro do Norte)
 tools: 
 date: 2020-12-01
-image: 'images/posts/87-1-1y30816n0ewjq9y1fz86zfoxzpoccw90evc6km9lar1g.png'
+image: 'images/projects/clipping00181.png'
 link: https://globoplay.globo.com/v/9158042/
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://globoplay.globo.com/v/9158042/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

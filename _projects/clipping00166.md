@@ -5,8 +5,9 @@ summary: Matéria sobre memes e pandemia
 client: Portal da Educativa
 tools: Daniela Lima
 date: 2020-05-27
-image: 'images/posts/72-1-1y307qyhk24jrao87cz23t3ugdrexhgqvkq02bk35s2s.png'
+image: 'images/projects/clipping00166.png'
 link: http://www.portaldaeducativa.ms.gov.br/memes-reforcam-capacidade-analgesica-do-humor-em-tempos-de-pandemia/
+tags:
 ---
 
 O conceito de “meme”, aliás, nasceu de um biológo (Richard Dawkins, no livro “O Gene Egoísta”, da década de 1970). A analogia com a biologia, é inevitável, pedimos perdão. Tal qual um vírus, os memes se espalham em velocidade imensurável e dominam o debate. Segundo estudo da Diretoria de Análise de Políticas Públicas (DAPP) da FGV, postagens com humor ou piadas compreendiam 42% das reações sobre o novo coronavírus nas redes sociais, em fevereiro.

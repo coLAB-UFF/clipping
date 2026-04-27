@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: Elle Brasil
 tools: 
 date: 2021-12-01
-image: 'images/posts/83-1-1y307z5j4bcfnexvmy4lc1re52dgp5ki6fybx2itp2zo.png'
+image: 'images/projects/clipping00177.png'
 link: https://outline.com/vduHUY
+tags:
 ---
 
 Como esperado, o atual prefeito Bruno Covas confirmou o favoritismo das pesquisas e conquistou a reeleição hoje à noite, em São Paulo. Foi mais difícil do que se imaginava. Guilherme Boulos, teoricamente adversário dos sonhos pelo perfil "extremista" de liderança de movimento que "invade casas", reduziu a dianteira do tucano e, como se diz no mundo do futebol, vendeu caro a derrota. A forma como caiu faz dele vencedor, em muitos aspectos, da disputa eleitoral.... - Veja mais em https://www.uol.com.br/ecoa/colunas/rodrigo-ratier/2020/11/29/derrotado-boulos-e-o-grande-vencedor-da-eleicao.htm?cmpid=copiaecola

@@ -5,8 +5,9 @@ summary: Entrevista com Viktor Chagas
 client: Podcast Randômico
 tools: Josué Oliveira
 date: 2020-08-01
-image: 'images/posts/77-1-1y307v0pc98rx0ojtf69ekyy5od68ytrcfhpdf1md46c.png'
+image: 'images/projects/clipping00171.png'
 link: https://open.spotify.com/episode/0BEx3lwD6BmQd7mozDBH4g?si=n-u6B6XARyGWEfH7l1JBiw&nd=1&dlsi=761d9ac681ca4e4b
+tags:
 ---
 
 Se eu digo “meme”, é provável que uma série de imagens pipoque na sua cabeça. O Trollface. O Dinossauro Filósofo. A Luiza, que está no Canadá. A campanha para salvar os pássaros Galvão. A Bela Gil te sugerindo trocar uma coisa por outra. E por aí vai.
