@@ -3,14 +3,13 @@ title: Ouça o Programa Brasil de Fato - Rio de Janeiro - 28-06-19
 subtitle: Rádio
 summary: Matéria sobre exposição do #MUSEUdeMEMES
 client: Brasil De Fato
+country: 
 tools: 
-date: 2019-06-28
-image: 'images/projects/clipping00154.png'
-link: https://www.brasildefato.com.br/2019/06/28/ouca-o-programa-brasil-de-fato-rio-de-janeiro-280619/
+date: 
 tags: 
+image: 'images/projects/clipping00154.png'
+link: Fri Jun 28 2019 00:00:00 GMT-0300 (Brasilia Standard Time)
 ---
 
-O programa da última sexta-feira fala sobre o dia 28 de Junho, data que marca a luta LGBT por direitos sociais e políticos, e a exposição “A Política dos Memes e os Memes na Política”.
-
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.brasildefato.com.br/2019/06/28/ouca-o-programa-brasil-de-fato-rio-de-janeiro-280619/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="Fri Jun 28 2019 00:00:00 GMT-0300 (Brasilia Standard Time)" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

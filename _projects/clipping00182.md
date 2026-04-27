@@ -3,14 +3,13 @@ title: Blogueiros bolsonaristas investigados por atos antidemocráticos apoiam i
 subtitle: Online
 summary: Matéria sobre atos antidemocráticos e bolsonarismo
 client: A Pública
-tools: Ethel Rudnitzki e Laura Scofield
-date: 2021-01-08
-image: 'images/projects/clipping00182.png'
-link: https://apublica.org/2021/01/nas-redes-influenciadores-bolsonaristas-investigados-por-atos-antidemocraticos-apoiam-invasao-do-capitolio-nos-eua/
+country: 
+tools: 
+date: Ethel Rudnitzki e Laura Scofield
 tags: 
+image: 'images/projects/clipping00182.png'
+link: Fri Jan 08 2021 00:00:00 GMT-0300 (Brasilia Standard Time)
 ---
 
-“A população conservadora no mundo está de olho no que está acontecendo ali e de fato isso vai impulsionar muito”, alertou o youtuber Italo Lorenzon durante a cobertura do canal Terça Livre sobre as manifestações de apoiadores de Donald Trump em Washington DC. “Esse vai ser um ano de grandes manifestações. Podem escrever o que eu estou dizendo”, continuou.
-
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://apublica.org/2021/01/nas-redes-influenciadores-bolsonaristas-investigados-por-atos-antidemocraticos-apoiam-invasao-do-capitolio-nos-eua/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="Fri Jan 08 2021 00:00:00 GMT-0300 (Brasilia Standard Time)" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

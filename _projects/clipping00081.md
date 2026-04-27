@@ -3,12 +3,13 @@ title: Memes contra el caos - los brasileños combaten la crisis con ingenio
 subtitle: Online
 summary: Matéria sobre o projeto MUSEUdeMEMES
 client: EcoDiario (Espanha)
+country: 
 tools: 
-date: 2017-06-17
-image: 'images/projects/clipping00081.png'
-link: http://ecodiario.eleconomista.es/internacional/noticias/8434648/06/17/Memes-contra-el-caos-los-brasilenos-combaten-la-crisis-con-ingenio.html
+date: 
 tags: 
+image: 'images/projects/clipping00081.png'
+link: Sat Jun 17 2017 00:00:00 GMT-0300 (Brasilia Standard Time)
 ---
 
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://ecodiario.eleconomista.es/internacional/noticias/8434648/06/17/Memes-contra-el-caos-los-brasilenos-combaten-la-crisis-con-ingenio.html" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="Sat Jun 17 2017 00:00:00 GMT-0300 (Brasilia Standard Time)" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

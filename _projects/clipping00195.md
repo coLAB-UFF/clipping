@@ -3,14 +3,13 @@ title: Pesquisadores debatem o populismo digital que levou a extrema-direita ao 
 subtitle: Online
 summary: Matéria sobre populismo digital e bolsonarismo
 client: Marco Zero
-tools: Laércio Portela
-date: 2021-09-22
-image: 'images/projects/clipping00195.png'
-link: https://marcozero.org/pesquisadores-debatem-o-populismo-digital-que-levou-a-extrema-direita-ao-poder/
+country: 
+tools: 
+date: Laércio Portela
 tags: 
+image: 'images/projects/clipping00195.png'
+link: Wed Sep 22 2021 00:00:00 GMT-0300 (Brasilia Standard Time)
 ---
 
-Confundir para conquistar parece ser um ponto em comum na ascensão da extrema-direita no mundo nos últimos anos. As redes sociais são a estrada explorada para a disseminação de informações falsas, contraditórias e distorcidas que apelam às emoções e paixões cultivadas por setores da sociedade. Alguns autores cunharam a expressão “populismo digital” para o fenômeno. O tema vem tomando a atenção de pesquisadores que tentam entender a complexidade envolvida nos processos que relacionam a polarização política com as mais variadas estratégias de desinformação.
-
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://marcozero.org/pesquisadores-debatem-o-populismo-digital-que-levou-a-extrema-direita-ao-poder/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="Wed Sep 22 2021 00:00:00 GMT-0300 (Brasilia Standard Time)" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

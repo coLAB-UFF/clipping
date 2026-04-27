@@ -3,14 +3,13 @@ title: Memes reforçam ‘capacidade analgésica’ do humor em tempos de pandem
 subtitle: Online
 summary: Matéria sobre memes e pandemia
 client: Catraca Livre
-tools: Tamiris Gomes
-date: 2020-05-25
-image: 'images/projects/clipping00168.png'
-link: https://catracalivre.com.br/saude-bem-estar/memes-da-pandemia/
+country: 
+tools: 
+date: Tamiris Gomes
 tags: 
+image: 'images/projects/clipping00168.png'
+link: Mon May 25 2020 00:00:00 GMT-0300 (Brasilia Standard Time)
 ---
 
-“CORONAVIRUS! S*** is real!” O berro da rapper norte-americana Cardi B, lá em março deste ano, pode ser considerado o gatilho necessário para que as engrenagens da indústria dos memes em meio à pandemia no Brasil funcionassem com toda a intensidade. Você está conectado agora, certo? Em pelo menos um momento do seu dia você foi ou será atingido por um conteúdo viral — seja um sticker no WhatsApp dos carregadores de caixão de Gana, posts no Instagram sobre a vida entediante em quarentena ou tuítes com a imagem de Bolsonaro com dificuldades em colocar uma máscara adequadamente.
-
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://catracalivre.com.br/saude-bem-estar/memes-da-pandemia/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="Mon May 25 2020 00:00:00 GMT-0300 (Brasilia Standard Time)" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

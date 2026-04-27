@@ -3,14 +3,13 @@ title: Jingles eleitorais - da era do rádio à campanha digital
 subtitle: Podcast
 summary: Matéria sobre campanhas políticas
 client: Nexo / Politiquês
-tools: Conrado Corsalette
-date: 2018-08-12
-image: 'images/projects/clipping00113.png'
-link: https://www.nexojornal.com.br/podcast/2018/08/12/Jingles-eleitorais-da-era-do-r%C3%A1dio-%C3%A0-campanha-digital
+country: 
+tools: 
+date: Conrado Corsalette
 tags: 
+image: 'images/projects/clipping00113.png'
+link: Sun Aug 12 2018 00:00:00 GMT-0300 (Brasilia Standard Time)
 ---
 
-Nesta edição, o “Politiquês” conta a história dos jingles eleitorais no Brasil, relembra alguns clássicos do gênero e discute seu papel nos novos tempos, a partir de entrevistas comLuciana Panke, professora de pós-graduação em Comunicação da Universidade Federal do Paraná,Viktor Chagas, professor e pesquisador do Programa de Pós-Graduação em Comunicação da Universidade Federal Fluminense, eCarlos Manhanelli, presidente da Associação Brasileira dos Consultores Políticos.
-
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.nexojornal.com.br/podcast/2018/08/12/Jingles-eleitorais-da-era-do-r%C3%A1dio-%C3%A0-campanha-digital" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="Sun Aug 12 2018 00:00:00 GMT-0300 (Brasilia Standard Time)" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

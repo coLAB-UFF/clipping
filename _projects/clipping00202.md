@@ -3,14 +3,13 @@ title: Caciques do MDB adotam memes e linguagem TikTok para tentar se reinventar
 subtitle: Online
 summary: Matéria sobre meme como estratégia comunicativa para políticos
 client: Folha de S. Paulo
-tools: João Pedro Pitombo
-date: 2021-10-31
-image: 'images/projects/clipping00202.png'
-link: https://www1.folha.uol.com.br/poder/2021/10/caciques-do-mdb-adotam-memes-e-linguagem-tiktok-para-tentar-se-reinventar-veja-video.shtml
+country: 
+tools: 
+date: João Pedro Pitombo
 tags: 
+image: 'images/projects/clipping00202.png'
+link: Sun Oct 31 2021 00:00:00 GMT-0300 (Brasilia Standard Time)
 ---
 
-Michel Temer deixa o jeito sisudo de lado e surge fazendo piadas sobre mesóclises e sobre os poemas que escreveu. Um Romero Jucá sem bigode posa para uma foto com bonecos da saga Star Wars. Roseana Sarney mostra seus dotes culinários, toca violão e participa de desafios inspirados no TikTok.
-
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www1.folha.uol.com.br/poder/2021/10/caciques-do-mdb-adotam-memes-e-linguagem-tiktok-para-tentar-se-reinventar-veja-video.shtml" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="Sun Oct 31 2021 00:00:00 GMT-0300 (Brasilia Standard Time)" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

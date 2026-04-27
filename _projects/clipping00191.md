@@ -3,14 +3,13 @@ title: Visualidades é o tema da segunda edição da revista Comunicação & Mem
 subtitle: Online
 summary: Matéria sobre lançamento da Revista Comunicação & Memória
 client: Aberje
+country: 
 tools: 
-date: 2021-07-02
-image: 'images/projects/clipping00191.png'
-link: https://www.aberje.com.br/visualidades-e-o-tema-da-segunda-edicao-da-revista-comunicacao-memoria/
+date: 
 tags: 
+image: 'images/projects/clipping00191.png'
+link: Fri Jul 02 2021 00:00:00 GMT-0300 (Brasilia Standard Time)
 ---
 
-A Memória da Eletricidade lança hoje o segundo número da revista “Comunicação & Memória”, em versões impressa e digital. A edição, que tem como tema “Visualidades”, se propõe a discutir um fenômeno contemporâneo: a transição de uma cultura do letramento para uma cultura digital, em que a imagem vem ganhando primazia em relação à palavra.
-
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.aberje.com.br/visualidades-e-o-tema-da-segunda-edicao-da-revista-comunicacao-memoria/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="Fri Jul 02 2021 00:00:00 GMT-0300 (Brasilia Standard Time)" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

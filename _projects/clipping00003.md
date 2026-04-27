@@ -3,14 +3,13 @@ title: Domingo Espetacular explica o fenômeno dos memes e encontra Chloe, uma d
 subtitle: Televisão
 summary: Matéria sobre memes
 client: Record TV (Domingo Espetacular)
+country: 
 tools: 
-date: 2017-05-28
-image: 'images/projects/clipping00003.png'
-link: http://noticias.r7.com/domingo-espetacular/videos/-domingo-espetacular-explica-o-fenomeno-dos-memes-e-encontra-chloe-uma-das-maiores-estrelas-da-internet-28052017
+date: 
 tags: 
+image: 'images/projects/clipping00003.png'
+link: Sun May 28 2017 00:00:00 GMT-0300 (Brasilia Standard Time)
 ---
 
-O Domingo Espetacular fala sobre um assunto que o brasileiro adora, o meme. Mas você sabe o que significa meme? E como eles surgem? No Rio de Janeiro, universitários criaram até um museu virtual de memes. Já em São Paulo, uma das maiores estrelas internacionais dos memes, a Chloe, falou com a nossa reportagem. Assista!
-
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://noticias.r7.com/domingo-espetacular/videos/-domingo-espetacular-explica-o-fenomeno-dos-memes-e-encontra-chloe-uma-das-maiores-estrelas-da-internet-28052017" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="Sun May 28 2017 00:00:00 GMT-0300 (Brasilia Standard Time)" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

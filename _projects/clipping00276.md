@@ -3,14 +3,13 @@ title: Come to the ‘war cry party’ - How social media helped drive mayhem in
 subtitle: Online
 summary: Matéria sobre atos antidemocráticos
 client: Washington Post
-tools: Elizabeth Dwoskin
-date: 2023-01-09
-image: 'images/projects/clipping00276.png'
-link: https://www.washingtonpost.com/technology/2023/01/08/brazil-bolsanaro-twitter-facebook/
+country: 
+tools: 
+date: Elizabeth Dwoskin
 tags: 
+image: 'images/projects/clipping00276.png'
+link: Mon Jan 09 2023 00:00:00 GMT-0300 (Brasilia Standard Time)
 ---
 
-In the weeks leading up to Sunday’s violent attacks on Brazil’s Congress and other government buildings, the country’s social media channels surged with calls to attack gas stations, refineries and other infrastructure, as well as for people to come to a “war cry party” in the capital, according to Brazilian social media researchers.
-
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.washingtonpost.com/technology/2023/01/08/brazil-bolsanaro-twitter-facebook/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="Mon Jan 09 2023 00:00:00 GMT-0300 (Brasilia Standard Time)" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

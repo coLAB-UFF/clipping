@@ -3,12 +3,13 @@ title: Brazilians Seek Out Social-Media Alternatives After Ban on Elon Musk’s 
 subtitle: Online
 summary: Matéria sobre a suspensão do X/Twitter no Brasil
 client: Wall Street Journal
-tools: Ryan Dubé
-date: 2024-09-02
-image: 'images/projects/clipping00286.png'
-link: https://www.wsj.com/world/americas/brazilians-seek-out-social-media-alternatives-after-ban-on-elon-musks-x-c185592d
+country: 
+tools: 
+date: Ryan Dubé
 tags: 
+image: 'images/projects/clipping00286.png'
+link: Mon Sep 02 2024 00:00:00 GMT-0300 (Brasilia Standard Time)
 ---
 
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.wsj.com/world/americas/brazilians-seek-out-social-media-alternatives-after-ban-on-elon-musks-x-c185592d" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="Mon Sep 02 2024 00:00:00 GMT-0300 (Brasilia Standard Time)" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

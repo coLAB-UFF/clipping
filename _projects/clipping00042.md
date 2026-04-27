@@ -3,12 +3,13 @@ title: Projeto da UFF, ‘Museu de memes’ cataloga estudos acadêmicos sobre v
 subtitle: Online
 summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Portal do Zacarias
+country: 
 tools: 
-date: 2015-06-17
-image: 'images/projects/clipping00042.png'
-link: http://portaldozacarias.com.br/site/noticia/projeto-da-uff--museu-de-memes-cataloga-estudos-academicos-sobre-virais-da-web/
+date: 
 tags: 
+image: 'images/projects/clipping00042.png'
+link: Wed Jun 17 2015 00:00:00 GMT-0300 (Brasilia Standard Time)
 ---
 
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://portaldozacarias.com.br/site/noticia/projeto-da-uff--museu-de-memes-cataloga-estudos-academicos-sobre-virais-da-web/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="Wed Jun 17 2015 00:00:00 GMT-0300 (Brasilia Standard Time)" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

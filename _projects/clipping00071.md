@@ -3,14 +3,13 @@ title: Insólito - cuando el arte del meme se vuelve ciencia
 subtitle: Online
 summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Sputnik News
-tools: Daniela Díaz
-date: 2017-05-19
-image: 'images/projects/clipping00071.png'
-link: https://sputniknews.lat/20170519/museo-memes-brasil-1069296373.html
+country: 
+tools: 
+date: Daniela Díaz
 tags: 
+image: 'images/projects/clipping00071.png'
+link: Fri May 19 2017 00:00:00 GMT-0300 (Brasilia Standard Time)
 ---
 
-Investigadores de una universidad brasileña crearon un museo virtual de memes con análisis académicos sobre "un nuevo género mediático" que va más allá del sentido de humor y del manejo técnico de edición de imágenes.
-
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://sputniknews.lat/20170519/museo-memes-brasil-1069296373.html" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="Fri May 19 2017 00:00:00 GMT-0300 (Brasilia Standard Time)" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

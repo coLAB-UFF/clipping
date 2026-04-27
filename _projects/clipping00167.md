@@ -3,12 +3,13 @@ title: Coronavírus em xeque – Drops Milícias Digitais
 subtitle: Rádio
 summary: Análise
 client: Rádio Paulo Freire UFPE
-tools: Viktor Chagas
-date: 2020-05-26
-image: 'images/projects/clipping00167.png'
-link: https://sites.ufpe.br/rpf/2020/05/26/milicias-digitais/
+country: 
+tools: 
+date: Viktor Chagas
 tags: 
+image: 'images/projects/clipping00167.png'
+link: Tue May 26 2020 00:00:00 GMT-0300 (Brasilia Standard Time)
 ---
 
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://sites.ufpe.br/rpf/2020/05/26/milicias-digitais/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="Tue May 26 2020 00:00:00 GMT-0300 (Brasilia Standard Time)" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->
