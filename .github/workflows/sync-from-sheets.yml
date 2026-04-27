@@ -1,0 +1,54 @@
+name: Sync clippings from Google Sheets
+
+on:
+  workflow_dispatch:          # disparado pelo Apps Script ao editar a planilha
+  schedule:
+    - cron: '0 6 * * *'       # fallback diário às 06:00 UTC
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write           # necessário para git push
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch clippings JSON from Apps Script
+        env:
+          APPS_SCRIPT_URL: ${{ secrets.APPS_SCRIPT_URL }}
+          WEBHOOK_SECRET:  ${{ secrets.WEBHOOK_SECRET }}
+        run: |
+          curl -sL "${APPS_SCRIPT_URL}?secret=${WEBHOOK_SECRET}" \
+            -o /tmp/clippings.json
+          python3 -c "
+          import json, sys
+          try:
+            d = json.load(open('/tmp/clippings.json'))
+            if not isinstance(d, list):
+              print('ERRO: resposta não é uma lista:', d, file=sys.stderr)
+              sys.exit(1)
+            print(f'Fetched {len(d)} clippings')
+          except Exception as e:
+            print('ERRO ao parsear JSON:', e, file=sys.stderr)
+            sys.exit(1)
+          "
+
+      - name: Generate _projects/*.md files
+        run: |
+          python3 .github/scripts/generate_projects.py \
+            /tmp/clippings.json _projects/
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _projects/
+          if git diff --staged --quiet; then
+            echo "Nenhuma alteração para commitar."
+          else
+            COUNT=$(git diff --staged --name-only | wc -l | tr -d ' ')
+            git commit -m "chore: sync ${COUNT} clipping(s) from spreadsheet [skip ci]"
+            git push
+          fi
