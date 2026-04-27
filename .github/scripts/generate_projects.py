@@ -75,11 +75,14 @@ def yaml_scalar(value: str) -> str:
 
 def image_yaml(path: str) -> str:
     """
-    Sempre envolve o caminho em aspas simples — consistente com os
-    arquivos existentes e necessário para nomes de arquivo com espaços.
+    URLs externas (http/https) ficam como scalar simples.
+    Caminhos internos são sempre envolvidos em aspas simples —
+    consistente com os arquivos existentes e necessário para nomes com espaço.
     """
     if not path:
         return "''"
+    if path.startswith(('http://', 'https://')):
+        return yaml_scalar(path)  # deixa yaml_scalar decidir o quoting
     return "'" + path.replace("'", "''") + "'"
 
 
@@ -96,6 +99,7 @@ def build_md(row: dict) -> str:
     imagem    = row.get('imagem', '').strip()
     link      = row.get('link', '').strip()
     trecho    = row.get('trecho', '').strip()
+    tags      = row.get('tags', '').strip()
 
     lines = [
         '---',
@@ -107,6 +111,7 @@ def build_md(row: dict) -> str:
         f'date: {data}',
         f'image: {image_yaml(imagem)}',
         f'link: {yaml_scalar(link)}',
+        f'tags: {yaml_scalar(tags)}',
         '---',
         '',
     ]

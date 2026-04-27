@@ -22,3 +22,5 @@
   </div>
   {% endif %}
 </div>
+
+{% if page.tags and page.tags != "" %}<div class="project-meta__item"><div class="project-meta__name">Tags</div><div class="project-meta__text">{{ page.tags }}</div></div>{% endif %}
