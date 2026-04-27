@@ -7,7 +7,7 @@ tools: Mariana Gross
 date: 2024-09-11
 image: 'images/projects/clipping00294.png'
 link: https://globoplay.globo.com/v/12961876/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://globoplay.globo.com/v/12961876/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

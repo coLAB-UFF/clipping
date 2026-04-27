@@ -7,7 +7,7 @@ tools:
 date: 2022-09-28
 image: 'images/projects/clipping00233.png'
 link: https://diplomatique.org.br/estrategias-discursivas-do-candidato-bolsonaro/
-tags:
+tags: 
 ---
 
 Este artigo é a segundo da série ‘Deus, pátria e família”, onde são reconstruídas as questões e elementos que compõem o Marco de Diagnóstico (o que há no mundo, os problemas e as injustiças) e o Marco de Prognóstico (soluções, demandas, fronteira antagônica e identidades do “eles” e do “nós”) das Práticas Discursivas da candidatura Bolsonaro 2022[1].

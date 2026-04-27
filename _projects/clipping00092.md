@@ -7,7 +7,7 @@ tools: Caio Augusto
 date: 2017-10-30
 image: 'images/projects/clipping00092.png'
 link: https://feedado.com.br/index.php/2017/10/30/uff-inaugura-primeiro-museu-de-memes-do-brasil/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://feedado.com.br/index.php/2017/10/30/uff-inaugura-primeiro-museu-de-memes-do-brasil/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

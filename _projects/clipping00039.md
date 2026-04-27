@@ -7,7 +7,7 @@ tools: Vitor Salles
 date: 2015-06-20
 image: 'images/projects/clipping00039.png'
 link: http://www.radioplantasom.com/index.php/destaque.php?id=103
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://www.radioplantasom.com/index.php/destaque.php?id=103" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

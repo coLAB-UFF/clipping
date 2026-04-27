@@ -7,7 +7,7 @@ tools: Alexandre Arruda
 date: 2022-08-18
 image: 'images/projects/clipping00230.png'
 link: https://ibpad.com.br/politica/estudo-mapeia-uso-politico-do-tik-tok/
-tags:
+tags: 
 ---
 
 Políticos de direita usam mais e melhor as redes sociais que os de esquerda. Mesmo que a frase possa parecer batida, há poucos estudos que a comprovem. E um deles, que faz um raio-x do Tik Tok, acaba de ser publicado pelos pesquisadores Viktor Chagas e Luiza de Mello Stefano, do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB), da Universidade Federal Fluminense (UFF), no Rio de Janeiro.

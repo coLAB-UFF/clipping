@@ -7,7 +7,7 @@ tools:
 date: 2019-03-14
 image: 'images/projects/clipping00138.png'
 link: https://theintercept.com/2019/03/14/massacre-suzano-imprensa/
-tags:
+tags: 
 ---
 
 O PAÍS AINDA tentava entender o que havia acontecido na escola Raul Brasil, em Suzano, na região metropolitana de São Paulo, e os chans brasileiros já comemoravam o atentado que deixou dez mortos – incluindo os dois assassinos. “Eles não eram daqui, não?”, perguntou um usuário às 11h28 no mais infame desses fóruns anônimos. O ataque havia ocorrido menos de duas horas antes.

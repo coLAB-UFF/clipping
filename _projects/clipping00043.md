@@ -7,7 +7,7 @@ tools: Marina Cohen
 date: 2015-06-17
 image: 'images/projects/clipping00043.png'
 link: http://oglobo.globo.com/sociedade/tecnologia/projeto-da-uff-museu-de-memes-cataloga-estudos-academicos-sobre-virais-da-web-16471054
-tags:
+tags: 
 ---
 
 RIO - Depois de se tornarem parte da vida cotidiana, os memes estão se tornando também objeto de estudos acadêmicos na área de comunicação. E um projeto do departamento de Estudos Culturais e Mídia da Universidade Federal Fluminense quer aproximar os internautas curiosos de pesquisas aprofundadas sobre o universo dos virais.

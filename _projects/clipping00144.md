@@ -7,7 +7,7 @@ tools: Guilherme Pavarin
 date: 2019-05-14
 image: 'images/projects/clipping00144.png'
 link: https://theintercept.com/2019/05/14/milicia-digital-bolsonarista-contra-universidades/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://theintercept.com/2019/05/14/milicia-digital-bolsonarista-contra-universidades/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

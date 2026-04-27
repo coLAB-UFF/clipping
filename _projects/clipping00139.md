@@ -7,7 +7,7 @@ tools:
 date: 2019-03-30
 image: 'images/projects/clipping00139.png'
 link: https://www.sescsp.org.br/online/artigo/13123_A+CIENCIA+POR+TRAS+DO+MEME
-tags:
+tags: 
 ---
 
 Close nos olhos dela. A expressão é de confusão. Talvez, o instante que inaugura um certo entendimento. Se você troca mensagens pelo WhatsApp, Facebook, YouTube, Twitter ou Instagram, possivelmente já se deparou com as mechas loiras e o olhar misterioso de Nazaré Tedesco, a icônica vilã da novela Senhora do Destino (2004-2005), interpretada por Renata Sorrah. Tornada meme, especialmente em GIFs, a imagem com frequência é recuperada nas calçadas da internet, dentro e fora do país, servindo a diferentes propósitos.

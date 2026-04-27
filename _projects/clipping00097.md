@@ -7,7 +7,7 @@ tools: Helena Lara Resende
 date: 2017-11-04
 image: 'images/projects/clipping00097.png'
 link: http://g1.globo.com/como-sera/noticia/2017/11/descubra-quem-esta-por-tras-dos-memes-da-internet.html
-tags:
+tags: 
 ---
 
 A repórter Helena Lara Resende conhece um dos criadores de memes. Uma brincadeira que virou trabalho sério. Além disso, ela mostra o Museu de Memes, um projeto de divulgação dos memes que bombam na internet.

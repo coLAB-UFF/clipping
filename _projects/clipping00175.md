@@ -7,7 +7,7 @@ tools: Eloy Vieira
 date: 2020-10-20
 image: 'images/projects/clipping00175.png'
 link: https://incom.uab.cat/portalcom/espanol-una-mirada-brasilena-sobre-el-estudio-de-los-memes/
-tags:
+tags: 
 ---
 
 Publicada en el año 2020, tan complicado para todo el mundo, “A cultura dos memes: aspectos sociológicos e dimensões políticas de um fenômeno do mundo digital” es una obra colectiva -en lengua portuguesa- importantísima para la investigación de la cultura digital; sobre todo, para Brasil, donde se concentra una gran producción y se da un alto consumo de “memes”. En ella encontramos algunos textos seminales de las primeras investigaciones acerca de estos objetos que antes solo estaban disponibles en inglés, pero que ya muchos han sido traducidos e, incluso, actualizados. Además, el libro recoge un diálogo con autores que no tienen el inglés como lengua materna, asegurando así, al menos, cierta diversidad geográfica en la mirada actual de la cultura digital.

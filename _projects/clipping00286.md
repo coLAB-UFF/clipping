@@ -7,7 +7,7 @@ tools: Ryan Dubé
 date: 2024-09-02
 image: 'images/projects/clipping00286.png'
 link: https://www.wsj.com/world/americas/brazilians-seek-out-social-media-alternatives-after-ban-on-elon-musks-x-c185592d
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.wsj.com/world/americas/brazilians-seek-out-social-media-alternatives-after-ban-on-elon-musks-x-c185592d" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

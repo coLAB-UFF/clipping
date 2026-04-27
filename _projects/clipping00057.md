@@ -7,7 +7,7 @@ tools:
 date: 2017-06-16
 image: 'images/projects/clipping00057.png'
 link: http://www.correiobraziliense.com.br/app/noticia/diversao-e-arte/2017/06/20/interna_diversao_arte,603440/meme-sobre-politica.shtml
-tags:
+tags: 
 ---
 
 Enquanto o Brasil se encontra em meio a uma grave crise política, uma "instituição" continua firme e forte: o meme. No momento em que o país tenta lidar com escândalos e abalos governamentais, o brasileiro opta por fazer do próprio sofrimento um motivo para rir, e as imagens de crítica e humor político-sociais tomam conta da internet.

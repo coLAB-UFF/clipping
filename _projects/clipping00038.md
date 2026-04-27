@@ -7,7 +7,7 @@ tools:
 date: 2015-07-23
 image: 'images/projects/clipping00038.png'
 link: http://www.ofluminense.com.br/pt-br/revista/um-museu-diferente
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://www.ofluminense.com.br/pt-br/revista/um-museu-diferente" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

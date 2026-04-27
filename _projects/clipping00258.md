@@ -7,7 +7,7 @@ tools: Julia Possa
 date: 2023-03-21
 image: 'images/projects/clipping00258.png'
 link: https://gizmodo.uol.com.br/uma-em-cada-10-mencoes-a-parlamentares-mulheres-sao-violentas-nas-redes/
-tags:
+tags: 
 ---
 
 A cada 10 menções a parlamentares mulheres das redes sociais no Brasil, pelo menos uma contém algum tipo de violência. Além disso, eleitas por partidos de esquerda recebem duas vezes mais ataques que mulheres de direita. Na grande maioria dos casos, os insultos e ameaças estão camuflados por “sátiras” e “humor”.

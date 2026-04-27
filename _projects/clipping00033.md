@@ -7,7 +7,7 @@ tools:
 date: 2017-02-07
 image: 'images/projects/clipping00033.png'
 link: http://portal.comunique-se.com.br/diga-me-seu-meme-preferido-e-lhe-direi-quem-es/
-tags:
+tags: 
 ---
 
 Abrir o computador, entrar na internet e se deparar com diversas imagens ou frases de conteúdo cômico já é rotina na vida da maioria dos jovens. Esses “memes” – como são chamados – permeiam os mais diversos sites e redes sociais, como Facebook, Buzzfeed e 9gag.

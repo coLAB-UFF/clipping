@@ -7,7 +7,7 @@ tools: Viktor Chagas
 date: 2024-09-10
 image: 'images/projects/clipping00289.png'
 link: https://latinoamerica21.com/en/in-brazil-x-twitter-has-become-an-alt-tech/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://latinoamerica21.com/en/in-brazil-x-twitter-has-become-an-alt-tech/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

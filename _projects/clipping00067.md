@@ -7,7 +7,7 @@ tools:
 date: 2017-03-31
 image: 'images/projects/clipping00067.png'
 link: http://hashtag.blogfolha.uol.com.br/2017/03/31/nao-se-engane-o-assunto-e-serio-com-recorde-de-visitantes-museu-de-memes-tambem-vira-meme/?cmpid#
-tags:
+tags: 
 ---
 
 A importância do assunto é tamanha que estudiosos da Universidade Federal Fluminense, em Niterói (RJ), resolveram compilá-los em um museu –virtual, claro — batizado de #MUSEUdeMEMES

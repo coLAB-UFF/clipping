@@ -7,7 +7,7 @@ tools: Nina Santos
 date: 2022-02-11
 image: 'images/projects/clipping00261.png'
 link: https://desinformante.com.br/piada-ou-desinformacao-quando-humor-e-fake-news-podem-andar-juntos/
-tags:
+tags: 
 ---
 
 O que seria das nossas vidas sem humor, não é mesmo? Seja para tornar as coisas mais leves, para fazer críticas ácidas ou para burlar sistemas de repressão, o recurso do humor é importante para a vida em sociedade e, ainda mais, em um ambiente democrático. O que vemos recentemente, no entanto, é que uma prática que historicamente foi usada para contestar elites, padrões e normas estabelecidas tem sido cada vez mais apropriada para defender publicamente posições reacionárias e de ataque a grupos minoritários. Não é raro que esse uso do humor apareça fortemente relacionado ao uso de informações falsas ou distorcidas.

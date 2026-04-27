@@ -7,7 +7,7 @@ tools: Juliana Gragnani
 date: 2020-05-25
 image: 'images/projects/clipping00169.png'
 link: https://www.bbc.com/portuguese/brasil-52801587
-tags:
+tags: 
 ---
 
 Enquanto parte população brasileira ficou estarrecida ao ver a postura do presidente Jair Bolsonaro em uma reunião ministerial realizada há um mês, apoiadores mais radicais e da base mais fiel ao presidente celebravam em grupos de WhatsApp as frases ditas por ele no encontro com os ministros.

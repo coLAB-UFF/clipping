@@ -7,7 +7,7 @@ tools: Érika Gonçalves
 date: 2018-08-24
 image: 'images/projects/clipping00114.png'
 link: https://www.folhadelondrina.com.br/folha-mais/muito-mais-que-diversao-e-irreverencia-1013297.html
-tags:
+tags: 
 ---
 
 Quando falamos em memes, a primeira ideia que surge na cabeça de quem usa a internet é de uma figura com uma frase engraçadinha. Mas a definição de meme, na verdade, vai muito além disso. Se para a maioria de nós os memes são um momento de diversão na internet, para os estudiosos da comunicação são uma fonte de pesquisa.

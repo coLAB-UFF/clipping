@@ -7,7 +7,7 @@ tools: Jairo Macedo
 date: 2017-09-11
 image: 'images/projects/clipping00090.png'
 link: http://www.correiobraziliense.com.br/app/noticia/eu-estudante/especial-enem-2017/2017/09/11/especial-enem-noticias,624532/memes-podem-cair-na-prova-de-2017.shtml
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://www.correiobraziliense.com.br/app/noticia/eu-estudante/especial-enem-2017/2017/09/11/especial-enem-noticias,624532/memes-podem-cair-na-prova-de-2017.shtml" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

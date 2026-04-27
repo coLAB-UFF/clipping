@@ -7,7 +7,7 @@ tools:
 date: 2017-06-16
 image: 'images/projects/clipping00069.png'
 link: https://tecnologia.uol.com.br/noticias/afp/2017/06/16/memes-contra-o-caos-brasileiros-lidam-com-a-crise-com-criatividade.htm
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://tecnologia.uol.com.br/noticias/afp/2017/06/16/memes-contra-o-caos-brasileiros-lidam-com-a-crise-com-criatividade.htm" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

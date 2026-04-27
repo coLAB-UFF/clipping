@@ -7,7 +7,7 @@ tools:
 date: 2017-06-09
 image: 'images/projects/clipping00072.png'
 link: http://jornalpress.com.br/n907.html
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://jornalpress.com.br/n907.html" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

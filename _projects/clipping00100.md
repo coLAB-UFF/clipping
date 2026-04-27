@@ -7,7 +7,7 @@ tools: Leonardo Valle
 date: 2018-02-19
 image: 'images/projects/clipping00100.png'
 link: https://www.institutoclaro.org.br/educacao/nossas-novidades/reportagens/memes-ajudam-a-desenvolver-interpretacao-de-texto-e-pensamento-critico/
-tags:
+tags: 
 ---
 
 As redes sociais contribuíram para que um gênero de comunicação ganhasse força na sociedade: o meme. A modalidade se baseia na associação de uma imagem e texto com o intuito de transmitir uma mensagem rápida, geralmente, com um toque de humor.

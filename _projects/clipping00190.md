@@ -7,7 +7,7 @@ tools:
 date: 2021-05-01
 image: 'images/projects/clipping00190.png'
 link: https://open.spotify.com/episode/7tzXDWe4xNlATIy5pnOErk
-tags:
+tags: 
 ---
 
 Nesta entrevista, Luana Calzavara, João Santos e Luiza Callado (PPGA-UFF) conversam com Viktor Chagas sobre comunicação política e Memes. Viktor é  professor do PPGC/UFF e pesquisador com ênfase em Comunicação Política. Além disso, é líder do Laboratório de Pesquisa em Comunicação, Culturas Políticas e Economia da Colaboração (coLAB), e coordenador do projeto de extensão #MUSEUdeMEMES. Neste episódio, conversamos sobre a trajetória acadêmica de Viktor e suas pesquisas.

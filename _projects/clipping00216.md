@@ -7,7 +7,7 @@ tools: Cíntia Alves
 date: 2022-04-27
 image: 'images/projects/clipping00216.png'
 link: https://jornalggn.com.br/politica/eduardo-bolsonaro-aparece-em-esquema-de-astroturfing-usado-no-whatsapp-na-eleicao-de-2018/
-tags:
+tags: 
 ---
 
 Um estudo publicado na prestigiada revista científica International Journal of Communication em 2022 aponta fortes indícios de participação do hoje deputado federal Eduardo Bolsonaro (PSL) em um esquema de mobilização social e distribuição de fake news pelo WhatsApp na eleição de 2018.

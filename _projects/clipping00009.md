@@ -7,7 +7,7 @@ tools: Vitor Fernandes
 date: 2017-05-10
 image: 'images/projects/clipping00009.png'
 link: http://bhaz.com.br/2017/05/10/museu-memes-acervo-online/
-tags:
+tags: 
 ---
 
 Quem nunca riu com um meme na internet? Todos os dias vemos diversas imagens engraçadas, com personagens memoráveis ou anônimos na web. O projeto Museu de Memes foi criado pelo curso de Estudo de Mídias, da Universidade Federal Fluminensem e traz muitos desses personagens em um plataforma online.

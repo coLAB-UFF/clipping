@@ -7,7 +7,7 @@ tools:
 date: 2013-01-23
 image: 'images/projects/clipping00066.png'
 link: http://www.noticias.uff.br/noticias/2013/01/rage-comics-memeclube.php
-tags:
+tags: 
 ---
 
 Rage Comics é tema da terceira edição do #memeclube

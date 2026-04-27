@@ -7,7 +7,7 @@ tools: Anaïs Richards
 date: 2025-02-12
 image: 'images/projects/clipping00307.png'
 link: https://www.ladn.eu/nouveaux-usages/une-armee-de-trolls-bresiliens-attaque-le-journal-le-monde-et-pourrait-bien-reapparaitre-aux-oscars/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.ladn.eu/nouveaux-usages/une-armee-de-trolls-bresiliens-attaque-le-journal-le-monde-et-pourrait-bien-reapparaitre-aux-oscars/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

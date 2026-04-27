@@ -7,7 +7,7 @@ tools:
 date: 2021-10-31
 image: 'images/projects/clipping00201.png'
 link: https://bpositivenow.com/mdb-chiefs-adopt-memes-and-tiktok-language-to-try-to-reinvent-themselves-see-video-10-31-2021-power/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://bpositivenow.com/mdb-chiefs-adopt-memes-and-tiktok-language-to-try-to-reinvent-themselves-see-video-10-31-2021-power/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

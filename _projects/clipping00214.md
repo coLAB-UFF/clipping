@@ -7,7 +7,7 @@ tools:
 date: 2022-04-06
 image: 'images/projects/clipping00214.png'
 link: https://istoe.com.br/memes-tambem-enganam-o-uso-do-humor-como-ferramenta-de-desinformacao/
-tags:
+tags: 
 ---
 
 Divertidos e fáceis de compartilhar, os memes dominam o espaço das redes sociais, somando incontáveis interações seja no formato de vídeos, imagens legendadas ou bordões cativantes. Mas, com o grande alcance, o conteúdo pode perder o contexto e passar a espalhar ideias falsas com um agravante: a ausência de responsabilização.

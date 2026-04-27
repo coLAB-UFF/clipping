@@ -7,7 +7,7 @@ tools: Ricardo Fabrino Mendonça e Viktor Chagas
 date: 2023-02-09
 image: 'images/projects/clipping00259.png'
 link: https://revistacult.uol.com.br/home/da-relacao-entre-os-memes-de-bom-dia-e-o-ataque-brasilia/
-tags:
+tags: 
 ---
 
 A comunicação política passou por mudanças muito profundas nas últimas duas décadas. Plataformas, bolhas, robôs, algoritmos, lacração, hashtags, emojis e micro-targeting tornaram-se termos mais comuns para entender os processos comunicativos pelos quais se estruturam as disputas de poder na atualidade. Nesse cenário, chama muita atenção o papel que memes adquiriram. Circulando por aplicativos de trocas de mensagens, alimentando interações rápidas e sarcásticas em diversas plataformas e oferecendo expressões partilhadas para emoções, há uma abundância de memes nas conversas atuais sobre política.

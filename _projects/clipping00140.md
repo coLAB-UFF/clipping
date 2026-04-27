@@ -7,7 +7,7 @@ tools: Ana Beatriz Rosa
 date: 2019-03-27
 image: 'images/projects/clipping00140.png'
 link: https://www.huffpostbrasil.com/entry/suzano-ameacas-ataques_br_5c994707e4b0f7bfa1b56b11
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.huffpostbrasil.com/entry/suzano-ameacas-ataques_br_5c994707e4b0f7bfa1b56b11" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

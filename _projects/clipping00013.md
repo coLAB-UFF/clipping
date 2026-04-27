@@ -7,7 +7,7 @@ tools:
 date: 2017-04-01
 image: 'images/projects/clipping00013.png'
 link: https://twitter.com/youpix/status/848012891517313024
-tags:
+tags: 
 ---
 
 Vida longa ao Museu de Memes. Ficamos mega felizes de saber que alguem está documentando a cultura do nosso tempo. <3

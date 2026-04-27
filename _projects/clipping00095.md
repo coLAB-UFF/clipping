@@ -7,7 +7,7 @@ tools:
 date: 2017-11-02
 image: 'images/projects/clipping00095.png'
 link: https://onoticioso.com/21529-2/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://onoticioso.com/21529-2/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

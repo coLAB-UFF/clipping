@@ -7,7 +7,7 @@ tools:
 date: 2018-11-14
 image: 'images/projects/clipping00121.png'
 link: http://aratuonline.com.br/noticias/ufba-promove-evento-que-debate-o-papel-do-whatsapp-nas-eleicoes-2018/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://aratuonline.com.br/noticias/ufba-promove-evento-que-debate-o-papel-do-whatsapp-nas-eleicoes-2018/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

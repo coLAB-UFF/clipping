@@ -7,7 +7,7 @@ tools: Bruno Vaiano
 date: 2017-03-22
 image: 'images/projects/clipping00026.png'
 link: https://super.abril.com.br/ideias/inaugurado-o-primeiro-museu-de-memes-do-brasil
-tags:
+tags: 
 ---
 
 Tá saindo da jaula o maior museu que você respeita. A Universidade Federal Fluminense acaba de lançar o projeto acadêmico mais diferentão de 2017 (e quiçá da história recente): o Museu de Memes.

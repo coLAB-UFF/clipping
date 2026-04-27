@@ -7,7 +7,7 @@ tools: Livia Saboya
 date: 2017-11-20
 image: 'images/projects/clipping00094.png'
 link: https://patiohype.com.br/voce-sabia-que-existe-um-museu-de-memes-e-e-no-brasil/
-tags:
+tags: 
 ---
 
 Quando pensamos em museu, logo nos vem à mente aquela ideia de um local grande,  cheio de obras de arte espalhados por todos os lados. Junto de cada peça, um pequeno texto explicativo. As visitas podem até ser guiadas por alguém que vai contando histórias sobre aquilo que está sendo exposto. Pois bem… Mas nem todo museu é assim, existem museus até na internet.

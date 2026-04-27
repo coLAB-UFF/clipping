@@ -7,7 +7,7 @@ tools:
 date: 2021-07-02
 image: 'images/projects/clipping00191.png'
 link: https://www.aberje.com.br/visualidades-e-o-tema-da-segunda-edicao-da-revista-comunicacao-memoria/
-tags:
+tags: 
 ---
 
 A Memória da Eletricidade lança hoje o segundo número da revista “Comunicação & Memória”, em versões impressa e digital. A edição, que tem como tema “Visualidades”, se propõe a discutir um fenômeno contemporâneo: a transição de uma cultura do letramento para uma cultura digital, em que a imagem vem ganhando primazia em relação à palavra.

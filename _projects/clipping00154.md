@@ -7,7 +7,7 @@ tools:
 date: 2019-06-28
 image: 'images/projects/clipping00154.png'
 link: https://www.brasildefato.com.br/2019/06/28/ouca-o-programa-brasil-de-fato-rio-de-janeiro-280619/
-tags:
+tags: 
 ---
 
 O programa da última sexta-feira fala sobre o dia 28 de Junho, data que marca a luta LGBT por direitos sociais e políticos, e a exposição “A Política dos Memes e os Memes na Política”.

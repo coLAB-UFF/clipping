@@ -7,7 +7,7 @@ tools:
 date: 2019-03-23
 image: 'images/projects/clipping00131.png'
 link: https://www.laopinion.com.co/mundo/foros-de-odio-en-internet-ganan-notoriedad-tras-matanza-en-una-escuela-de-brasil#OP
-tags:
+tags: 
 ---
 
 Una secta virtual de hombres misóginos, racistas y homofóbicos de Brasil que desde hace años incita a la violencia ganó notoriedad tras la matanza este mes en un colegio de Suzano (sudeste).

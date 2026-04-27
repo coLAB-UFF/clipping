@@ -7,7 +7,7 @@ tools: Larissa Baltazar
 date: 2015-06-19
 image: 'images/projects/clipping00062.png'
 link: http://biblioo.info/museudememes/
-tags:
+tags: 
 ---
 
 Desde que a internet se consolidou, assuntos viram tendência de uma hora para a outra — e desaparecem pouco tempo depois, da mesma forma. Pensando nisso e no impacto que esses fenômenos têm na rotina moderna, cinco universitários e dois professores da Universidade Federal Fluminense (UFF) criaram uma plataforma online chamada #MuseuDeMemes.

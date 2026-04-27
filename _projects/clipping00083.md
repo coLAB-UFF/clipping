@@ -7,7 +7,7 @@ tools:
 date: 2017-06-16
 image: 'images/projects/clipping00083.png'
 link: http://www.em.com.br/app/noticia/politica/2017/06/16/interna_politica,876885/memes-contra-o-caos-brasileiros-lidam-com-a-crise-com-criatividade.shtml
-tags:
+tags: 
 ---
 
 O treinador da seleção brasileira, Tite, proclamado presidente da República ou turistas tirando fotos ao lado de Temer como uma Torre de Pisa prestes a cair: os dois finais fictícios para a crise política brasileira se espalharam rapidamente pelos celulares em um país que usa os memes para rir de se próprio caos.

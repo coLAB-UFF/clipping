@@ -7,7 +7,7 @@ tools:
 date: 2021-09-30
 image: 'images/projects/clipping00199.png'
 link: https://www.youtube.com/watch?v=StUBDuUzgdE
-tags:
+tags: 
 ---
 
 O JACA inicia uma série de conversas sobre o que tem sido esse espaço digital e o que fica para além da pandemia. O nosso segundo convidado é Viktor Chagas.

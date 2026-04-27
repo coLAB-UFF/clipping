@@ -7,7 +7,7 @@ tools:
 date: 2015-06-15
 image: 'images/projects/clipping00046.png'
 link: https://twitter.com/revistaselect/status/610551860718632961
-tags:
+tags: 
 ---
 
 Museu de Memes!!!

@@ -7,7 +7,7 @@ tools: Lais Pagoto
 date: 2017-06-07
 image: 'images/projects/clipping00053.png'
 link: https://www.metrojornal.com.br/cultura/2017/06/07/projeto-de-graduacao-inaugura-museu-de-memes-na-internet.html?utm_source=twitter-perfil&utm_medium=social&utm_content=projeto-de-graduacao-inaugura-museu-de-memes-na-internet.html&utm_campaign=cultura
-tags:
+tags: 
 ---
 
 “Coragem. Tem que ter coragem, né?”, desabafa Nicole Bahls, ex-panicat, em um meme. Fenômeno típico da internet, o meme pode ser uma imagem ou analogia, uma frase de efeito, um comportamento difundido, ou um desafio. E já faz parte da comunicação no Brasil. Por isso, a Universidade Federal Fluminense (UFF) criou um projeto na web chamado Museu de Memes.

@@ -1,13 +1,13 @@
 ---
 title: Você conhece o Museu de Memes? Sim, ele existe!
 subtitle: Online
-summary: 
+summary: Matéria sobre memes
 client: Rádio Metropolitana 98.5 FM
 tools: 
 date: 2017-03-24
 image: 'images/projects/clipping00001.png'
 link: http://metropolitanafm.uol.com.br/humor/voce-conhece-o-museu-de-memes
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://metropolitanafm.uol.com.br/humor/voce-conhece-o-museu-de-memes" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

@@ -7,7 +7,7 @@ tools:
 date: 2017-06-17
 image: 'images/projects/clipping00077.png'
 link: https://thepeninsulaqatar.com/article/17/06/2017/Meme-humor-helps-Brazilians-cope-with-grim-times
-tags:
+tags: 
 ---
 
 Sao Paulo: Political corruption, economic crisis, rampant crime -- the headlines in Brazil are grim, so locals have taken to online memes that often go viral to relieve the stress.

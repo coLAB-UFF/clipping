@@ -7,7 +7,7 @@ tools: Levy Teles
 date: 2022-09-07
 image: 'images/projects/clipping00223.png'
 link: https://www.estadao.com.br/politica/timeline-eleicoes-2022/whatsapp-telegram-7-setembro/
-tags:
+tags: 
 ---
 
 Num dia marcado por manifestações de apoio ao presidente Jair Bolsonaro (PL) no bicentenário do Dia da Independência, bolsonaristas usaram o Telegram e WhatsApp para atacar a legitimidade do processo eleitoral e insistir numa tese de fraude a acontecer no dia 2 de outubro.

@@ -7,7 +7,7 @@ tools:
 date: 2019-04-01
 image: 'images/projects/clipping00142.png'
 link: https://meiahora.ig.com.br/geral/2019/04/5633475--na-duvida-nao-compartilhe--delete---especialistas-explicam-motivos-da-memes-viralizarem-e-dao-dicas-de-como-evitar-espalhar-fake-news.html
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://meiahora.ig.com.br/geral/2019/04/5633475--na-duvida-nao-compartilhe--delete---especialistas-explicam-motivos-da-memes-viralizarem-e-dao-dicas-de-como-evitar-espalhar-fake-news.html" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

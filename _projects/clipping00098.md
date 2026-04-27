@@ -7,7 +7,7 @@ tools:
 date: 2017-10-13
 image: 'images/projects/clipping00098.png'
 link: https://mundo.sputniknews.com/sociedad/201710131073164963-protesta-activismo-virtual/
-tags:
+tags: 
 ---
 
 ¿Opinas sobre política en las redes sociales? ¿Compartes campañas de movilización social? ¿Firmas peticiones en línea para apoyar a determinadas causas? Sputnik conversó con el experto brasileño Viktor Chagas sobre el poder del "activismo de sofá" en internet.

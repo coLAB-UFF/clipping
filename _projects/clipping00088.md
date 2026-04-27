@@ -7,7 +7,7 @@ tools:
 date: 2017-07-07
 image: 'images/projects/clipping00088.png'
 link: https://america.cgtn.com/2017/07/07/meme-fever-arises-in-brazil-as-citizens-cope-with-political-crisis
-tags:
+tags: 
 ---
 
 In Brazil, people may have found a way to vent their political frustrations—through funny images of internet memes. So many memes are popping up in Brazil that one university created a virtual museum to study this internet phenomenon.

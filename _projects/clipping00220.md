@@ -7,7 +7,7 @@ tools: Levy Teles, Samuel Lima e Gustavo Queiroz
 date: 2022-07-28
 image: 'images/projects/clipping00220.png'
 link: https://www.terra.com.br/noticias/tiktok-se-consolida-como-canal-de-discussao-politica-e-vira-foco-dos-candidatos-a-presidencia,aaa30816d3e018b41ec8283f741cf7255hsj8xsr.html
-tags:
+tags: 
 ---
 
 Gabriella Maria gostava de fazer dublagens para compartilhar com amigos por diversão e conheceu, no fim de 2019, o TikTok, um aplicativo chinês de compartilhamento de vídeos. Desde então, graças a um vídeo viral publicado, a profissional da moda de 29 anos tem um perfil com mais de 72 mil seguidores e usa a rede social todos os dias. Com uma linha de tempo personalizada conforme suas preferências, os vídeos sugeridos para ela assistir têm muito de moda, maquiagem, dublagem e política. "Eu uso o TikTok tanto para me informar quanto para diversão. Eu vejo que ele é bom para aprender pela velocidade dos vídeos", disse ela.

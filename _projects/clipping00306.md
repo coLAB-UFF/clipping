@@ -7,7 +7,7 @@ tools: Camila de Lira
 date: 2025-02-15
 image: 'images/projects/clipping00306.png'
 link: https://fastcompanybrasil.com/tech/hashtags-memes-e-zoeira-sem-fim-ser-fa-no-brasil-vira-especie-de-ativismo-digital/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://fastcompanybrasil.com/tech/hashtags-memes-e-zoeira-sem-fim-ser-fa-no-brasil-vira-especie-de-ativismo-digital/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

@@ -7,7 +7,7 @@ tools: Assessoria de Imprensa
 date: 2024-09-01
 image: 'images/projects/clipping00284.png'
 link: https://www.uff.br/?q=noticias/27-08-2024/cultura-dos-memes-no-brasil
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.uff.br/?q=noticias/27-08-2024/cultura-dos-memes-no-brasil" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

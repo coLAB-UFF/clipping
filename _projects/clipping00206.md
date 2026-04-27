@@ -7,7 +7,7 @@ tools:
 date: 2021-11-06
 image: 'images/projects/clipping00206.png'
 link: https://www.sopacultural.com/noticias/alianca-francesa-e-museudememes-apresentam-a-sememe-semana-dos-memes-com-diversas-atividades-culturais-relacionadas-ao-universo-de-memes/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.sopacultural.com/noticias/alianca-francesa-e-museudememes-apresentam-a-sememe-semana-dos-memes-com-diversas-atividades-culturais-relacionadas-ao-universo-de-memes/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

@@ -7,7 +7,7 @@ tools: Thayssa Rios
 date: 2023-03-08
 image: 'images/projects/clipping00254.png'
 link: https://oglobo.globo.com/blogs/sonar-a-escuta-das-redes/post/2023/03/violencia-politica-de-genero-nas-redes-afeta-duas-vezes-mais-parlamentares-de-esquerda-que-as-de-direita.ghtml
-tags:
+tags: 
 ---
 
 As parlamentares de esquerda são duas vezes mais atacadas nas redes sociais, vítimas de violência de gênero, do que as de direita. Pesquisadores do Laboratório de Combate à desinformação e ao Discurso de Ódio em Sistemas de Comunicação em Rede (DDoS Lab), da Universidade Federal Fluminense, mapearam durante 6 meses mais de 4 milhões de mensagens de violência direcionadas a deputadas federais e senadoras da legislatura de 2019 a 2022. Segundo a pesquisa, o Twitter é onde há maior incidência de violência discursiva contra representantes femininas na política, mas é no Facebook que as publicações violentas ganham mais engajamento e visibilidade, muitas vezes disfarçadas de humor.

@@ -7,7 +7,7 @@ tools: Levi Vasconcelos
 date: 2018-11-07
 image: 'images/projects/clipping00124.png'
 link: http://bahia.ba/politica/rapidas-229/
-tags:
+tags: 
 ---
 
 O papel do WhatsApp nas eleições de 2018 é o debate que os professores Viktor Chagas e João Guilherme Santos, ambos pesquisadores do Instituto Nacional de Ciência e Tecnologia em Democracia Digital, vão fazer segunda (9h30) no auditório da Facom (Ondina), com mediação do professor Wilson Gomes. O tema é quente.

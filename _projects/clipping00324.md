@@ -7,7 +7,7 @@ tools: Tribuna do Agreste
 date: 2026-04-03
 image: 'images/projects/clipping00324.png'
 link: https://www.tribunadoagreste.com.br/geral/2026/04/03/882761-memes-podem-ser-uma-porta-de-entrada-para-um-debate-publico-qualificado-diz-analista
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.tribunadoagreste.com.br/geral/2026/04/03/882761-memes-podem-ser-uma-porta-de-entrada-para-um-debate-publico-qualificado-diz-analista" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

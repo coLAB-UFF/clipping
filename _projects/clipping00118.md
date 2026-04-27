@@ -7,7 +7,7 @@ tools: Julia Reis
 date: 2018-10-26
 image: 'images/projects/clipping00118.png'
 link: https://www.vice.com/pt_br/article/pa9nzy/este-pesquisador-explica-como-funciona-o-exercito-de-bolsonaro-no-whatsapp?utm_source=vicetwbr
-tags:
+tags: 
 ---
 
 Durante seis meses, o pesquisador Viktor Chagas, da Universidade Federal Fluminense (UFF), esteve no meio da mais pesada artilharia de memes das eleições 2018. Ao lado de sua equipe, ele se embrenhou em 150 grupos de WhatsApp a favor de Bolsonaro. No meio da metralhadora de montagens coloridas, colheu resultados surpreendentes: notou diferentes tipos de atuação dos membros, analisou uma hierarquia quase militar e examinou como as mensagens se dissipam por vários canais profissionais antes de chegar aos grupos da tradicional família brasileira.

@@ -7,7 +7,7 @@ tools: João Almeida Moreira
 date: 2022-01-06
 image: 'images/projects/clipping00208.png'
 link: https://www.dinheirovivo.pt/opiniao/ascensao-e-queda-dos-marqueteiros-14460143.html
-tags:
+tags: 
 ---
 
 A Operação Lava-Jato, que investigou o escândalo do Petrolão, teve 79 fases ao longo de sete anos, executou 1921 ações de busca e apreensão, produziu 349 prisões preventivas e 211 prisões temporárias, denunciou 195 pessoas por nove tipos de crimes diferentes, cujas sentenças somadas chegaram a 3093 anos, 11 meses e 23 dias de prisão, envolveu quatro mil milhões de reais em dinheiro público desviado e foi conduzida por dez juízes de três instâncias.

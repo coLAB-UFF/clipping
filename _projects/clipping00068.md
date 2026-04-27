@@ -7,7 +7,7 @@ tools:
 date: 2017-06-16
 image: 'images/projects/clipping00068.png'
 link: https://www.swissinfo.ch/spa/afp/memes-contra-el-caos--los-brasile%C3%B1os-combaten-la-crisis-con-ingenio/43264718
-tags:
+tags: 
 ---
 
 (AFP) El entrenador de la 'canarinha', Tite, proclamado presidente o turistas fotografiándose junto a Temer como una Torre de Pisa a punto de caer: son dos desenlaces ficticios de la crisis en Brasil, pero que han corrido veloces por los celulares de un país que se ríe a base de memes de su decepción.

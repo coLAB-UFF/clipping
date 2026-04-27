@@ -7,7 +7,7 @@ tools: Renata Magalhães
 date: 2017-03-22
 image: 'images/projects/clipping00025.png'
 link: http://vejario.abril.com.br/cultura-lazer/universidade-federal-fluminense-abre-museu-de-memes/
-tags:
+tags: 
 ---
 
 Os conteúdos viralizados no vasto mundo virtual, desde os mais conhecidos – quem não se lembra do John Travolta Confuso, que se tornou até fantasia do carnaval carioca – até alguns mais sérios, sobre ...

@@ -7,7 +7,7 @@ tools:
 date: 2022-12-06
 image: 'images/projects/clipping00241.png'
 link: https://www.instagram.com/p/Cl1bTwSrp1y/?igshid=MDJmNzVkMjY%3D
-tags:
+tags: 
 ---
 
 Tem mais Oficina pra vocês!! 😎 Em uma iniciativa do CRIA, meu Centro de Referência, Pesquisa e Biblioteca, vai rolar, nos dias 13 e 14 de dezembro, oficinas de curadoria digital e acervos memeais, que serão ministradas por pesquisadores do #MUSEUdeMEMES.

@@ -7,7 +7,7 @@ tools: Patrícia Álvares
 date: 2018-10-26
 image: 'images/projects/clipping00117.png'
 link: https://brecha.com.uy/la-reforma-2-0/
-tags:
+tags: 
 ---
 
 Un contacto directo con sus electores, sin intermediarios. La comunicación de Bolsonaro se asemeja a esa relación inmediata entre Dios y sus fieles que pregonaba Martín Lutero cinco siglos atrás y que revolucionó la sociedad. Por más virtual o engañosa que sea, la horizontalidad de su campaña, sin mediación de la prensa u otros medios tradicionales, genera una sensación de cercanía en una población que dejó de creer en las instituciones.

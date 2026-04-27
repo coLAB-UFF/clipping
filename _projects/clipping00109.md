@@ -7,7 +7,7 @@ tools: Dani Arrais
 date: 2018-07-10
 image: 'images/projects/clipping00109.png'
 link: https://www.contente.vc/blog/2018/6/15/entrevistascontentes-viktor-chagas-criador-do-museu-de-memes
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.contente.vc/blog/2018/6/15/entrevistascontentes-viktor-chagas-criador-do-museu-de-memes" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

@@ -7,7 +7,7 @@ tools: Ministério da Justiça e Segurança Pública
 date: 2024-10-13
 image: 'images/projects/clipping00302.png'
 link: https://drive.google.com/file/d/1Omcj0LiegOBs5PnEDmrQeIexmsGEqkcZ/view?pli=1
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://drive.google.com/file/d/1Omcj0LiegOBs5PnEDmrQeIexmsGEqkcZ/view?pli=1" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

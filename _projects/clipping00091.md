@@ -7,7 +7,7 @@ tools: Marina Lopes
 date: 2017-09-05
 image: 'images/projects/clipping00091.png'
 link: https://porvir.org/sucesso-nas-redes-sociais-memes-tambem-podem-ensinar/
-tags:
+tags: 
 ---
 
 Com mensagens rápidas e um toque de humor, os memes saíram das redes sociais para conquistar um novo espaço: a sala de aula. Na hora de preparar “aquela aula que você respeita” e descansar com “a serenidade no olhar de quem aproveita o que #BombouNaRede para ensinar”, como diria a popular linguagem da internet, a cultura digital se tornou uma aliada dos professores para atrair a atenção dos alunos e trabalhar conceitos de diferentes disciplinas.

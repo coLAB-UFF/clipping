@@ -7,7 +7,7 @@ tools: Mariama Correia e Nathallia Fonseca
 date: 2022-09-01
 image: 'images/projects/clipping00228.png'
 link: https://apublica.org/sentinela/2022/09/tiktokers-evangelicos-apoiam-bolsonaro-enquanto-lula-tenta-conquistar-jovens-cristaos/
-tags:
+tags: 
 ---
 
 Vídeos com cortes rápidos, trilha sonora animada, dancinhas e conteúdos viciantes de fácil viralização. O TikTok é uma plataforma de massas – que bateu 1 bilhão de usuários ativos no mundo em 2021, sendo o Brasil o país que mais usa a ferramenta -, mas também de nichos, graças a um algoritmo de recomendação eficaz em personalizar a oferta de conteúdos a partir dos interesses do usuário.

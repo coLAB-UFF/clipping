@@ -7,7 +7,7 @@ tools: Vitor Tavares
 date: 2022-08-21
 image: 'images/projects/clipping00225.png'
 link: https://www.bbc.com/portuguese/salasocial-62567470
-tags:
+tags: 
 ---
 
 "Quatro anos atrás Venezuela era o exemplo, em 2022 temos mais a Argentina", publicou o empresário Luciano Hang, conhecido como "Véio da Havan", no último dia 11 de agosto.

@@ -7,7 +7,7 @@ tools: Valmir Moratelli
 date: 2022-07-15
 image: 'images/projects/clipping00219.png'
 link: https://veja.abril.com.br/coluna/veja-gente/os-dados-de-uma-pesquisa-sobre-politicos-no-tiktok-que-anima-a-direita/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://veja.abril.com.br/coluna/veja-gente/os-dados-de-uma-pesquisa-sobre-politicos-no-tiktok-que-anima-a-direita/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

@@ -7,7 +7,7 @@ tools: Viktor Chagas
 date: 2024-09-16
 image: 'images/projects/clipping00295.png'
 link: https://talcualdigital.com/en-brasil-x-twitter-se-ha-convertido-en-una-alt-tech-por-viktor-chagas/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://talcualdigital.com/en-brasil-x-twitter-se-ha-convertido-en-una-alt-tech-por-viktor-chagas/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

@@ -7,7 +7,7 @@ tools: João Pedro Pitombo
 date: 2021-10-31
 image: 'images/projects/clipping00202.png'
 link: https://www1.folha.uol.com.br/poder/2021/10/caciques-do-mdb-adotam-memes-e-linguagem-tiktok-para-tentar-se-reinventar-veja-video.shtml
-tags:
+tags: 
 ---
 
 Michel Temer deixa o jeito sisudo de lado e surge fazendo piadas sobre mesóclises e sobre os poemas que escreveu. Um Romero Jucá sem bigode posa para uma foto com bonecos da saga Star Wars. Roseana Sarney mostra seus dotes culinários, toca violão e participa de desafios inspirados no TikTok.

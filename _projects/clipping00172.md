@@ -7,7 +7,7 @@ tools:
 date: 2020-08-21
 image: 'images/projects/clipping00172.png'
 link: https://sites.ufpe.br/rpf/2020/08/21/ate-uma-proxima/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://sites.ufpe.br/rpf/2020/08/21/ate-uma-proxima/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

@@ -7,7 +7,7 @@ tools: UFF
 date: 2024-10-13
 image: 'images/projects/clipping00300.png'
 link: https://www.uff.br/27-02-2024/uff-responde-regulamentacao-de-redes-sociais/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.uff.br/27-02-2024/uff-responde-regulamentacao-de-redes-sociais/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

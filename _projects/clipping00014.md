@@ -7,7 +7,7 @@ tools: Geovanne Mendes
 date: 2017-03-31
 image: 'images/projects/clipping00014.png'
 link: http://www.atribunarj.com.br/memes-viram-objeto-de-estudo-na-uff/
-tags:
+tags: 
 ---
 
 Das redes sociais para as paredes de um museu virtual, assim são tratados os memes. Engraçados, reflexivos, polêmicos, extremamente perecíveis e agora material de estudo da Universidade Federal Fluminense (UFF). Sim, é isso mesmo! A UFF criou um museu inteiramente dedicado aos memes, afinal, quem nunca se pegou rindo de algo ou algum momento transformado em tiradas divertidas nas telas dos computadores ou dos smatphones. O #MUSEUdeMEMES, como é chamado, é definido como "o maior acervo de memes brasileiros do país". A iniciativa é composta por alunos da graduação em Estudos de Mídia e professores do Departamento de Estudos Culturais e Mídia da universidade, além de alunos da pós-graduação em Comunicação da Universidade Estadual do Rio de Janeiro (Uerj). Mas para muita gente vem a grande questão: o que são e como surgiram os memes?

@@ -7,7 +7,7 @@ tools:
 date: 2015-06-23
 image: 'images/projects/clipping00074.png'
 link: https://www.facebook.com/MuseusBR/posts/1056369491057460
-tags:
+tags: 
 ---
 
 Quando o efêmero vira memória: conheça o projeto Museu de Memes da UFF – Universidade Federal Fluminense!

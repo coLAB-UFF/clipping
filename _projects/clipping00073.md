@@ -7,7 +7,7 @@ tools:
 date: 2012-01-01
 image: 'images/projects/clipping00073.png'
 link: https://www.facebook.com/cersibonforever?fref=ts
-tags:
+tags: 
 ---
 
 Divulgação: #memeclube Cersibon

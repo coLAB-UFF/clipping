@@ -7,7 +7,7 @@ tools:
 date: 2021-10-01
 image: 'images/projects/clipping00203.png'
 link: https://gamarevista.uol.com.br/sociedade/zap-zap/por-que-a-gente-fala-assim-no-zap/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://gamarevista.uol.com.br/sociedade/zap-zap/por-que-a-gente-fala-assim-no-zap/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

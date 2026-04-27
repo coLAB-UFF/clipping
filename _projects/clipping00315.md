@@ -7,7 +7,7 @@ tools: Flávia Albuquerque
 date: 2025-08-27
 image: 'images/projects/clipping00315.png'
 link: https://agenciabrasil.ebc.com.br/cultura/noticia/2025-08/vocacao-brasileira-para-memes-ganha-exposicao-no-ccbb
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://agenciabrasil.ebc.com.br/cultura/noticia/2025-08/vocacao-brasileira-para-memes-ganha-exposicao-no-ccbb" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

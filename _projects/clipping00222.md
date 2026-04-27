@@ -7,7 +7,7 @@ tools: Levy Teles e Gustavo Queiroz
 date: 2022-07-28
 image: 'images/projects/clipping00222.png'
 link: https://www.terra.com.br/noticias/como-candidatos-se-comportam-no-tiktok-veja-videos,059fede449e8cabbabb90ec86a4b9955lldr5lwf.html
-tags:
+tags: 
 ---
 
 Políticos que exploram um estilo conteúdo apolítico no TikTok obtêm mais chances em alcançar mais públicos do que quem investe em conteúdos mais profissionais. Os dados são uma das conclusões de um estudo do Laboratório de Combate à Desinformação e ao Discurso de Ódio em Sistemas de Comunicação em Rede (DDosLAB) da Universidade Federal Fluminense (UFF), feito por por Viktor Chagas e Luiza de Mello Stefano.

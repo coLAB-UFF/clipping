@@ -7,7 +7,7 @@ tools: William França
 date: 2026-01-28
 image: 'images/projects/clipping00317.png'
 link: https://www.correiodamanha.com.br/colunistas/brasilianas/2026/01/253673-brasilianas-memefolia-traz-humor-e-cultura-digital.html
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.correiodamanha.com.br/colunistas/brasilianas/2026/01/253673-brasilianas-memefolia-traz-humor-e-cultura-digital.html" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

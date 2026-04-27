@@ -7,7 +7,7 @@ tools: Laís Martins, Henrique Rieger e Rodolfo Almeida
 date: 2022-09-30
 image: 'images/projects/clipping00236.png'
 link: https://nucleo.jor.br/reportagem/2022-09-30-tiktok-videos-hashtags-golpistas/
-tags:
+tags: 
 ---
 
 Tem conteúdo golpista saindo pelas paredes no TikTok – e que continua circulando abertamente há mais de um ano, apesar do acordo da plataforma com o TSE para combater desinformação nas eleições.

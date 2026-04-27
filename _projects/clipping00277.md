@@ -7,7 +7,7 @@ tools: Takayuki Fuchigami e Mika Otsuki
 date: 2023-02-14
 image: 'images/projects/clipping00277.jpeg'
 link: https://japannews.yomiuri.co.jp/society/social-series/20230214-90984/
-tags:
+tags: 
 ---
 
 ![]({{site.baseurl}}/images/posts/clipping00277a.jpeg)

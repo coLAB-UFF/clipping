@@ -7,7 +7,7 @@ tools: Levy Teles, Samuel Lima e Gustavo Queiroz
 date: 2022-09-28
 image: 'images/projects/clipping00234.png'
 link: https://www.estadao.com.br/politica/timeline-eleicoes-2022/bolsonaro-retorica-anticomunista-redes-sociais/
-tags:
+tags: 
 ---
 
 Momentos críticos do presidente Jair Bolsonaro (PL) na campanha eleitoral acompanham o aumento na mobilização da retórica "anticomunista". Apoiadores do mandatário acusam opositores, ministros do Supremo Tribunal Federal (STF), jornalistas, ex-aliados e o ex-presidente Luiz Inácio Lula da Silva (PT) de apoiarem a ideologia e justificam, em razão de uma suposta ameaça, a necessidade de ações mais radicais.

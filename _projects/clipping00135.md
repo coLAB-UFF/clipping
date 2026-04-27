@@ -7,7 +7,7 @@ tools:
 date: 2019-03-22
 image: 'images/projects/clipping00135.png'
 link: https://istoe.com.br/chans-maquinas-de-odio-na-internet-ganham-notoriedade-apos-massacre-de-suzano/
-tags:
+tags: 
 ---
 
 Uma seita virtual de homens misóginos, racistas e homofóbicos que propagam o ódio prolifera há cerca de sete anos na internet, produzindo ameaças, difamação e atentados.

@@ -7,7 +7,7 @@ tools: Cleo Guimarães
 date: 2020-02-05
 image: 'images/projects/clipping00160.png'
 link: https://vejario.abril.com.br/cidade/figurinhas-de-whatsapp/
-tags:
+tags: 
 ---
 
 Tudo começou com os emoticons e logo evoluiu para os emojis, símbolos que inundaram os celulares via aplicativos de mensagens e mudaram o jeito de as pessoas se comunicarem na virada para o século XXI.

@@ -7,7 +7,7 @@ tools:
 date: 2021-05-21
 image: 'images/projects/clipping00188.png'
 link: https://www.youtube.com/watch?v=sSz2CGwYSFA
-tags:
+tags: 
 ---
 
 Provocadores natos, os memes podem ser vistos como repertórios de comunicação e possibilidades de releituras de fatos até então fechados em suas comunidades, ganhando sentido a cada compartilhamento. O jornalista e doutorando em Comunicação Guilherme Popolin conta um pouco sobre o #MUSEUdeMEMES e suas experiências, e o artista plástico Gabriel Almeida fala sobre seu trabalho com pintura de imagens virtuais. O evento faz parte da 19ª Semana Nacional de Museus, gerida pelo Ibram. Trata-se de uma temporada cultural que objetiva intensificar a relação dos museus brasileiros com a sociedade.

@@ -7,7 +7,7 @@ tools: Jéssica Marques
 date: 2022-08-09
 image: 'images/projects/clipping00231.png'
 link: https://oglobo.globo.com/blogs/sonar-a-escuta-das-redes/post/2022/08/presidenciaveis-recorrem-a-humor-e-acabam-dando-municao-a-adversarios-veja-episodios.ghtml
-tags:
+tags: 
 ---
 
 Na tentativa de se aproximar do eleitorado e suavizar sua imagem, candidatos à Presidência da República têm recorrido ao humor e a uma linguagem mais coloquial nas redes sociais, em discursos ou em contato com apoiadores. Algumas vezes, no entanto, eles acabam dando munição a adversários.

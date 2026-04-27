@@ -7,7 +7,7 @@ tools: Daniel Vila Nova
 date: 2021-06-14
 image: 'images/projects/clipping00194.png'
 link: https://gamarevista.uol.com.br/cultura/shittrap-entenda-esse-estilo-musical-ofensivo/
-tags:
+tags: 
 ---
 
 Provocação, escárnio e temas tabu em geral são características de um movimento que nos últimos anos vem ganhando cada vez mais força na internet brasileira: o shittrap. É o caso do hit “É a União Flasco”, a música do rapper LUCKHAOS que conta com mais de 18 milhões de visualizações no YouTube. O título da canção, que faz uma inusitada proposta de união entre a torcida Flamenguista e Vascaína, é só a ponta de um iceberg de provocações, ofensas e absurdos proferidos pelo rapper, em letras obviamente destinadas a maiores de idade.

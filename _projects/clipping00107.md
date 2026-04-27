@@ -7,7 +7,7 @@ tools: Luana Benedito
 date: 2018-07-23
 image: 'images/projects/clipping00107.png'
 link: https://odia.ig.com.br/diversao/2018/07/5559644-campanha-de-hamburguer-relembra-memes-classicos-da-web.html
-tags:
+tags: 
 ---
 
 Rio - Ao som de "Encaixa", do funkeiro paulista MC Kevinho, a nova campanha do McDonald's faz uma visita aos memes icônicos desta década. O ano de 2012 aparece representado pelos clássicos "Luiza do Canadá", "Eu sou Nissim Ourfali" e "Para a nossa Alegria". Já 2014 vem no Passinho do Romano, enquanto 2017 está representado pelos hits "Poxa Crush" e "Sweet Dreams".

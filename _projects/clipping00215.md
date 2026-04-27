@@ -7,7 +7,7 @@ tools:
 date: 2022-04-06
 image: 'images/projects/clipping00215.png'
 link: https://domtotal.com/noticia/1573152/2022/04/memes-tambem-enganam-o-uso-do-humor-como-ferramenta-de-desinformacao/
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://domtotal.com/noticia/1573152/2022/04/memes-tambem-enganam-o-uso-do-humor-como-ferramenta-de-desinformacao/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

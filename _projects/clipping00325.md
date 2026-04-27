@@ -7,7 +7,7 @@ tools: Repórter Maceió
 date: 2026-04-03
 image: 'images/projects/clipping00325.png'
 link: https://www.google.com/url?rct=j&sa=t&url=https://reportermaceio.com.br/analise-revela-linguagem-narrativa-da-politica-e-adaptada-para-midias-sociais/&ct=ga&cd=CAEYAioUMTQ2ODY2NTk5Mjk3OTc2ODg4MTIyHDZlY2EzY2UwMzA2MGE4ZmQ6Y29tOnB0OkJSOkw&usg=AOvVaw0B9eGZNZ8KwuB9vUXoBIZ5
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.google.com/url?rct=j&sa=t&url=https://reportermaceio.com.br/analise-revela-linguagem-narrativa-da-politica-e-adaptada-para-midias-sociais/&ct=ga&cd=CAEYAioUMTQ2ODY2NTk5Mjk3OTc2ODg4MTIyHDZlY2EzY2UwMzA2MGE4ZmQ6Y29tOnB0OkJSOkw&usg=AOvVaw0B9eGZNZ8KwuB9vUXoBIZ5" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

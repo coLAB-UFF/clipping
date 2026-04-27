@@ -7,7 +7,7 @@ tools:
 date: 2021-12-01
 image: 'images/projects/clipping00226.png'
 link: https://www.nexojornal.com.br/entrevista/2022/08/20/o-que-e-memecracia-e-como-ela-afeta-o-debate-politico
-tags:
+tags: 
 ---
 
 Após anunciar a  redução de imposto  a produtos importados como o whey protein em sua tradicional live às quintas-feiras, o perfil do presidente Jair Bolsonaro (PL) no Instagram postou uma  montagem  do corpo de um fisiculturista com o rosto do presidente, enaltecendo a medida. Seja para criticar ou elogiar o anúncio, o fato é que a palavra “whey”, ficou entre os assuntos de política mais comentados no Twitter na sexta-feira (19), e a imagem viralizou.

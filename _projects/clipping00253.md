@@ -7,7 +7,7 @@ tools:
 date: 2023-03-08
 image: 'images/projects/clipping00253.png'
 link: https://opiniaoempauta.com.br/deputadas-de-esquerda-sao-as-mais-atacadas-nas-redes-sociais/
-tags:
+tags: 
 ---
 
 Cinco anos após o assassinato da vereadora Marielle Franco, parlamentares mulheres de esquerda são as que mais sofrem ofensas e ameaças no Twitter, Facebook, Instagram e Youtube. Essa violência é um dos principais motivos de afastamento das mulheres da política. Desde que conquistaram, com muita luta, o direito de votar, em 24 de fevereiro de 1932, as mulheres brasileiras têm acumulado notáveis avanços femininos. No entanto, a cada dia, os desafios na política se mostram maiores.  Apesar de corresponderem a 52% da população, elas ocupam, hoje, somente 18,1% das cadeiras da Câmara dos Deputados – 93 das 513 vagas.

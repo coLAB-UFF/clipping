@@ -7,7 +7,7 @@ tools:
 date: 2017-06-17
 image: 'images/projects/clipping00086.png'
 link: http://www.arabnews.com/node/1116441/world
-tags:
+tags: 
 ---
 
 A flurry of memes — funny images or video coupled with text that are spread online — making light of the country’s bleak situation have taken the Internet by storm in a country that has the world’s second largest number of Facebook users.

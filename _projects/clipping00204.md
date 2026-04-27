@@ -7,7 +7,7 @@ tools: Nicole Froio
 date: 2021-10-22
 image: 'images/projects/clipping00204.png'
 link: https://gizmodo.com/the-real-meaning-of-the-come-to-brazil-meme-1847909973
-tags:
+tags: 
 ---
 
 It is a truth universally acknowledged that you will find, on any YouTube video and any Instagram or Twitter post by a celebrity, at least one comment with the words “Please Come to Brazil.” The ubiquitousness of the phrase to the ecology of the internet can be summed up by a version of the Mike Wazowski Explaining Things meme in the metal music community on Reddit: Mike is the guy always explaining why their favorite band has to visit Brazil in the comments. The same meme could be applied to most, if not all, fandoms.

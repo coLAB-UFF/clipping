@@ -7,7 +7,7 @@ tools: Renata Galf
 date: 2024-10-16
 image: 'images/projects/clipping00303.png'
 link: https://www1.folha.uol.com.br/poder/2024/10/ataques-entre-candidatos-protagonizam-eleicao-sem-avalanche-de-posts-contra-urnas.shtml
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www1.folha.uol.com.br/poder/2024/10/ataques-entre-candidatos-protagonizam-eleicao-sem-avalanche-de-posts-contra-urnas.shtml" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

@@ -7,7 +7,7 @@ tools:
 date: 2023-01-06
 image: 'images/projects/clipping00274.png'
 link: https://aseguirniteroi.com.br/noticias/projeto-da-uff-coloca-memes-no-museu/
-tags:
+tags: 
 ---
 
 Com quantos memes nos deparamos diariamente? Se você parou para tentar fazer esse cálculo é porque não teve dúvidas sobre o significado da palavra  “meme”. Muito provavelmente, associou a uma imagem engraçada que se espalha como um “passe de mágica” pelas redes sociais.

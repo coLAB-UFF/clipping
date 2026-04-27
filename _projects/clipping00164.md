@@ -7,7 +7,7 @@ tools:
 date: 2020-03-29
 image: 'images/projects/clipping00164.png'
 link: https://www.estadao.com.br/infograficos/saude,hora-de-adaptacao,1085856
-tags:
+tags: 
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.estadao.com.br/infograficos/saude,hora-de-adaptacao,1085856" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

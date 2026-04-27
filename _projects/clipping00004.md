@@ -7,7 +7,7 @@ tools:
 date: 2017-05-28
 image: 'images/projects/clipping00004.png'
 link: http://g1.globo.com/fantastico/noticia/2017/05/reportagem-revela-quem-esta-por-tras-dos-memes-que-circulam-na-internet.html
-tags:
+tags: 
 ---
 
 A regra básica do meme é rir à primeira vista. Pode ter gatinho fofo, cachorro, bebê, menina, personagem de atriz famosa. É rápido e pode ser sobre qualquer assunto. Aconteceu, vira meme. “O meme é um quadradinho, uma fotinha com uma frase em cima e uma embaixo”, resume Gabriel, criador do Nazaré Amarga.

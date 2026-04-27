@@ -7,7 +7,7 @@ tools:
 date: 2023-01-22
 image: 'images/projects/clipping00267.png'
 link: https://www.butterword.com/2023/01/investigadores-de-disturbios-brasilenos.html
-tags:
+tags: 
 ---
 
 BRASÍLIA—Se suponía que iba a ser un día pacífico, aunque la policía esperaba manifestaciones en la amplia explanada cubierta de hierba donde se encuentran las tres ramas del poder de Brasil.
