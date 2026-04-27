@@ -5,7 +5,7 @@ summary: Entrevista com Viktor Chagas
 client: Cibercog
 tools: Renata Monti
 date: 2017-06-27
-image: '/images/posts/65.png'
+image: 'images/posts/65.png'
 link: http://cibercog.naiveheart.org/2017/06/o-jogo-nao-e-apenas-ludico-mas-estrategico-avalia-viktor-chagas/
 ---
 
