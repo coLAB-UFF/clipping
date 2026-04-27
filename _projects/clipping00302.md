@@ -6,9 +6,10 @@ client: Ministério da Justiça e Segurança Pública
 tools: Ministério da Justiça e Segurança Pública
 date: 2024-10-13
 image: 'images/projects/clipping00302.png'
-link: https://drive.google.com/file/d/1Omcj0LiegOBs5PnEDmrQeIexmsGEqkcZ/view?pli=1
-tags:
+link: 
+tags: 
 ---
 
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://drive.google.com/file/d/1Omcj0LiegOBs5PnEDmrQeIexmsGEqkcZ/view?pli=1" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+https://drive.google.com/file/d/1Omcj0LiegOBs5PnEDmrQeIexmsGEqkcZ/view?pli=1
+
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

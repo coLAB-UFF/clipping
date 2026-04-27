@@ -6,9 +6,10 @@ client: Grupo Brammer
 tools: 
 date: 2017-03-23
 image: 'images/projects/clipping00023.png'
-link: http://www.grupobrammer.com/design/2017/03/23/inaugurado-o-primeiro-museu-de-memes-do-brasil
-tags:
+link: 
+tags: 
 ---
 
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://www.grupobrammer.com/design/2017/03/23/inaugurado-o-primeiro-museu-de-memes-do-brasil" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+http://www.grupobrammer.com/design/2017/03/23/inaugurado-o-primeiro-museu-de-memes-do-brasil
+
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

@@ -6,11 +6,10 @@ client: Español News
 tools: 
 date: 2023-01-09
 image: 'images/projects/clipping00273.png'
-link: https://espanol.news/twitter-facebook-e-instagram-ayudan-a-alimentar-la-ira-por-la-derrota-de-bolsanaro/
-tags:
+link: 
+tags: 
 ---
 
-En las semanas previas a los ataques violentos del domingo contra el congreso de Brasil y otros edificios gubernamentales, los canales de redes sociales del país se llenaron de llamadas para atacar estaciones de servicio, refinerías y otras infraestructuras, así como para que la gente hiciera un “grito de guerra”. fiesta en la capital”, según investigadores brasileños de redes sociales.
+https://espanol.news/twitter-facebook-e-instagram-ayudan-a-alimentar-la-ira-por-la-derrota-de-bolsanaro/
 
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://espanol.news/twitter-facebook-e-instagram-ayudan-a-alimentar-la-ira-por-la-derrota-de-bolsanaro/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->

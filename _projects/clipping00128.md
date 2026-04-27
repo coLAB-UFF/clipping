@@ -6,9 +6,10 @@ client: UOL Tecnologia
 tools: Helton Simões Gomes
 date: 2018-11-06
 image: 'images/projects/clipping00128.png'
-link: https://tecnologia.uol.com.br/noticias/redacao/2018/11/06/nem-ursal-e-elenao-esvaziada-de-ideias-eleicao-2018-foi-fraca-de-memes.htm
-tags:
+link: 
+tags: 
 ---
 
-<div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://tecnologia.uol.com.br/noticias/redacao/2018/11/06/nem-ursal-e-elenao-esvaziada-de-ideias-eleicao-2018-foi-fraca-de-memes.htm" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
+https://tecnologia.uol.com.br/noticias/redacao/2018/11/06/nem-ursal-e-elenao-esvaziada-de-ideias-eleicao-2018-foi-fraca-de-memes.htm
+
 <!-- <div class="gallery-box"><div class="gallery"><img src="/clipping/images/example-1.jpg" loading="lazy" alt="Project"><img src="/clipping/images/example-2.jpg" loading="lazy" alt="Project"></div><em>Gallery / <a href="https://www.freepik.com/" target="_blank">Freepic</a></em></div> -->
