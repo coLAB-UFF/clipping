@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Capricho
 tools: 
 date: 2017-03-23
-image: 'images/posts/34.png'
+image: 'images/projects/clipping00024.png'
 link: http://capricho.abril.com.br/vida-real/universidade-brasileira-cria-museu-de-memes-e-ele-e-adoravel
+tags:
 ---
 
 De acordo com a definição no site oficial do projeto, “meme é um fenômeno típico da internet, e pode se apresentar como uma coleção de textos, imagens, comportamentos difundidos, desafios ou memórias ...  Leia mais em: https://capricho.abril.com.br/vida-real/universidade-brasileira-cria-museu-de-memes-e-ele-e-adoravel

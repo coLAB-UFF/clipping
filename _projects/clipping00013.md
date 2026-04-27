@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: YouPIX
 tools: 
 date: 2017-04-01
-image: 'images/posts/51.png'
+image: 'images/projects/clipping00013.png'
 link: https://twitter.com/youpix/status/848012891517313024
+tags:
 ---
 
 Vida longa ao Museu de Memes. Ficamos mega felizes de saber que alguem está documentando a cultura do nosso tempo. <3

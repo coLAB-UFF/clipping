@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Band News FM Rio
 tools: 
 date: 2017-03-24
-image: 'images/posts/46.png'
+image: 'images/projects/clipping00021.png'
 link: http://www.bandnewsfmrio.com.br/editorias-detalhes/museu-online-reune-grande-acervo-de-memes
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://www.bandnewsfmrio.com.br/editorias-detalhes/museu-online-reune-grande-acervo-de-memes" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

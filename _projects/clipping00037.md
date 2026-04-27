@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Rádio Expresso UFMG
 tools: 
 date: 2015-07-25
-image: 'images/posts/24.png'
+image: 'images/projects/clipping00037.png'
 link: https://www.ufmg.br/online/radio/arquivos/anexos/VIKTOR%20CHAGAS%20-%20MUSEU%20DE%20MEMES%20-%2024-06-2015.mp3
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.ufmg.br/online/radio/arquivos/anexos/VIKTOR%20CHAGAS%20-%20MUSEU%20DE%20MEMES%20-%2024-06-2015.mp3" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

@@ -5,8 +5,9 @@ summary: Nota sobre o projeto MUSEUdeMEMES
 client: SDC - Superintendência de Documentação da Universidade Federal Fluminense
 tools: 
 date: 2015-06-17
-image: 'images/posts/9.png'
+image: 'images/projects/clipping00041.png'
 link: https://www.facebook.com/permalink.php?story_fbid=1661849354034661&id=1546274582258806
+tags:
 ---
 
 UFF lança Museu de Memes. Importante passo para a memória da internet…

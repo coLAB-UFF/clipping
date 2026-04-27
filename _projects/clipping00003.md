@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: Record TV (Domingo Espetacular)
 tools: 
 date: 2017-05-28
-image: 'images/posts/70.png'
+image: 'images/projects/clipping00003.png'
 link: http://noticias.r7.com/domingo-espetacular/videos/-domingo-espetacular-explica-o-fenomeno-dos-memes-e-encontra-chloe-uma-das-maiores-estrelas-da-internet-28052017
+tags:
 ---
 
 O Domingo Espetacular fala sobre um assunto que o brasileiro adora, o meme. Mas você sabe o que significa meme? E como eles surgem? No Rio de Janeiro, universitários criaram até um museu virtual de memes. Já em São Paulo, uma das maiores estrelas internacionais dos memes, a Chloe, falou com a nossa reportagem. Assista!

@@ -5,8 +5,9 @@ summary: Nota sobre o projeto MUSEUdeMEMES
 client: Guri de Uruguaiana
 tools: 
 date: 2015-06-16
-image: 'images/posts/11.png'
+image: 'images/projects/clipping00045.png'
 link: https://twitter.com/jairkobe/status/610787693224660993
+tags:
 ---
 
 Chê, olha que ideia loca de especial do pessoal da UFF…

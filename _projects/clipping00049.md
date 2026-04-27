@@ -5,8 +5,9 @@ summary: Matéria sobre polarização política
 client: Jornal do Brasil
 tools: 
 date: 2014-10-19
-image: 'images/posts/7.png'
+image: 'images/projects/clipping00049.png'
 link: https://www.jb.com.br/eleicoes-2014/noticias/2014/10/19/mais-agressividade-e-polarizacao-nas-redes-afirmam-especialistas/
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.jb.com.br/eleicoes-2014/noticias/2014/10/19/mais-agressividade-e-polarizacao-nas-redes-afirmam-especialistas/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

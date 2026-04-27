@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: Revista Galileu
 tools: Nathan Fernandes
 date: 2017-04-28
-image: 'images/posts/60.png'
+image: 'images/projects/clipping00010.png'
 link: http://revistagalileu.globo.com/Tecnologia/noticia/2017/04/relevancia-dos-memes-para-greve-geral.html
+tags:
 ---
 
 A greve geral marcada por centrais sindicais, movimentos sociais e diversas categorias toma corpo nas ruas do Brasil. Os manifestantes se posicionam contra as reformas trabalhista e da Previdência, que, segundo o governo federal, seriam uma maneira de equilibrar as contas para recuperar a economia.

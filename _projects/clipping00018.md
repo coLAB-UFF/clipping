@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: IG (Ajudar o povo de humanas a fazer miçanga)
 tools: 
 date: 2017-03-24
-image: 'images/posts/47.png'
+image: 'images/projects/clipping00018.png'
 link: http://povodehumanas.ig.com.br/curiosidades/2017-03-29/museu-de-memes.html?utm_source=social-ig&utm_campaign=facebook-ig&utm_medium=2017-03-29-museu-de-memes
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://povodehumanas.ig.com.br/curiosidades/2017-03-29/museu-de-memes.html?utm_source=social-ig&utm_campaign=facebook-ig&utm_medium=2017-03-29-museu-de-memes" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: Anticast
 tools: 
 date: 2015-10-08
-image: 'images/posts/19.png'
+image: 'images/projects/clipping00034.png'
 link: https://www.b9.com.br/61122/anticast-203-por-que-memes/
+tags:
 ---
 
 Olá, antidesigners e brainstormers! Neste programa, vocês serão apresentados ao Visual+Mente, novo podcast produzido pelo AntiCast, comandado pelo Rafael Ancara, que se propõe a discutir questões referentes ao design, assim como nos áureos tempos do AntiCast. Ao lado dele, estão Ricardo Cunha Lima, Almir Mirabeau, Bárbara Emmanuel e Camila Rodrigues, e os cinco debatem sobre a cultura de memes na internet como forma de memória gráfica da internet. O que eles dizem sobre nossos tempos? Devemos estudá-los como fenômeno cultural? Como? Ouça e não esqueça de assinar o feed do Visual+Mente (feed.visualmente.com.br) para poder acompanhar o novo podcast toda terça!

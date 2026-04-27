@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Catraca Livre
 tools: 
 date: 2017-03-21
-image: 'images/posts/41.png'
+image: 'images/projects/clipping00032.png'
 link: https://catracalivre.com.br/criatividade/para-tudo-existe-um-museu-de-memes-e-ele-e-serio/
+tags:
 ---
 
 Admita! Você já compartilhou um meme no grupo de família do WhatsApp, em um inbox no Facebook ou mesmo postou algum no seu perfil do Twitter ou Instagram. Os memes estão aí e são os principais representantes da linguagem ágil e imagética da internet, virando tendência ao gerar milhões de curtidas, compartilhamentos e piadas infinitas.

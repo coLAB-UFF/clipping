@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: O Globo
 tools: 
 date: 2017-03-30
-image: 'images/posts/52.png'
+image: 'images/projects/clipping00015.png'
 link: http://oglobo.globo.com/rio/museu-de-memes-preserva-memoria-de-assuntos-que-viralizam-nas-redes-21104316?utm_source=Twitter&utm_medium=Social&utm_campaign=compartilhar
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://oglobo.globo.com/rio/museu-de-memes-preserva-memoria-de-assuntos-que-viralizam-nas-redes-21104316?utm_source=Twitter&utm_medium=Social&utm_campaign=compartilhar" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

@@ -5,8 +5,9 @@ summary: Entrevista com Viktor Chagas
 client: Revista Galileu
 tools: Nathan Fernandes
 date: 2017-03-24
-image: 'images/posts/43.png'
+image: 'images/projects/clipping00019.png'
 link: https://revistagalileu.globo.com/Sociedade/noticia/2017/03/o-impacto-dos-memes-na-sociedade-nao-deve-ser-menosprezado.html
+tags:
 ---
 
 Os memes ganharam um novo habitat: o meio acadêmico. Pesquisadores da Universidade Federal Fluminense (UFF) vão direto a campo — a internet — para coletar, registrar e analisar as constatações de Glória Maria, os ensinamentos de Gretchen e quaisquer outras piadas e movimentos virais produzidos e espalhados pelos brasileiros na rede.

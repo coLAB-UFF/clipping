@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: E!
 tools: Guilherme Della Negra
 date: 2017-03-22
-image: 'images/posts/38.png'
+image: 'images/projects/clipping00030.png'
 link: https://www.eonline.com/br/news/838200/universidade-brasileira-cria-o-museu-dos-memes
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.eonline.com/br/news/838200/universidade-brasileira-cria-o-museu-dos-memes" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

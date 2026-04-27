@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Arte | Ref
 tools: 
 date: 2017-03-22
-image: 'images/posts/33.png'
+image: 'images/projects/clipping00031.png'
 link: http://arteref.com/arte-no-mundo/museu-de-memes-facilita-a-vida-de-milhares-de-jovens/
+tags:
 ---
 
 Um acervo online que quer acumular e catalogar todos os memes criados, o motivo por trás da iniciativa é: “um site que reúne todos os memes para facilitar a busca acadêmica destas peças”.

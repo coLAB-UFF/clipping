@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: El País
 tools: Tom C. Avendaño
 date: 2017-05-27
-image: 'images/posts/67.png'
+image: 'images/projects/clipping00005.png'
 link: https://brasil.elpais.com/brasil/2017/05/27/ciencia/1495899503_382776.html
+tags:
 ---
 
 Sandro Sanfelice, um analista comercial de 28 anos que mora em Curitiba (PR), recebeu na semana passada uma mensagem que nunca havia visto em seus dez anos à frente da Capinaremos, uma das muitas páginas de memes do país. O Governo o avisava de que as fotografias divulgadas a partir da Presidência “estão liberadas para uso jornalístico e divulgação das ações governamentais. Para outras finalidades, é necessária autorização prévia da Secretaria de Imprensa da Presidência da República”.

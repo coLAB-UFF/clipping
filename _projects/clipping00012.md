@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: Pueblo Y Sociedad Noticias
 tools: Vitor Fernandes
 date: 2017-04-28
-image: 'images/posts/59.png'
+image: 'images/projects/clipping00012.png'
 link: http://pysnnoticias.com/la-relevancia-politica-de-los-memes-de-la-huelga-general/
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://pysnnoticias.com/la-relevancia-politica-de-los-memes-de-la-huelga-general/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

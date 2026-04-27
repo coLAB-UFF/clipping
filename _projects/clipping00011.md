@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: UFF
 tools: 
 date: 2017-04-14
-image: 'images/posts/50.png'
+image: 'images/projects/clipping00011.png'
 link: http://uff.br/?q=noticias/18-04-2017/uff-inaugura-primeiro-museu-de-memes-do-brasil
+tags:
 ---
 
 A Universidade Federal Fluminense, através do Departamento de Estudos Culturais e Mídia, surpreendeu com sua criatividade ao inaugurar um museu virtual que, além de fornecer amplo acervo, propõe o estudo dos memes - fenômeno cultural típico da internet - como objeto de pesquisa. Quem pensa que memes são apenas uma nova forma de gerar humor nas redes sociais, pode segurar esse forninho.

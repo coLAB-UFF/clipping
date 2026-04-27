@@ -5,8 +5,9 @@ summary: Matéria sobre o projeto MUSEUdeMEMES
 client: Jornal Daqui
 tools: 
 date: 2017-03-22
-image: 'images/posts/37.png'
+image: 'images/projects/clipping00028.png'
 link: http://daqui.opopular.com.br/editorias/diversao/universidade-federal-cria-museu-de-memes-1.1244952
+tags:
 ---
 
 A Universidade Federal Fluminense (UFF) criou um museu único e exclusivamente dedicado aos amados ‘memes’. A iniciativa partiu de alunos da graduação em Estudos de Mídia e professores do Departamento de Estudos de Mídia e professores do Departamento de Estudos Culturais e Mídia da UFF, além de alunos de pós-graduação em Comunicação da Universidade Estadual do Rio de Janeiro (Uerj).
