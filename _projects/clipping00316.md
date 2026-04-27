@@ -5,8 +5,9 @@ summary: Matéria sobre exposição no CCBB
 client: O Globo
 tools: Talita Duvanel
 date: 2025-08-30
-image: 'images/posts/clipping00316.png'
+image: 'images/projects/clipping00316.png'
 link: https://oglobo.globo.com/cultura/noticia/2025/08/30/por-que-o-brasil-e-o-pais-do-meme-exposicao-em-sp-e-projeto-de-pesquisa-refletem-sobre-a-pratica.ghtml
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://oglobo.globo.com/cultura/noticia/2025/08/30/por-que-o-brasil-e-o-pais-do-meme-exposicao-em-sp-e-projeto-de-pesquisa-refletem-sobre-a-pratica.ghtml" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

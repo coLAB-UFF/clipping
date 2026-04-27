@@ -5,8 +5,9 @@ summary: Matéria sobre exposição no CCBB
 client: Correio Braziliense
 tools: Nahima Maciel
 date: 2025-12-02
-image: 'images/posts/clipping00319.png'
+image: 'images/projects/clipping00319.png'
 link: https://www.correiobraziliense.com.br/diversao-e-arte/2025/12/7302717-memetizacao-brasileira-invade-as-artes-e-ganha-exposicao-no-ccbb.html
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www.correiobraziliense.com.br/diversao-e-arte/2025/12/7302717-memetizacao-brasileira-invade-as-artes-e-ganha-exposicao-no-ccbb.html" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

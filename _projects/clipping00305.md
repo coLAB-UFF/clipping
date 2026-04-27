@@ -5,8 +5,9 @@ summary: Matéria sobre mudanças na política da Meta
 client: Folha de S. Paulo
 tools: Renata Galf
 date: 2025-01-11
-image: 'images/posts/clipping00305.png'
+image: 'images/projects/clipping00305.png'
 link: https://www1.folha.uol.com.br/poder/2025/01/dimensao-do-impacto-de-mudancas-da-meta-em-cenario-eleitoral-e-incerto.shtml?pwgt=kvb82dzixwlxmmj6wwtutlapfr99r6digvfvz4qqlwrxs4ci
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://www1.folha.uol.com.br/poder/2025/01/dimensao-do-impacto-de-mudancas-da-meta-em-cenario-eleitoral-e-incerto.shtml?pwgt=kvb82dzixwlxmmj6wwtutlapfr99r6digvfvz4qqlwrxs4ci" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
