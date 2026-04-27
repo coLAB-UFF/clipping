@@ -7,7 +7,7 @@ country:
 tools: 
 date: Correio Braziliense
 tags: 
-image: ''
+image: 'images/projects/clipping00320.png'
 link: Wed Feb 25 2026 00:00:00 GMT-0300 (Brasilia Standard Time)
 ---
 
