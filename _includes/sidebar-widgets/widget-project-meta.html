@@ -21,6 +21,10 @@
     <time class="project-meta__text" datetime="{{ page.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%d %-B, %Y" %}{{ page.date | date: date_format }}</time>
   </div>
   {% endif %}
+  {% if page.tags and page.tags != "" %}
+  <div class="project-meta__item">
+    <h3 class="project-meta__name">Tags</h3>
+    <div class="project-meta__text">{{ page.tags }}</div>
+  </div>
+  {% endif %}
 </div>
-
-{% if page.tags and page.tags != "" %}<div class="project-meta__item"><div class="project-meta__name">Tags</div><div class="project-meta__text">{{ page.tags }}</div></div>{% endif %}
