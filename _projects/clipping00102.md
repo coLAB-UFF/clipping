@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: MidCast
 tools: 
 date: 2018-03-08
-image: 'images/posts/7-1-1y306g3s22b2s52i8q5ywithbb04i11mrfhkjlh425ic.png'
+image: 'images/projects/clipping00102.png'
 link: http://www.midcast.com.br/
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://www.midcast.com.br/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

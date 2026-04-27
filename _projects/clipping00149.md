@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: R7
 tools: Pablo Marques
 date: 2019-06-13
-image: 'images/posts/55-1-1y307eru7grva4n9d6dg7hijchy4z1dph0ew513hjrs4.png'
+image: 'images/projects/clipping00149.png'
 link: https://estudio.r7.com/edicoes/memes-sa-por-que-o-brasileiro-e-tao-bom-em-fazer-rir-13062019
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://estudio.r7.com/edicoes/memes-sa-por-que-o-brasileiro-e-tao-bom-em-fazer-rir-13062019" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

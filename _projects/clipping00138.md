@@ -5,8 +5,9 @@ summary: Matéria sobre discursos de ódio na web
 client: The Incercept Brasil
 tools: 
 date: 2019-03-14
-image: 'images/posts/44-1-1y30762io6nydamkhby0kedlp5idafltm1c3me7241us.png'
+image: 'images/projects/clipping00138.png'
 link: https://theintercept.com/2019/03/14/massacre-suzano-imprensa/
+tags:
 ---
 
 O PAÍS AINDA tentava entender o que havia acontecido na escola Raul Brasil, em Suzano, na região metropolitana de São Paulo, e os chans brasileiros já comemoravam o atentado que deixou dez mortos – incluindo os dois assassinos. “Eles não eram daqui, não?”, perguntou um usuário às 11h28 no mais infame desses fóruns anônimos. O ataque havia ocorrido menos de duas horas antes.

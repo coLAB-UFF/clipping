@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: Lunetas
 tools: Camilla Hoshino
 date: 2018-12-17
-image: 'images/posts/36-1-1y3070rwyctdg4d5ccxmjurp891kqyrcxhsp9uv4pzl0.png'
+image: 'images/projects/clipping00130.png'
 link: https://lunetas.com.br/memes/
+tags:
 ---
 
 Há quem diga que o Brasil nunca mais foi o mesmo depois dos memes. Debates eleitorais, jogos da Copa do Mundo, manifestações de rua, a vida das celebridades e, se bobear, até sua ceia de natal: todo acontecimento é um meme em potencial. Na economia da velocidade, alguns apostam no humor, outros no engajamento político e tem gente investindo alto na mentira também.

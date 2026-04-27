@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: Globosat / Gente
 tools: 
 date: 2019-06-01
-image: 'images/posts/53-1-1y307bq6dbfp5u50nmq1qem7kizthfcy4dc45phc59pg.png'
+image: 'images/projects/clipping00147.png'
 link: http://gente.globosat.com.br/in-meme-we-trust/
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://gente.globosat.com.br/in-meme-we-trust/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

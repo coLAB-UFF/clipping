@@ -5,8 +5,9 @@ summary: Matéria sobre discursos de ódio na web
 client: La Opinión (Colômbia)
 tools: 
 date: 2019-03-23
-image: 'images/posts/37-1-1y30717kxipyw5v6l5gec0bqwtgrj71r4fy8p6t5hrvo.png'
+image: 'images/projects/clipping00131.png'
 link: https://www.laopinion.com.co/mundo/foros-de-odio-en-internet-ganan-notoriedad-tras-matanza-en-una-escuela-de-brasil#OP
+tags:
 ---
 
 Una secta virtual de hombres misóginos, racistas y homofóbicos de Brasil que desde hace años incita a la violencia ganó notoriedad tras la matanza este mes en un colegio de Suzano (sudeste).

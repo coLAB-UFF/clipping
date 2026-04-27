@@ -5,8 +5,9 @@ summary: Matéria sobre campanhas políticas
 client: Nexo / Politiquês
 tools: Conrado Corsalette
 date: 2018-08-12
-image: 'images/posts/18-1-1y306nkpnpomxiu3lns7tu7m71kuync2epso0sj5b59g.png'
+image: 'images/projects/clipping00113.png'
 link: https://www.nexojornal.com.br/podcast/2018/08/12/Jingles-eleitorais-da-era-do-r%C3%A1dio-%C3%A0-campanha-digital
+tags:
 ---
 
 Nesta edição, o “Politiquês” conta a história dos jingles eleitorais no Brasil, relembra alguns clássicos do gênero e discute seu papel nos novos tempos, a partir de entrevistas comLuciana Panke, professora de pós-graduação em Comunicação da Universidade Federal do Paraná,Viktor Chagas, professor e pesquisador do Programa de Pós-Graduação em Comunicação da Universidade Federal Fluminense, eCarlos Manhanelli, presidente da Associação Brasileira dos Consultores Políticos.

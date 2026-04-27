@@ -5,8 +5,9 @@ summary: Mesa redonda sobre internet e eleições
 client: INCT.dd
 tools: 
 date: 2018-07-01
-image: 'images/posts/17-1-1y306n7noerh25l2kc0kodkwskk7b4fekxc1u0ksnzok.png'
+image: 'images/projects/clipping00112.png'
 link: http://www.inctdd.org/podcast-politica-em-rede/
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="http://www.inctdd.org/podcast-politica-em-rede/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

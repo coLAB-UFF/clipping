@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: El País
 tools: 
 date: 2018-07-15
-image: 'images/posts/15-1-1y306lwnqx1oq12ytyg9bwwrqvamyfk802vfk0qqcmsk.png'
+image: 'images/projects/clipping00110.png'
 link: https://brasil.elpais.com/brasil/2018/07/13/deportes/1531506906_859443.html
+tags:
 ---
 
 A Copa do Mundo Rússia 2018 acabou. Para os amantes do futebol, foram 30 dias de sofrimento, esperança e emoção. E mesmo que a seleção brasileira não tenha chegado tão longe, isso não diminuiu o potencial criador da torcida. Sem alarde, censura e investimentos exuberantes, um campeonato paralelo movimentou apaixonados e até mesmo aqueles que torcem o nariz para a bola: o Mundial informal de memes. Em todos os países, criativos (profissionais ou amadores) da internet investiram seu tempo criando peças ontológicas que vão durar tanto quanto a nossa lembrança permitir e quem sabe ganhar um espaço no projeto #Museudememes, da Universidade Federal Fluminense. O EL PAÍS resolveu colaborar com esse importante acervo histórico. Elencamos as dez maiores peças dessa arte contemporânea que merecem levar a taça na Copa dos memes.

@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: Folha de S. Paulo
 tools: 
 date: 2018-05-21
-image: 'images/posts/9-1-1y306i29yavrabtnuaifx7tovuwh12cemp6hyl87j6uc.png'
+image: 'images/projects/clipping00104.png'
 link: https://novoemfolha.blogfolha.uol.com.br/2018/05/21/seminario-discute-relacoes-entre-memes-politica-e-cultura/
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://novoemfolha.blogfolha.uol.com.br/2018/05/21/seminario-discute-relacoes-entre-memes-politica-e-cultura/" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>

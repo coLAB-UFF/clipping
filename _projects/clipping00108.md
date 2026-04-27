@@ -5,8 +5,9 @@ summary: Matéria sobre memes
 client: O Tempo
 tools: 
 date: 2018-06-19
-image: 'images/posts/13-1-1y306kj1tkcgt8buw44tcrbaf2mjh1bb22pw1gwzwn6s.png'
+image: 'images/projects/clipping00108.png'
 link: https://www.otempo.com.br/sports/copa-2018/albergue-russo-com-hospedes-de-belo-horizonte-pega-fogo-1.1858715
+tags:
 ---
 
 Um albergue, localizado em São Petersburgo, na Rússia, que recebe hóspedes brasileiros, que acompanham a Copa do Mundo, pegou fogo nesta terça-feira.

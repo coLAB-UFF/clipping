@@ -5,8 +5,9 @@ summary: Matéria sobre WhatsApp e eleições
 client: O Globo
 tools: Pedro Capetti
 date: 2019-05-19
-image: 'images/posts/51-1-1y307an0feo7jqdxjnf4a0q3d3xuiumymzy9ldma7sys.png'
+image: 'images/projects/clipping00145.png'
 link: https://oglobo.globo.com/brasil/decisivos-na-campanha-grupos-bolsonaristas-no-whatsapp-agora-atuam-para-desfazer-crises-23676755
+tags:
 ---
 
 <div class="post__share"><ul class="share__list list-reset">ACESSE A NOTÍCIA COMPLETA<li class="share__item" style="margin-left: 10px"><a class="share__link share__facebook" style="background: #fa5657" href="https://oglobo.globo.com/brasil/decisivos-na-campanha-grupos-bolsonaristas-no-whatsapp-agora-atuam-para-desfazer-crises-23676755" title="Link" rel="nofollow"><i class="fa-solid fa-link"></i></a></li></ul></div>
