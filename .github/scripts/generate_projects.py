@@ -94,6 +94,7 @@ def build_md(row: dict) -> str:
     categoria = row.get('categoria', '').strip()
     descricao = row.get('descricao', '').strip()
     fonte     = row.get('fonte', '').strip()
+    pais      = row.get('pais', '').strip()
     autor     = row.get('autor', '').strip()
     data      = row.get('data', '').strip()
     imagem    = row.get('imagem', '').strip()
@@ -107,11 +108,12 @@ def build_md(row: dict) -> str:
         f'subtitle: {yaml_scalar(categoria)}',
         f'summary: {yaml_scalar(descricao)}',
         f'client: {yaml_scalar(fonte)}',
+        f'country: {yaml_scalar(pais)}',
         f'tools: {yaml_scalar(autor)}',
         f'date: {data}',
+        f'tags: {yaml_scalar(tags)}',
         f'image: {image_yaml(imagem)}',
         f'link: {yaml_scalar(link)}',
-        f'tags: {yaml_scalar(tags)}',
         '---',
         '',
     ]
